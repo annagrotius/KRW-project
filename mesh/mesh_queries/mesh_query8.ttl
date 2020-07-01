@@ -1,0 +1,1655 @@
+<http://id.nlm.nih.gov/mesh/M0243391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LumenHance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S8"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia avium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal protein P0, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camel thorn distillate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secretory IgM"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S23, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S33"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurologic Manifestations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Contraceptive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulins, Fd"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "microbial serine proteinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epitopes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356852>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L40A, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia, Catatonic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal PO protein, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal Dementia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chlamydial exoglycolipid antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0387272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cia5 protein, Chlamydomonas reinhardtii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliaside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371258>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hematopoietic death receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S1, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydiaceae Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acid Binding Immunoglobulin-like Lectins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIA2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein AT-L30, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis With Isolated C3 Deposits And Factor I Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229262>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic protein, urate-calcium oxalate stone, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0378773>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spatial protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliatannin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Absorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladoacetal A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein YL24"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia pecorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secretory carrier membrane protein 2, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporide D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S15a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Memory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIA07 adjuvant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "maturation-inducing steroid receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ciamexon"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic amino acid transporter 4, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cationorm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Breeding"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellioside E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurologic Disease, Infantile Multisystem, with Osseous Fragility"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Dental Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L35, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colonization factor antigen II receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliagenin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cations, Monovalent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L8, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelimonas lactis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion body myopathy autosomal recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6 kinase, 70kD, polypeptide 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion Bodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, DNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbial Interactions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladospolide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladieunicellin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Smears"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "americanin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Behavior"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia abortus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAO2B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal RNA apurinic site specific lyase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hematopoietic Stem Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sialic acid O-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019812>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion Body Myopathy 3, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secretory granule proteoglycan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia, Childhood"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Samoa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Diarrhea, Myopathy, and Deafness"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccine Excipients"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Marker"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydiales"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cianopramine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal P3 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091766>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0415756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L12, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladoacetal B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia ibidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein 29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein SS1, Streptomyces aureofaciens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acid Binding Ig-like Lectin 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Learning"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia gallinacea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hematopoietic Stem Cell Transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "maturation protein, Enterobacterio phage MS2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Heart Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vaccineurin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Virosome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597282>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein P1B, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Substrate Specificity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S9"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelimonas fluminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion body myopathy, autosomal dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epitopes, T-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cationic Amino Acid Transporter 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Invasive Fungal Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Protein S6 Kinases, 90-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladospolide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Protein S6 Kinases, 70-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0411843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hematopoietic cell E- and L-selectin ligand, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S30"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Protein L10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellisin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic staphylococcal protein, 70-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acid Binding Ig-like Lectin 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6 kinase, 70kD, polypeptide 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins, Intravenous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Douching"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S20"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lumen thiol oxidoreductase 1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Shapiro syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladieunicellin K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cladocera"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Shape Memory Alloys"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L10, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein P0"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L18a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia, Disorganized"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S27a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein rpl26, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein YL6, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladionol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cia25 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAO1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein RPL23A-1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein HL46e, Haloarcula marismortui"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal neutral proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladiellin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydial Pneumonia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intracellular Fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliol C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladospirone bisepoxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladielloide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladocoran A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intracellular Signaling Peptides and Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellioferin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ciapin1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255644>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein HS26, Haloarcula marismortui"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hematopoietic lineage cell-specific protein 1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein 51"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccine Potency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Navigation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia felis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Civil War"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein HmaL5, Haloarcula marismortui"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S4e, Gossypium hirsutum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0388957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic peptide, CL22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S40"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Vesicles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Component Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Hospital Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L34"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "americanin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Substrate Cycling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L23, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliaside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelimonas abortus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inducible T-Cell Co-Stimulator Ligand"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAPIN1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epitopes, B-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cationic Amino Acid Transporter 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Leukocyte Peptidase Inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cianergoline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040628>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladobotrin V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Invasive Pulmonary Aspergillosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellisin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic amphipathic peptide KT2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hematopoietic Cell Growth Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L7-L12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0064797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal phosphoprotein P1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L2, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CAMELEON protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladieunicellin L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Numbers Needed To Treat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Invasive Pneumococcal Disease, Recurrent Isolated, 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory breast carcinoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hematopoietic System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationite KMT"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cation Exchange Resins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cia1p protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Acellular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518030>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S20, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L30"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "maturation-promoting factor precursor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladoniamide G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia, Paranoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acid Storage Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis With Isolated C3 Deposits And Factor H Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0558589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurological Rehabilitation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic colloidal gold"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hematopoietic stem cell-chemotactic factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019591>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Component"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis, Membranoproliferative"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intracellular Membranes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia Spectrum and Other Psychotic Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladielloide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins, Thyroid-Stimulating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbial Collagenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporilactam A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein HS23, Haloarcula marismortui"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574082>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladieunicellin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0410512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladonioidesin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hematopoietic Stem Cell Mobilization"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis, IGA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S16"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladieunicellin J"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Virus-Like Particle"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia caviae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Speech-Language-Hearing Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S21"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L19, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intracellular Calcium-Sensing Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Birth after Cesarean"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "desmethylicaritin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellianin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurologic Examination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maturation-Promoting Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0380835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cation Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Medical Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia muridarum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelysin, Bacillus cereus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sialic Acid Binding Ig-like Lectin 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbial Consortia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelids, New World"@en .
+
+<http://id.nlm.nih.gov/mesh/M000621582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein RL44, Gossypium hirsutum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAO3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliatannin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein 14.22"@en .
+
+<http://id.nlm.nih.gov/mesh/M000604890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladoxanthone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L24"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliaside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128591>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S20-L26"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379054>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein RPL15, Tortula ruralis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vagina, absence of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellisin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic antimicrobial protein 57, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Synthetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S80"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SHAP1 peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic amphipathic peptide RT2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cameleon YC6.1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0354069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sialic acid transport proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L39"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transfection"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal proteins L27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S31, Dictyostelium discoideum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic amino acid transporter 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L25"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Public Health Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "substrate adhesion molecules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cialit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0200826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "americanol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0235184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CiaR protein, Streptococcus pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelidae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Protein S6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAPIN1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sclerosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L40, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "differentially regulated trout protein 1, Salvelinus fontinalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CiaB protein, Campylobacter jejuni"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cladosporium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485853>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladocalo"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis, Membranous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Native Continental Ancestry Group"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Invasive Pneumococcal Disease, Recurrent Isolated, 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "microbial aspartic proteinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladospolide D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliatannin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein BL16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cia1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Attenuated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein A0"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S3a, insect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cladribine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "microbial metalloproteinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hematopoietic progenitor kinase 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Processing"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia buteonis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic red GTL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schizophrenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secretory component receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellianin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L27a, Trypanosoma brucei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sialic acid specific agglutinin protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic antimicrobial protein CAP 37, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Recovery and Reinvestment Act"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Nurses' Association"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cameleon 2.1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "americanin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladinose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Discharge"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia trachomatis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIAO2A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6 kinase 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L33, archaea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6 kinase, 90kDa, polypeptide 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intracellular Space"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladribine monophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Creams, Foams, and Jellies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inducible T-Cell Co-Stimulator Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydiaceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000621583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporol B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladribine triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glomerulonephritis sparse hair telangiectases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "microbial alkaline proteinase inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbial Viability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelliatannin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inclusion Bodies, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000672457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydia suis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0381850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camellia sinensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosporide C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camellia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S18"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Inactivated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camelysin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cation-dependent mannose-6-phosphate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic amino acid transporter 3, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellioside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mauritianin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L31"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "camellioside F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Cancer Society"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American Revolution"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladoloside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cations, Divalent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244126>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sialic acid receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L23A, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S6 (231-240)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L5, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Camelliibacillus cellulosilyticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vagina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Differential Thermal Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cationic isoperoxidase PC3"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladosin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Combined"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribosomal Protein S6 Kinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Edible"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein 49"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladiell-11-ene-3,6,7-triol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccine-Preventable Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbial Sensitivity Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L4, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Secretory Rate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Differential Threshold"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein S22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cladospolide C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colonization factor antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccines, Live, Unattenuated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaginal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein YL43"@en .
+
+<http://id.nlm.nih.gov/mesh/M000604179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spatial Regression"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribosomal protein L36, zebrafish"@en .

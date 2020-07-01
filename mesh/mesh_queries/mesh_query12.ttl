@@ -1,0 +1,2699 @@
+<http://id.nlm.nih.gov/mesh/M0253178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 13, Equid herpesvirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus disulfidooxidans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide pyrophosphokinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0378118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hydrophobic ligand binding protein, Hymenolepis diminuta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, bovine herpesvirus type 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliifodinibius halophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 52 antigen, Mouse mammary tumor virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotides, Cyclic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiarcobacter faecis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-malyl-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin complexone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein e, Equid herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, Suid Herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp1, lassa virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D-herpes simplex virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein CX 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ile(5)-MePro(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164152>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-4'-aminophenylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 75, Thogoto virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes timonensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein J, herpesvirus simiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, N-alpha-(N-fluoresceinthiocarbamoyl)-Asp(1)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp55, Friend spleen focus-forming virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Traction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, cyclo(Sar(1)-Cys(3)-Mpt(5))-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchoalveolar Lavage Fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 6b, coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Simian varicella virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALiS-3 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus aeris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Collectins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, Human herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250097>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 41"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio sifiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus herbarius"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine Kinase 2 Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin 1-methyl ether"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (3-7), Phe(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, des-Leu(10)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiglaciecola coringensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0354066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Equid herpesvirus 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein N, Human cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, des-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliterella antarctica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G (312-323), rabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II degradation factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon triethanolamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0389844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein p43, Pisum sativum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicone Oils"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386704>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea Virus 1, Bovine Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Val(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN2006"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Car(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarine yellow G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisman PII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide bis(2-aminoethylphosphono)pentaoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (1-5)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, Sar(1)-Ile(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina maris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primitive Streak"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp60, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine ester hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALIX protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma 180"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin, 2-nitro-5-azidobenzoyl-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella agri"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Cocal virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Empyema, Subdural"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I (1-9)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Aib(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-Sar-7-nipecotic acid-8-Ile-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide heptassaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein-2, pancreas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchoalveolar Lavage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, border disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP138"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alisma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1)-Val(5)-N-Me-Ala(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, Human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GVP-11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin yellow GG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea 4, Malabsorptive, Congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G1, Hantavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 5, PRRSV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Canid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliagarivorans marinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp3, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone polyethylene glycol copolymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alizarin Red S"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus pomorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Arg(10)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea Viruses, Bovine Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Atherosclerosis, Premature, with Deafness, Nephropathy, Diabetes Mellitus, Photomyoclonus, and Degenerative Neurologic Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein K, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Empyema, Pleural"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiroseovarius crassostreae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alirinomycin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisiaquinone C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein F, turkey rhinotracheitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alien protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Pneumonia virus of mice"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alike dental resin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, Ile(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 45-kDa, Trichinella"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina soli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alirin B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0235479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 135, Maedi visna virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, herpesvirus 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes inops"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon-30"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide N-((2S,3R,4E,6E)-1,3-dihydroxyhenicosa-4,6-dien-2-yl)tridecanamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alinidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine Phenol-Lyase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicomolybdate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 8, bacteriophage T4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin Receptor Antagonists"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma family syndrome of Li and Fraumeni"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon monoxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide pentasaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea 5, With Tufting Enteropathy, Congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina taiwanensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Phe(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine sulfate sulfohydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alismol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine lauryl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Proteome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella tabrizica"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627829>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon-29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II-producing serum enzyme III"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus tolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin-7, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cadherins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliishimia ponticola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EaeB protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0353048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol B monoacetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I degrading enzyme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Feline herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp70, Mason-Pfizer monkey virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-4'-dimethylaminophenylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes senegalensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aligeron"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G (29-41), rabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 138, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein IIIa-derived peptide (217-231)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide cholinephosphotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Canid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Cys(1,8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus acidocaldarius subsp. rittmannii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 105, Human herpesvirus 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0288543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon titanium dioxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus ferrooxydans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide pyrophosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliifodinibius sediminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Cys(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-lysine-tyrosine pseudotripeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, herpesvirus 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0427922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alice in Wonderland Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein FP21, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio salmonicida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone-fluorosilicone copolymer oil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ile(5)-Gly(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp2, lassa virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotide Motifs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine hydroxylase (2-16) peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, pseudorabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Clear Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1,7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP 68"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide mono(2-aminoethylphosphono)pentaoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus cycloheptanicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN ID35"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, des-Asp(1)-Me-Tyr(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina haloalkalitolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Phe(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1)-(S-Me)Cys(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gD, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP51"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alisedimentitalea scapharcae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Ewing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (1-6)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus macrosporangiidus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin 15, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin 19, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide glycanase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein IV, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 71, Friend murine leukemia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycoprotein 6-alpha-L-fucosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0414194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aliskiren"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191876>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Val(5)-Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemotherapy-Induced Febrile Neutropenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hydrophobic protein, Transmissible gastroenteritis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gG-1, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-ester sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Gly(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aliflurane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein A, Penicillium 8D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotide Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide-1-phosphate phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Rabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 18, bacteriophage T4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycoprotein IA Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide pyrophosphatase - phosphodiesterase I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide phosphotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511673>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alismoxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine polyphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea, Infantile"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliikangiella marina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0437691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, human herpesvirus 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Gallid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin IV, des-Phe(6)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina sedimenti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin-9, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Human herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicone Gels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Gallid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes ihumii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella jeotgali"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon-32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gF, herpes simplex virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 340"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein M, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide pyrophosphate transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, murine gammaherpesvirus 68"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin II Type 2 Receptor Blockers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp70, Feline leukemia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0235122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide trihexoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Endometrial Stromal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein peptide, Lymphocytic choriomeningitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella longhuensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alizarin Brilliant Blue BS"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus shizuokensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Felis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiroseovarius sediminilitoris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisiaquinol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine 2,3-aminomutase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydrophobic and Hydrophilic Interactions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ala(7)-N-Me-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemotherapy, Cancer, Regional Perfusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gCIII, Cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes onderdonkii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon Dioxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosinemias"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, Suid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alifedrine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus acidocaldarius"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gHgL, Varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide glucosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine Transaminase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone resin KS66"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aliin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein K, infectious laryngotracheitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus fastidiosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein endo-alpha-1,3-mannosidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma Viruses, Murine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Equid herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliifodinibius roseus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gH, pseudorabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, bovine herpesvirus 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-4-azido-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine dehalogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone A-102"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea 3, Secretory Sodium, Congenital, Syndromic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0427924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol C 23-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alitame"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp70, simian retrovirus-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon napthalocyanine bis(trihexylsilyloxide)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiarcobacter hispanicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, Felid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cadherin Related Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Me-Thr(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, herpes simplex virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Suid Herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP82, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prevalence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gC, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine receptor kinase A Ig2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tacedinaline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mps3 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Avian"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Children's Health Insurance Program"@en .
+
+<http://id.nlm.nih.gov/mesh/M0389009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "modification methylase BseMII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, Simian varicella virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus cellulosilyticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisolide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol F 24-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN JG244"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiarcobacter vitoriensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine protein kinase IIB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein S, equine arteritis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Experimental"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio thorii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon tetrachloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus hesperidum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I (Phe 8-His 9) hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Empyema, Tuberculous"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiglaciecola lipolytica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide aminoethylphosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliterella atlantica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin converting enzyme secretase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256897>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein N, Pseudorabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ala(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPSP-001"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon nitride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AliB protein, Streptococcus pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin violet"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, cyclo(Sar(1)-HCys(3)-Mpt(5))-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Pro(11)-Ala(12)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, human herpesvirus 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Asn(1)-Val(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, bovine herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine peroxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide 3'-pyrophosphokinase-2',3'-cyclic monophosphokinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicophosphate cement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Lys(2)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, dengue virus type 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Equid herpesvirus 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Synovial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina minuta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Phe(4)-Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein A, herpesvirus of turkey"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Asp(1)-Val(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPS1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella alkalitolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicone Elastomers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ala(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPS-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-Sar-7-Sar-8-Ile-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alismataceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, human herpesvirus-6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycoprotein Storage Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alismaketone-C 23-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide peptide, Anabaena variabilis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin converting enzyme 3, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensinogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Asn(1)-Val(5)-Gly(9)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein peptide, SGVENPGGYCL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sarcoma-associated antigen S1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliagarivorans taiwanensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide 1-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein BCA 225"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea prodrome + Hemolytic-Uremic Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus sacchari"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALIN protein, recombinant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisiaquinone B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiroseovarius halocynthiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000621192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin-(1-12), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524152>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Simplexvirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ala(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon tetrafluoride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, herpes simplex virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon tribenzonaphthoporphyrazate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Phocid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein receptor GPIb-IX"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0353066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide-beta-glucuronic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, iodo-(Sar(1)-Ile(8))-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine phosphatase inhibitor-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein I, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein N-palmitoyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine 3-Monooxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea, Glucose-Stimulated Secretory, with Common Variable Immunodeficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Car(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine radical"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN A151"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, Hepatitis C virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, (beta-(4-pyridyl-1-oxide)-Ala(4))-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587581>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide synthase 3, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide digalactoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 130, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Val(5)-Ala(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide N-methylaminoethylphosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 3b, coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein O, Human respiratory syncytial virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidongia dinghuensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine phosphate hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp2, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456879>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin II Type 1 Receptor Blockers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, (alpha-Me-Tyr)(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes finegoldii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-O-sulfate-binding protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus vulcanalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Felid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, lymphocytic choriomeningitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio finisterrensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio fischeri"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Me-Tyr(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein hormone-specific N-acetylgalactosamine transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP90, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 300, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0594136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN M362"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486932>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ile(4)-Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 93, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, N-Me-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes shahii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-(4-azidobenzoic acid)-Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Asn(1)-Val(5)-His(9)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, asinine herpesvirus 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sarcoma glycoprotein gp96 rejection antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALiS-6 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus acidoterrestris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gL, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, herpes simplex-virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E1, Sindbis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicocarnotite"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Atherosclerosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio logei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide dihexoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Kaposi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gCII, cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein, Klebsiella pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670395>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus fodiniaquatilis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, His(2)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 3, zymogen granule membrane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-4-azophenyltrimethylammonium chloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicotungstic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiglaciecola aliphaticivorans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (1-8)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol B 23-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotide Deaminases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein I, Equine herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea Virus 2, Bovine Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "beeswax"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein I, Canid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 4-amino-Phe(6)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensinogen (1-14)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp63, Leishmania"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus dauci"@en .
+
+<http://id.nlm.nih.gov/mesh/M000733981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alicapistat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina iranensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein PE2, Sindbis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella aestuarii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma 37"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon carbide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus mali"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-repressible transaminase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine kinase interacting protein, Saimiriine herpesvirus 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, 4-Val-7-Trp-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemotherapy, Adjuvant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alitretinoin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-naphthylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensinogen gene-inducible enhancer-protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, N-(1-octanoyl)-Ile(5)-Leu(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, Japanese encephalitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein V, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin converting enzyme 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153592>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon fluoride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, herpesvirus simiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Thr(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-hydroxy-Pro(7)-N-Me-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein peptide 33-41, Lymphocytic choriomeningitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP37"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus montanus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, herpesvirus 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliinostoc morphoplasticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0594213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alistonitrine A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina shirensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma Virus, Woolly Monkey"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-rich amelogenin polypeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, human herpesvirus 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, des-Asp(1)-des-Arg(2)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone A-2186"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ODN MT01"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes indistinctus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicone Q7-4750"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, 1-desarginine-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon-31"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin-producing serum enzyme II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp70, murine serum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine-tRNA Ligase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide phosphoethanolamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bees"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin-II, Sar-Arg-Val-Tyr-Val-His-Pro-(2',3',4',5',6'-pentabromo)-Phe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Equid herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, GB virus C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0307170>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alinastine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, equine encephalitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisamycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1)-Ile(5)-alpha-Me-Ala(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Alveolar Soft Part"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, human herpesvirus 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin-related carboxypeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ala(7)-N-Me-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "silicon phthalocyanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328054>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Australian Capital Territory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, equine arteritis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella solinquinati"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALIX protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus tengchongensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aliphatic nitrilase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ser(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-malyl-Leu(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiroseovarius zhejiangensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-Sar-7-N-methyl-Ala-8-Ile-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Yoshida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein EO, classical swine fever virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Human cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 48, bovine viral diarrhea virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin pentapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, des-Asp(1)-(N(2)-(3-carboxy-1-oxypropyl)-Arg)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Val(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes putredinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein EDC1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensinogen (6-13)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-S-Me-Cys(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-hydantoic acid-Val(5)-Ala(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mps1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus acidocaldarius subsp. acidocaldarius"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alismatales"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizapride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon Compounds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alicaforsen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eaeA protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-N-Me-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-N(4)-dimethyl-Asp-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide monohexoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tractin protein, Hirudo medicinalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus ferripilum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MpsA protein, Magnetospirillum sp."@en .
+
+<http://id.nlm.nih.gov/mesh/M0562445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, human herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin Amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliifodinibius salicampi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, beta-Pro(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0427923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisol A 24-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, herpes simplex virus type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleotide Mapping"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mps1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma Viruses, Feline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0047335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine O-sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicotuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycoproteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G, Equid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 40 antigen, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide 1-phosphate receptor, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Val(5)-Trp(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, Flavivirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-tubulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, N,N-dimethyl-Gly(1)-Ile(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPS2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Small Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ceramide tetracontasaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1,7)-Val(5)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus contaminans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein phospholipase D"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliicoccus persicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliivibrio wodanis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus kakegawensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Empyema"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiglaciecola litoralis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0558052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0051971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Leu(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein G2, Hantavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018662>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Recurrence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-Ile(5)-(4-azido)Phe(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alizarin yellow R"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein M, human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein GP III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, varicella-zoster virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 150-kDa, Solanum nigrum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein D, Marek's disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "beesioside I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nucleotide pyrophosphatase-5, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (2-7)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Follow-Up Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E, Canid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II (3-7)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea, Chronic, with Villous Atrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliihoeflea aestuarii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 35, Hepatitis C virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, des-Asp(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alien Hand Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-Sar-5-Ile-8-Ala-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliidiomarina sanyensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein-3-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gp1, Ectocarpus siliculosus virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alishewanella fetalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycoprotein Hormones, alpha Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPS-III compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicon-34"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin III, 5-Ile-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AliA protein, Streptococcus pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine betaine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, 1-N-Suc-Val(5)-phenyl-Gly(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E1, border disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein L, bovine herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein glycosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma, Myeloid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alismaketone-B 23-acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tyrosine-4-azobenzenearsonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ceramides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin-Converting Enzyme Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensinogen 3-11(Lys(11))"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279434>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 85, avian leukosis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein O, cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicycliphilus denitrificans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisporivir"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alirocumab"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Sar(1)-aza-Val(3)-Ile(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sarcoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus sendaiensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alisiaquinone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aliiroseovarius pelagivivens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, classical swine fever virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, Felid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I, Sar(1)-Ala(7)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562876>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diarrhea 3, Secretory Sodium, Congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein gII, pseudorabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cadherin-related protein 24, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silicosiderosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin I (1-7)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein H, Cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 300-associated protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein 85, Epstein-Barr virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "siliconized nylon"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein O, herpesvirus 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, iodo-Sar(1)-Tdf(8)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alistipes obesi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II amide (1-7), Sar(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein C, Canid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein B, phocid herpesvirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tyrosine Decarboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alicyclobacillus acidiphilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycoprotein E2, Sindbis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "angiotensin II, Ala-Pro-Gly-"@en .

@@ -1,0 +1,1715 @@
+<http://id.nlm.nih.gov/mesh/M0189867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary plasminogen activator alpha 1, Desmodus rotundus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma genitalium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ses i 7 allergen, Sesamum inducum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Cystatins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma muris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Use Alternatives"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivaricin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma hyosynoviae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Decongestants"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma spermatophilum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Communication"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma anatis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamodil"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma edwardii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil immunoglobulin-like receptor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma leonicaptivi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma conjunctivae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Cartilages"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-specific antigen NA2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Gland Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Surface"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric oxide-pegylated epirubicin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Shells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD7"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma oxoniensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Population Groups"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mustelae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, T-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma citelli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Nutrition Sciences"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil cytosolic factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gypis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stimulants, Historical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Ducts"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Zoo"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Proteins, gag-pol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Elimination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophil Actin Dysfunction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesaminol triglucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sessilifoliamide J"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma suis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon welwitschii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma bovirhinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma fastidiosum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma microti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide Synthase Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Structures"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pneumophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma adleri"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Randomized Controlled Trial"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma columborale"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Polyps"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Proteins and Peptides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0430414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-specific antigen NA3, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric oxide scavenger 100"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma imitans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Distribution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "saliva natura"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Bones, Absence of"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon delicatulus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesquiterpenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Dermatophagoides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Horses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Suckling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Fur"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DCST2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Ly"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma tullyi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma canadense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophil Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma feriruminatoris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil basic proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ebola Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mucosicanis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma simbae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil defensin hNP2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma amphoriforme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Fins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma cynos"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sessiline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma leachii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Migration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Gland Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Regulatory Protein-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, T-Independent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590121>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Absorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma ovis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Domestic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma zalophidermidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamolin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesquiterpenoid dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma protein 65-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma ciconiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesB protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma glycophilum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma subdolum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma auris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma salivarium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary protein fragment IB7(14), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma falconis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma marinum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil membrane protein gp32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary protein 14, Ixodes scapularis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000603271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Selective Breeding"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil cytosol factor 67K"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pirum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Testing Alternatives"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Proteins, gag-onc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Lavage Fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophils"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Human Platelet"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma columbinum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Provocation Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Saliva"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma iguanae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma phocirhinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Care Committees"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma fermentans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glycosylation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma columbinasale"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon baronii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma hyopharyngis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Horseshoe Crabs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0200998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mycoplasma removal agent"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma todarodis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "seselin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma californicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma agalactiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Untranslated Regions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-specific antigen SH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophil Infiltration"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma felis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Genetically Modified"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma monodon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary peptide P-C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide Synthase Type III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fixation, Ocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sespendole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD1d"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pullorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Feed"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma alvi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Assisted Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma crocodyli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole Q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion (silane derivative)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma lagogenitalium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma dispar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Glands"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma opalescens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Alar Collapse, Bilateral"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma zalophi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric-oxide reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma cavipharyngis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mycoides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SeSAME syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivain"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gateae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary alpha-Amylases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Tumor-Associated, Carbohydrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sestrin 1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesaminol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma sualvi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Proline-Rich Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophil Chemotactic Response, Abnormal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma arginini"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma synoviae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nutrients"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma equirhinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Gland Adenoma, Pleomorphic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma maculosum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Gland Calculi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sestd1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "seselinonol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide Donors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Culling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Septum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Saliva, Artificial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma phocidae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Experimentation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Obstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, B-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013121>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maternal-Fetal Exchange"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sescandelin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma collis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon arboreus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma hominis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379771>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Regulatory Protein 1, Heavy Chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesamum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma haemomuris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesquibastadin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LGG-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophil Immunodeficiency Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesteralterin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000641444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesn protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma timone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0388433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN1 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma buteonis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma arthritidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pulmonis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LGG-2 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma feliminutum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ses i 1 allergen, Sesamum indicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma hyopneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesquiterpenes, Eudesmane"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma molare"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesbania"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric oxide dioxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma primatum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Husbandry"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma alligatoris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dcs2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Technicians"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Proteins, bcr-abl"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma cricetuli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Bone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fusion Regulatory Protein 1, Light Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma iowae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesaminone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma insons"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gallisepticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001448>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Glands, Minor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma neurolyticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phenotype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD20"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma yeatsii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole J"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Angiotensin-Converting Enzyme Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma caviae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gallopavonis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Rights"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Lavage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasmataceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Congenic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dcs-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma sturni"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma aquilae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesn1 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil peptide 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma equigenitalium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma pneumoniae receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fusion protein, human parainfluenza virus type 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide Synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma spumans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma lipophilum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma anserisalpingitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil cytosol factor 40K"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma enhydrae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neutrophilia, Hereditary"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma lipofaciens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma bovis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207592>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesbanimide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma orale"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide Synthase Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Duct Calculi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sestrin 2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma phocicerebrale"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Welfare"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesterstatin 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesquicillin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma penetrans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mycoides subsp. mycoides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric acid reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesn3 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DCSTAMP protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma coccoides"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesbagrandiflorain B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0288387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalosin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma haemofelis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Calculi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary gland protein 29 kDa, Haemaphysalis longicornis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil migration inhibitory factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma testudinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesbanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Proteins, Dietary"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma buccale"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma bovigenitalium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESTD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma felifaucium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary adhesion-promoting protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Randomized Controlled Trial, Veterinary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesquiterpenes, Germacrane"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mobile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "seselinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-specific antigen NA1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-activating peptide 2 receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, Myelomonocytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Polyomavirus Transforming"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Identification Systems"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma preputii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0353008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Outbred Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma alkalescens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil differentiation antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD19"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon stuhlmannii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma cottewii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DCS1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Cavity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma meleagridis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nitric-oxide reductase (P450)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662516>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma iners"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Surgical Procedures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Viral, Tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma neophronis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Laboratory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antisense Elements (Genetics)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon intricatus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019701>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesame Oil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD34"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma wenyonii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma capricolum subsp. capripneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesquicannabigerol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gallinarum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Septal Perforation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "saliva-interacting cell wall protein, Streptococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasmatales"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "seselidiol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivaricin CRL 1328"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sestrin 1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maternal-Fetal Relations"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalemur alaotrensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Randomized Controlled Trials as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil chemotactic factor, Dirofilaria immitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ses i 6 allergen, Sesamum inducum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigens, CD200"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma hyorhinis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Selective Estrogen Receptor Modulators"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma sphenisci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Sprays"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma anseris"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Scales"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary lipocalin protein, Sus scrofa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma elephantis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sessilifoliamide C"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma leopharyngis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nitric Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salivary Gland Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma parvum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma mycoides subsp. capri"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Allografts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesterterpenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dcstamp protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma cloacale"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesbagrandiflorain A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma haemocanis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salivary agglutinin receptor, Streptocococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil gelatinase-associated lipocalin protein, dog"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Wild"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "saliva-binding protein, Streptococcus sanguis 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "saliva Orthana"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DCST1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma testudineum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ebolavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma bovoculi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma faucium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Inbred Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesquiterpenes, Guaiane"@en .
+
+<http://id.nlm.nih.gov/mesh/M000604028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Exotic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole U"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662505>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma moatsii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma arthritidis mitogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal Nutritional Physiological Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hapalindole G"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma agassizii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesbania mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma corogypsi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nasal Mucosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil-activating protein A, Helicobacter pylori"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma indiense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma capricolum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Simulation Training"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DcsA protein, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma nasistruthionis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neutrophil peptide 3, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Newborn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Heterophile"@en .
+
+<http://id.nlm.nih.gov/mesh/M000671481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hapalosiphon hibernicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sesamoid Bones"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma vulturii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma capricolum subsp. capricolum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SES1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma ovipneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662529>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma gallinaceum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Poisonous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sesamolinol diglucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sestrin 2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma verecundum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma canis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasmatales Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SESN3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mycoplasma flocculare"@en .

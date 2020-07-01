@@ -1,0 +1,2207 @@
+<http://id.nlm.nih.gov/mesh/M0531655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal congenital contracture syndrome 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL20"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocryptovirus encoded RNA 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB 739 peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte-specific protein p50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide histidine valine 42"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial malate translocator, Panicum miliaceum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphotoxin-beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-S, Scaptocosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide antagonist AE68"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial acyl-CoA thioesterase I, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide C20W"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precursor Cells, T-Lymphoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial p32 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Dna Depletion Syndrome, Encephalomyopathic Form, With Methylmalonic Aciduria, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 206, Lycopersicon esculentum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide SVYDFFVWL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Chain Initiation, Translational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor-ricin complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD7929"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphostatin protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphoglobuline"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial fission factor, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal bungarotoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor-like protein, S(1-5)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal-onset citrullinemia type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide SC-R8A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0193055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide P (properdin)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide N36"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide P3"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Transmembrane Permeability-Driven Necrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Subsets"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Elongation Factor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD4770"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "humoral leukocyte adherence inhibition factor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 021"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Irradiation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Type A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor (1-45)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ph-d protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial K(ATP) channel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Pseudoobstruction with Patent Ductus Arteriosus and Natal Teeth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Atresia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathy with a Defect in Mitochondrial Protein Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick C1 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide T amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Period"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Ribosomes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoblastic Transformation, Intrinsic Defect in"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal Congenital Contractural Syndrome 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide G, retinal S antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 9M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Intermediate, Protracted Neurovisceral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymph Nodes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "damsin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial uncoupling protein, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide VDIPEN"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Membrane Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide MB-35"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphoprep"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphotoxin beta Receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Sepsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide nucleic acid, T10-lysine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal intestinal pseudoobstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stimulation, Chemical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial matrix protein, 67-kDa, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Nursing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial intermembrane space protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabscessin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide fragment P828"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein S12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Vessel Tumors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY (3-36)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypothalamus, Middle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Nucleic Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide P4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor receptor related protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabaecin-3, Nasonia vitripennis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema of the lower extremities, recurrent pneumonia, bronchiectasis, and yellowed nails"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Plasticity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal Congenital Contracture Syndrome 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial zinc maintenance protein 1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Encephalomyopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027420>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangioma, Cystic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Synthases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab2 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab2 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide p(1-24)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Type C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide E (adrenal medulla)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide F56"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mosquito Control"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide S-8300"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial ADP, ATP Translocases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 74"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide C24W"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, T-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY, iodo-Leu(34)-Pro(34)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nablus mask-like facial syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide F4.2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial magnesium exporter 1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY (22-36), N-alpha-acetyl-Phe(27)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphadenopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 2438"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangioma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Chain Termination, Translational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Obstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Large-Cell, Immunoblastic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocytic thyroid stimulator (non-immunoglobulin)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 187-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mosquito Nets"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012812>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphogranuloma Venereum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor (1-48)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphosarcin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathy with Diabetes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Mapping"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004661>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coated Pits, Cell-Membrane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide II (Aplysia)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal cell death inducible putative kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte cytosolic protein 1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidermal Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphomatoid Granulomatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide C34"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L44, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide M, retinal S antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD2 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ferritin, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Hemorrhage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 206, Oenothera villaricae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide NP-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Humoralism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Large-Cell, Anaplastic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocryptovirus nuclear antigen 3A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Type B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0200214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trypanosome DNA-binding protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide NY-ESO-1 157-165"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492829>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphotoxin alpha1, beta2 Heterotrimer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Persons"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Size"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, B-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 5F"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial-targeted peptide 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Outgrowth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema, Congenital Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192429>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 8A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide ZT-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY (1-36)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Transporter 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Flaviviridae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-Gly-Leu-amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Diseases, Parasitic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Large B-Cell, Diffuse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 946"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Atresia, Multiple"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505054>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precursor Cells, B-Lymphoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coated Materials, Biocompatible"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal pentraxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidermal Nevus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Follicular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabam"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphomyosot"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Fragments"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal hemochromatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal intranuclear inclusion disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial antigen 36 kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Tumor-Infiltrating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Persons With Hearing Impairments"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Specific Protein Tyrosine Kinase p56(lck)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide I (Aplysia)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypothalamus, Posterior"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Phosphate Carrier Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M000638938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Brachial Plexus Palsy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial phosphoprotein, 65-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dracunculiasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027421>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangioleiomyomatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Termination Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal lipophagic granulomatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Culture Test, Mixed"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide NK-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genotype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide Q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide sensitive channel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal fatty acid-binding protein (1-19), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0350366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal protein 17.3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphokine-activated cell-associated antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphoid specific helicase, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Volvulus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Function-Associated Antigen-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-based inhibitor R9LF-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 2J"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Count"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide tyrosine arginine, Rana sevosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte antigen-6 epidermis, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabscessin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nabumetone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide methionine-tyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial DNA Depletion Syndrome, Hepatocerebral Form, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial carrier 1 protein, Anopheles gambiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphohistiocytosis, Hemophagocytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 19, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal Cdk5 activator (p25-p35)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, T-Cell, Cutaneous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoid Interstitial Pneumonia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide S 42"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide A42"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide dendrimer PDL-GB2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphopenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd4 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphostin LK6-A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal alkaline sphingomyelinase, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide deformylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 106"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Elongation Factor G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "brd2a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor receptor-neu receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial oxidative damage endonuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocryptovirus nuclear antigen 3B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY (22-36)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial calcium uniporter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Antigen 96"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabiximols"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide stabilizing factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Apoptosis-Inhibitory Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mosquitocidal toxin SSII-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616137>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide p5 plus 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD 7389"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000677617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nab-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial-targeted peptide 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Library"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoblastic Transformation, Inhibition of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema and Cerebral Arteriovenous Anomaly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 4 kDa, Fagopyrum esculentum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial membrane protein 73"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiectasia, pulmonary, congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphadenitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide TH10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD4-NUT fusion oncogene protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hypothalamus-derived growth factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein, alpha Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide-N4-(N-acetyl-beta-glucosaminyl) Asparagine Amidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572580>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD-8899"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide E-76"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Transfusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphopoiesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema, Hereditary, IB"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD3098"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Hydrolases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal helminthiasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide YY"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Metastasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal herpes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Uncoupling Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Secretions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide C-I-6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0350313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Replacement Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoid Enhancer-Binding Factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ph-DTPA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal stratum corneum cystine-rich membrane protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphoguanylin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Elongation Factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD4592"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema distichiasis syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphopenic Hypergammaglobulinemia, Antibody Deficiency, Autoimmune Hemolytic Anemia, and Glomerulonephritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Tract-Tracers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Primary Effusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Proton-Translocating ATPases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial polynucleotide phosphorylase, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0204902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide tyrosine phenylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide PHI, Phe(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal cell differentiation inhibitor, Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide R1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Abstinence Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal y2 receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Care"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal fatty acid-binding protein (91-107), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocele"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial RNase II, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Cognitive Complications"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial RNA-processing endoribonuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Dynamics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide KPR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal nuclear antigen NeuN, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal fatty acid binding protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial complex I deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD32048"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coated Vesicles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PH-1126"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiomyoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide VF13N"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Perforation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte proliferation potentiating factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 78"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoid Progenitor Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphography"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiosarcoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial amidoxime reducing component 2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "brd-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "China"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial transcription factor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Calcium-Sensor Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor (1-53)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Biosynthesis, Nucleic Acid-Independent"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide dendrimer PDL-G2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Type F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoproliferative Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide pheromone cCF10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal alkaline sphingomyelinase, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide PHI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabilone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiogenesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial D-loop-binding protein, Paracentrotus lividus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial processing peptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocryptovirus nuclear antigen 3C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508288>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRDT protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB741"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide antibiotic lactonase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-R, Scaptocosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor-dextran conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal interleukin-16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Null"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiectasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial import stimulation factor, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Mucosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidermal Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein, beta Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema, Cardiac Septal Defects, And Characteristic Facies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616416>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mosquito Vectors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Extranodal NK-T-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial carboxypeptidase-III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530580>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick disease, type C2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide U6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lethal toxin LT, Clostridium sordellii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide deformylase, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal ovarian cyst"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor (32-48), Cys-SO3H(33,42)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Membranes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD0761"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal protein E1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymph Node Ratio"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Initiation Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide SM-BC3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-chain-release factor 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide T21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0068960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NABP1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidermal Cyst"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide T"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ph-TTHA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0168560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide PHI-(1-27)-glycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157721>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide PVA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial encephalopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphotactin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Turnover"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L51, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532172>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema, microcephaly and chorioretinopathy syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD-glucan, Aureobasidium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565728>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphokine Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0235407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 145, Streptococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal peptide-proton cotransporter"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor receptor pathway substrate 15-like 1, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymph"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymph node revealing solution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema, Hereditary, II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocytes, Activated Killer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoproliferative Syndrome, X-Linked, 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intestinal fatty acid-binding protein (121-131), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brdt protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, AIDS-Related"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Cooperation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adipogenesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal Arthrogryposis With Anterior Horn Cell Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 277, heat shock protein 60"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Flaviviridae Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Mantle-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial myopathy with lactic acidosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide Q glycosylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0430412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide IE1 (354-363)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide chain release factor, mammalian"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoproliferative Syndrome, Ebv-Associated, Autosomal, 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Polyps"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein mtDBP-C, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY, Pro(34)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Polyposis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide YY (13-36)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Hormones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypothalamus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nab2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoid Tissue"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Elongation Factor Tu"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide PV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial amidoxime reducing component 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide CN1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide-tryptophan 2,3-dioxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide T1249"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypothalamus, Anterior"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 18A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Swelling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catastrophic Illness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, T-Cell, Peripheral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogenesis-related proteins, plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal congenital erythroderma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial intermediate peptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide hormone inactivating endopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocryptovirus encoded RNA 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor binding protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphomatoid Papulosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 3910"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB 7061 peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brd3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide chain termination release factor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal alloantigen 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Seafood"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocryptovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide leucine arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytic Choriomeningitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte effector molecules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide AF-16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Chain Elongation, Translational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphangiectasis, Intestinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal pentapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphostim"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor receptor VIII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Reabsorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide aptamer C1-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB3 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial cytopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "anti-cancer number one"@en .
+
+<http://id.nlm.nih.gov/mesh/M0399684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nested Genes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytic choriomeningitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphedema-Distichiasis Syndrome with Renal Disease and Diabetes Mellitus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "decoy receptor 2, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Humans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide permease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0407772>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Systemic lupus erythematosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Humoral Hypercalcemia Of Malignancy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial DNA Depletion Syndrome, Myopathic Form"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 17 kDa, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor, Lys(3)-Tyr(22)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoscintigraphy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, B-Cell, Marginal Zone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Non-Hodgkin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide T (4-8)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Nova Scotian Type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Elimination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor--dextran-tyrosine conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide NP-3b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Abnormalities"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoblastic Leukemia, Acute, with Lymphomatous Features"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptides, Cyclic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor precursor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor (33-42)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 1, DA RT1(A)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ph-p protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymph Node Excision"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial messenger RNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Absorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Complex II Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal pentraxin receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Niemann-Pick Disease, Intermediate, With Visceral Involvement And Rapid Progression"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoid System Deterioration, Progressive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Complications"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial permeability transition pore"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Depletion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAB protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Vessels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial phosphate transport protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precursor Cell Lymphoblastic Leukemia-Lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphoma, Primary Cutaneous Anaplastic Large Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRDT protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postoperative Nausea and Vomiting"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ubiquitin ligase 1, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial neurogastrointestinal encephalopathy syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide NY-ESO-1 157-170"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 31D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial addressing peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 399"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide elongation factor 1H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphokines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Elongation Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011580>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal Pseudo-Obstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide deformylase 1B, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633961>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nabscessin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L34, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lethal Dose 50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BRD73954"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Ceroid-Lipofuscinoses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphotoxin-alpha"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 22181, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestinal polyposis, osteomas, sebaceous cysts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidermal growth factor receptor (768-775)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neonatal Screening"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peptide 16(5), Buthus martensii Karsch"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide Biosynthesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peptide oostatic hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial outer membrane protein 35-kDa, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ATPase subunit c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Complex III Deficiency"@en .

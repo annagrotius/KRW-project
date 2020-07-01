@@ -1,0 +1,1431 @@
+<http://id.nlm.nih.gov/mesh/M000648026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ppargc1a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet-derived growth factor A (194-211)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intralymphatic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0288069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet aggregation-associated protein, Streptococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum carbide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseZ protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal hyperplasia, congenital, type 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Insufficiency, Congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet-derived growth factor C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Bypass"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPAR gamma, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116656>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alumacide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Connective Tissue Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Glands"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Factor 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Neoplasms, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0136237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet activating factor-amidophosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Endothelial Cell Adhesion Molecule-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-juvenile hormone acid methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Dissection, Spontaneous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0136786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hexachloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495288>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet-Rich Plasma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase Z"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Disease, Autosomal Dominant 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike glycoprotein, SARS-CoV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet membrane glycoprotein VI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum tris(2,6-di-2-naphthylphenoxide)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet factor 4 (47-70)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Vessel Anomalies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPARG protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000655682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPARA protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Spinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum fluoride-aluminum phosphate-barium fluoride-calcium-fluoride glass"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymocyte-expressed molecule involved in selection, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum tetrasulfophthalocyanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Tumor Virus, Mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Aggregation, Spontaneous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, magnesium hydroxide, simethicone drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alum hematoxylin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnase2b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet agglutinating protein, thrombotic thrombocytopenic purpura"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum-28"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Hypoplasia, Congenital, with Precocious Puberty"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet's adhering protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnaset2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Cortex Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal anthrax"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Humoral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Cellular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vectorcardiography"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum nitride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bystander Effect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Disorder, Undefined"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum pyromellitate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum Chloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0168231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phthalocyanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phosphate, prednisolone drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminium glycinate, myrtecaine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plateletpheresis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alutaceuol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phosphide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intramuscular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum Hydroxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal incidentaloma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Insufficiency, Congenital, With 46,Xy Sex Reversal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum sesquichlorohydrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CTSL protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminoborate cement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPAR-beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet-derived growth factor AB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alumina porcelain NBK 1000"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phthalocyanine disulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase J, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Angiography"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum oxynitride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase CI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet granule deficiency disorder"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPARGC1A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-2',3'-dialdehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microbiota"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Hyperplasia, Congenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Factor 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Heterologous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Alpha-Delta Storage Pool Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, magnesium hydroxide, methylpolysiloxane, sorbitol drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet and T cell antigen 1 ligand"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminosilicate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "senescence-associated receptor-like kinase, Phaseolus vulgaris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Sclerosis, Medial, of Infancy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Function Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Multiprotein Complexes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Vessels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum phthalocyanine-streptavidin complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083581>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet adhesion inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000683757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike protein, SARS-CoV-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540439>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, magnesium hydroxide, sorbitol drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppargc1a protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppard protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Multiplex Polymerase Chain Reaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammalian orthoreovirus 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mammalian cell entry protein Mce1A, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mediator Complex Subunit 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Neoplasms, Experimental"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-3,4-dihydroxy-5-polyprenylbenzoate-O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxyphosphate sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase S, psi(CS-NH)(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum boride"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum-29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum telluride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Agents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet procoagulant factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stochastic Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Gland Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase 6, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, benzocaine, magnesium hydroxide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agonistic Behavior"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenaline-N-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet activating factor phosphatidate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum glycinate, magnesium hydroxide, drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppara protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Occlusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymocyte interaction modulation factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mammary serum antigen, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum citrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Glands, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intraperitoneal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intraocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0054928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "connective tissue-activating peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum magnesium silicate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Glands, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine enzyme MoaA, Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Cortex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mammary-derived growth factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Hemorrhage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine transporter, Rickettsia prowazekii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alumichrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fasl protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet glycoprotein (GP)IIIa 49-66"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181885>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet-derived neutrophil chemotactic peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0405013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum adenosine triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPAR alpha"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase kappa, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenaline sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ctsl protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Restenosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppargc1a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Epidural"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Hormones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum sodium phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum lactate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017021>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Membrane Glycoproteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminosilicate polyacrylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppargc1b protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum starch octenylsuccinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Datasets as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum-transferrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet microbicidal protein, Oryctolagus cuniculus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenalinequinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseLE protein, Tomato"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Subcutaneous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alumicrocin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine - nocardicin 3-amino-3-carboxypropyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum nitrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum chloride phthalocyanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548172>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminium hydroxide, magnesium carbonate drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum Compounds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-erythromycin O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum Silicates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regimen B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Receptor for Collagen, Deficiency of"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum-32"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet-Rich Fibrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Disease, Development of, in HIV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum zirconium tetrachlorohydrexglycerin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymocyte selection-associated high-mobility group box protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum lithium silicate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet factor 4 (59-70)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0425686>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPIKE1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide gel, amylase, aspergillus oryzae enzyme, lipase, protease, rhizopus arrhizus enzyme, simethicone drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Maternally-Acquired"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Prostacyclin Receptor Defect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet receptor for type III collagen, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, magnesium hydroxide, drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Glycoprotein IV Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase J, Thermus thermophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Stenosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenal opioid peptide E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Connective Tissue Nevus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase-related protein, Calystegia sepium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Interviews as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intravenous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Stromal Tumors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Transit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet-Activating Factor Acetylhydrolase Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike protein S, Transmissible gastroenteritis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mammalian sterile 20-like kinase 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Analogue Secretory Carcinoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mediator Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Absorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, bismuth subnitrate, deglycyrrhizinised liquorice, magnesium carbonate, sodium bicarbonate drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Activating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0436417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine furaneol O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum fluoride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase MC2, Momordica charantia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASET2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FASLG protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet-derived growth factor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pparg protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenal microsomal antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenal secretory protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Adhesiveness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ctsl protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-epsilon N-L-lysine methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ALU1 protein, Arthrobacter viscosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Comorbidity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Tract"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Glycoprotein GPIb-IX Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Medulla"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Aneurysm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Transfusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet activating factor receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Sinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Signal Processing Defect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet endothelial cell activated protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Hypoplasia, Congenital, With Absent Pituitary Luteinizing Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-5-hydroxyfuranocoumarin O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intra-Arterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Rest Tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet inhibitory factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0425874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPARGC1B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Filariasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PbCTRP protein, Plasmodium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum maltolate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, cimetidine, cocaine, hydroxyzine, morphine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, dimethylpolsiloxane, magnesium carbonate, magesium hydroxide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alumichrysin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-8-hydroxyfuranocoumarin O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum tris(2,6-diphenylphenoxide)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum-41"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Connective Tissue"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminium hydroxide, magnesium oxide, simeticone drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vector Borne Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Contents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Insufficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Count"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary-Subclavian Steal Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase P, spinach"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Glycoprotein GPIIb-IIIa Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Thrombosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet protein P47"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Connective Tissue Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pBC 264"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intraventricular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum Oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet factor V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Disease, Autosomal Dominant, 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase A (1-123)-3-(2-naphthyl)alanine amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448288>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alunite"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammary Arteries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, calcium carbonate, magnesium hydroxide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Cortex Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "platelet factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intralesional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPAR delta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Disorder, Familial, with Associated Myeloid Malignancy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminox"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "agonists"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Aggregation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alutard SQ allergen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-tocopherol methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum magnesium oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine - tRNA ribosyltransferase-isomerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminoxamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum oxychloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Motility"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intra-Articular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenalectomy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPIKET-P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase LS, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Storage Pool Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207901>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum chloride-valine-sodium hydroxide system"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Intradermal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymocyte growth peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alum Compounds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal hyperplasia 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sorting Nexins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum gallium nitride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum flufenamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum chlorhydrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase NE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum ammonium sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Connective Tissue Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine N-ole-1-oyltaurate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Gland Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mammary carcinoma antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Innate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenal cytosolic protein E, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibition, Psychological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Artery Bypass, Off-Pump"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-vitexin 2''-O-rhamnoside-7-O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alugastrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Membrane Glycoprotein IIb"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Vasospasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-dependent phosphate methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenalone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike glycoprotein, bovine coronavirus (BCV)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide - benzocaine - flatugel - magnesium hydroxide - methylpolysiloxane - sorbitol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Injections, Jet"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxide, benzocaine, magnesium hydroxide, sorbitol drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum hydroxyphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000604969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastrointestinal Microbiome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spike glycoprotein, human coronavirus (HCV)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-adenosylmethionine-dedimethylamino-4-aminoanhydrotetracycline N-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adrenal-seminal-pituitary protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnase4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gastrointestinal tract acid-446"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseX25 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Cortex Function Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Herd"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Mucosal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ctsla protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aluminum-26"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase H2B protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPAR gamma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adrenal Cortex Hormones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum(III) phthalocyanine trisulfonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Aggregation Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Care Units"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunity, Active"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet Factor 3 Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymocyte-activating factor, fibroblasts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aluminum oxide hydroxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase E, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alu-binding protein, 68 kDa, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "S-Adenosylmethionine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alu Elements"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronary Circulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spike Glycoprotein, Coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Platelet-Derived Growth Factor"@en .

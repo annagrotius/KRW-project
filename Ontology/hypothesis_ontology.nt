@@ -1,0 +1,50 @@
+<http://example.org/hypothesis_ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://example.org/hypothesis_ontology/Hypothesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.org/hypothesis_ontology/Hypothesis> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/hypothesis_ontology/Paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.org/hypothesis_ontology/Paper> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/hypothesis_ontology/Provenance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.org/hypothesis_ontology/Provenance> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/hypothesis_ontology/contains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.org/hypothesis_ontology/contains> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/hypothesis_ontology/Hypothesis> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/hypothesis_ontology/Hypothesis> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.org/hypothesis_ontology/Paper> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/hypothesis_ontology/Provenance> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.org/hypothesis_ontology/Paper> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/vocab/frbr/core#part> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/hypothesis_ontology/Paper> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.org/hypothesis_ontology/Hypothesis> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2002/07/owl#inverseOf> <http://example.org/hypothesis_ontology/isHypothesisOf> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://example.org/hypothesis_ontology/hasHypothesis> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/hypothesis_ontology/Paper> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.org/hypothesis_ontology/Provenance> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/2002/07/owl#inverseOf> <http://example.org/hypothesis_ontology/isProvenanceOf> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://example.org/hypothesis_ontology/hasProvenance> .
+_:185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:185 <http://www.w3.org/2002/07/owl#onProperty> <http://example.org/hypothesis_ontology/contains> .
+<http://example.org/hypothesis_ontology/Hypothesis> <http://www.w3.org/2002/07/owl#equivalentClass> _:185 .
+<http://example.org/hypothesis_ontology/Hypothesis> <http://www.w3.org/2000/01/rdf-schema#label> "Hypothesis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/Hypothesis> <http://www.w3.org/2000/01/rdf-schema#comment> "Paper's hypothesis."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/Paper> <http://www.w3.org/2000/01/rdf-schema#label> "Research paper or article"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/Paper> <http://www.w3.org/2000/01/rdf-schema#comment> "General class for all papers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/Provenance> <http://www.w3.org/2000/01/rdf-schema#label> "Provenance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/Provenance> <http://www.w3.org/2000/01/rdf-schema#comment> "Provenance of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/contains> <http://www.w3.org/2000/01/rdf-schema#label> "Resource representing a hypothesis's entity set."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/contains> <http://www.w3.org/2000/01/rdf-schema#comment> "Links hypothesis with its entity set."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/2000/01/rdf-schema#label> "Resource representing a hypothesis' paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/isHypothesisOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Links hypothesis with paper it comes from."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/2000/01/rdf-schema#label> "Resource representing a provenance's paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/isProvenanceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Links provenance with the paper it is provenance of."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2000/01/rdf-schema#label> "Resource representing a document's hypothesis entity."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/hasHypothesis> <http://www.w3.org/2000/01/rdf-schema#comment> "Links paper with its hypothesis entity."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/2000/01/rdf-schema#label> "Resource representing a paper's provenance."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/hypothesis_ontology/hasProvenance> <http://www.w3.org/2000/01/rdf-schema#comment> "Links paper with its provenance."^^<http://www.w3.org/2001/XMLSchema#string> .
+_:185 <http://www.w3.org/2002/07/owl#minCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

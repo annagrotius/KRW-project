@@ -1,0 +1,435 @@
+<http://id.nlm.nih.gov/mesh/M0243653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide 14 - CRM 197"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glioma-derived monocyte chemotactic factor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mycobacterial A60 antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Curvatures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oligoclonal Bands"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spinal cord protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Regeneration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tracheal Stenosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Synthetic Lethal Mutations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Dorsal Horn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glioma, Subependymal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "spinalin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Ischemia"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gliomasolide C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Nerve Roots"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Psychological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Proximal, Adult, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Ventral Horn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "synthetic peptide alpha27-50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal purpura-producing principle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tracheal cytotoxin, Bordetella pertussis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Type I, with Congenital Bone Fractures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Stimulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mutagenicity Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organizations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446852>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "synthetic erythropoiesis protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Vascular Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Osteophytosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumococcal Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tracheal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tracheal colonization factor, Bordetella pertussis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal muscular atrophy, Ryukyuan type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Incidence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temporal Arteries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Physiological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Childhood, Proximal, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512961>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Osteochondrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Distal, Congenital Nonprogressive"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gliomasolide D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Ocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pharmacology, Clinical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ecology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal muscular atrophy, Jerash type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tracheal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Lateral Horn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal muscular atrophy with respiratory distress 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Segmental"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal intradural arachnoid cysts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type 37"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Synthetic Biology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Biological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 17A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pharmacology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumococcal Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tracheary element differentiation inhibitory factor, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal muscular atrophy 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Surrogate Mothers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Distal, Autosomal Recessive, 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Nerves"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trachea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "synthetic transcription factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glioma of Brain, Familial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Dysraphism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Stenosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Fusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temporal Muscle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temporal epilepsy, familial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024595>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Fractures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophies of Childhood"@en .
+
+<http://id.nlm.nih.gov/mesh/M000636611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Synthetic Drugs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000708>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Algorithms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Cord Compression"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temporal Lobe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 9V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Facioscapulohumeral Type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pharmacology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Canal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146773>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal surface protein A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tracheal agenesis without tracheoesophageal fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150591>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy with Mental Retardation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Arterial Venous Malformations with Cutaneous Hemangiomas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Puncture"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organizations, Nonprofit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Distal, X-Linked 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tracheal antimicrobial peptide, bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Dysplasia, Anhalt Type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide, type 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Type IV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Distal, Autosomal Recessive, 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pneumococcal polysaccharide type 17F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Temporal Bone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy, Late-Onset, Finkel Type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glioma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tracheal agenesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spinal Muscular Atrophy with Microcephaly and Mental Subnormality"@en .

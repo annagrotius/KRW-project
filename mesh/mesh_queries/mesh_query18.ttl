@@ -1,0 +1,1851 @@
+<http://id.nlm.nih.gov/mesh/M0029602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Complex III Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophanhydroxamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL20"@en .
+
+<http://id.nlm.nih.gov/mesh/M0424483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ariston liner"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial malate translocator, Panicum miliaceum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0073963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "galvinoxyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cleavage factor Im, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial acyl-CoA thioesterase I, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arildone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial p32 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activated-Leukocyte Cell Adhesion Molecule"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Dna Depletion Syndrome, Encephalomyopathic Form, With Methylmalonic Aciduria, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 206, Lycopersicon esculentum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilators, Mechanical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CNST protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aripiprazole lauroxil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HELAD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529505>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilator-Induced Lung Injury"@en .
+
+<http://id.nlm.nih.gov/mesh/M0424550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Proteomics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan C-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCAM protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cockroaches"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MEDLINE"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial fission factor, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dehydration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan halogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aritasone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arima syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred NZB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Transmembrane Permeability-Driven Necrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activated Protein C Resistance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aridicins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoyunnolin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aspergillosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aricine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ariakemicin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial K(ATP) channel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNG protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antimalarials"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathy with a Defect in Mitochondrial Protein Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Ribosomes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin B3, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abnormalities, Radiation-Induced"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545082>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophanyl-5'-adenosine monophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial uncoupling protein, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclindole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristoforin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Membrane Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Quaking"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin T"@en .
+
+<http://id.nlm.nih.gov/mesh/M000624214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccination Coverage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ligation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial matrix protein, 67-kDa, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial intermembrane space protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein S12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activated PI3K-delta Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan-N-formylgramicidin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, SCID"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dscuPA33khC fusion protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan-tRNA Ligase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred C57BL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNgamma-NGR peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan pyrolysate, basic fraction"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc1 E3 ligase, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial zinc maintenance protein 1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Encephalomyopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoquinoline A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pandemics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARIA protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin G2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "corticosteroid side-chain-isomerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial ADP, ATP Translocases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aridanin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial magnesium exporter 1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid1b protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID3A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan ethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin E1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arisaema"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Knockout, ApoE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARIH2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoyagonine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cycling sequence binding protein B, Crithidia fasciculata"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Excitability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CNS 1261"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid3a protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristocularine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathy with Diabetes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin B (13-59)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondria, Heart"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin-dependent kinase-activating kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L44, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0364190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ariston pHc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374329>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan N-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fecal Microbiota Transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "scaffolding protein, bacteriophage P22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ferritin, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin H, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 206, Oenothera villaricae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aspergillosis, Allergic Bronchopulmonary"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoyunnolin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCAML1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arih2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630766>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Jimpy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0275928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristochol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC108"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Myopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Size"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial-targeted peptide 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586771>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid5a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ari-1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mastitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Pressure"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred CFTR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Transgenic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID3B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536880>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristololactam A II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "micellapist"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin E1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HeLa Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arimoclomol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial antigen 36 kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan dimethylallyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fecal antigen-1, normal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Phosphate Carrier Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid3a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "stronger neominophagen C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNGR2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred DBA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristololactam-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0364039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisostatin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin-dependent kinase E1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID4A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial phosphoprotein, 65-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCR1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoquinoline B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Synchronization"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224879>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin B4 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0364040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisostatin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0405368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristolochic Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "abnormalities"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC1 protein, Heliothis virescens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin O, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enterocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARISX protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolactam BII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan pyrolysate N-hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID4B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arih2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dendritic Cells, Follicular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optimal Pressed Ceramic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophanuria With Dwarfism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochene synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID1B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298580>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CNS1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCAML1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial carrier 1 protein, Anopheles gambiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456631>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ariston AT"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial DNA Depletion Syndrome, Hepatocerebral Form, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondria, Liver"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan Hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519772>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arista"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred AKR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cleavage Stage, Ovum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arietin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin SDS protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Defects, Wormian Bones, and Dentinogenesis Imperfecta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial oxidative damage endonuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0143382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cortical granule-derived lectin, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophanamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolactam I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristogin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Blindness, Retardation, and Postaxial Polydactyly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500852>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial calcium uniporter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Mutant Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vaccination Refusal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid1b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial-targeted peptide 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc5 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial membrane protein 73"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ari-2 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dscam1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin A1, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mastitis, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Micelles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan butyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein, alpha Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan-leucine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin J, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin-dependent kinase inhibitor p21, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelium-derived relaxant factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan 2-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arizona"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Uncoupling Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid E"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Replacement Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin Y, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cerebrospinal fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID1A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Hairless"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristololactam IVa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoquinoline C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin H1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin J, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fecal Incontinence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Proton-Translocating ATPases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial polynucleotide phosphorylase, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin B5 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Dysplasia of Taylor without Balloon Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580434>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cleavage factor Im, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisugacin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aridibacter nitratireducens"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin E1, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Dysplasia-Focal Epilepsy Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial RNase II, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial RNA-processing endoribonuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Dynamics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin A1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial complex I deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin A3 protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophanol phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan peroxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristeromycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred MRL lpr"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondria proteolipid-like protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dendritic Spines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dscr5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial amidoxime reducing component 2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial transcription factor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0427918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolactam A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid5b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arieianal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "scaffold attachment factor B2, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, 129 Strain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dendritic Cell Sarcoma, Interdigitating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondria, Muscle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan Oxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristolochiaceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Spreading Depression"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred BALB C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristololactam BII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifngr2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCAM protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0350108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HCVAD protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Shunts"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNG protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial D-loop-binding protein, Paracentrotus lividus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial processing peptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCR8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "scaffold attachment factor B1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000615041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortical Bone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristophenone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dendritic cell immunoactivating receptor, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristophyll A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500853>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384773>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchitis, Chronic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisandilactone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Otorrhea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ari1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisugacin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin E2, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arigsugacin I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin D1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dscama protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial import stimulation factor, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Corticosteroid-Binding Globulin, Elevated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dscam2 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0442548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CNS 5161"@en .
+
+<http://id.nlm.nih.gov/mesh/M0381697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "corticosteroid hormone-induced factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CNS 1237"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Trifunctional Protein, beta Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolen-1(10)-en-9-ol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "activated protein C receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MICE regimen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial carboxypeptidase-III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARIS protein, Asterias amurensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin B2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Membranes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan-dehydrobutyrine diketopiperazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid1a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JNK-interacting protein 1 (153-163)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dscr1l1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin-dependent kinase 7, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Knockout"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JNK-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred ICR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelium, Corneal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial encephalopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin X, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528978>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin D2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Turnover"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L51, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dsc2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Nude"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan Transaminase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid4a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aridibacter kavangonensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID3C protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilator Weaning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristaless-related homeobox protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abnormalities, Drug-Induced"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid3b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial myopathy with lactic acidosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antagonists & inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Obese"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arixanthomycin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein mtDBP-C, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARI-2408"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristolactam AIIIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin A2;3 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viruses, Unclassified"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial amidoxime reducing component 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arixanthomycin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID5B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0047063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristeromycin diphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Swelling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophan Synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein YmL8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred CBA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p57"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "activated-PEG(1)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolactam-AIIIa-6-O-beta-D-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial intermediate peptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Congenic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolochic acid F"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-dependent kinase 11p110, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "corticosteroid methanetriol mixture"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aripiprazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristophyll B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARID5A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristomanoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristophenone B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Neurologic Mutants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin G1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HelA protein, bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Rhinorrhea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoloside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dendritic Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisugacin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HCV 796"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARI-4175"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Emergence Delirium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclin B3, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dscam protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "galvestine-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arizonin B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial cytopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arih1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan racemase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristeromycin-5'-carboxaldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial DNA Depletion Syndrome, Myopathic Form"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial protein 17 kDa, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dendritic Cell Sarcoma, Follicular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristololactam-I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Corticosteroid-Binding Globulin Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cerebrospinal Fluid Leak"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin D3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arisugacin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Biozzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred NOD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ARIH1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan tryptophylquinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fecal Impaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ariakemicin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial messenger RNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Complex II Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0362614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JNK Mitogen-Activated Protein Kinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan 2-monooxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "scaffold protein, Herpes simplex virus-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0385655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aristolochia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial permeability transition pore"@en .
+
+<http://id.nlm.nih.gov/mesh/M000673314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aridibacter famidurans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arid3c protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial phosphate transport protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCAM protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abnormalities, Multiple"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cleavage Stimulation Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arizonin A1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristoxazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ubiquitin ligase 1, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mitochondrial neurogastrointestinal encephalopathy syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tryptophan octyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial addressing peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cleavage And Polyadenylation Specificity Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred mdx"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSCR4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "DSC1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MedlinePlus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred SENCAR"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "arixanthomycin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ribosomal protein L34, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Galvanic Skin Response"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelium-derived inhibitory factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tryptophanase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ari-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477673>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclin-Dependent Kinase Inhibitor p19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mice, Inbred C3H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilators, Negative-Pressure"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abnormalities, Severe Teratoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "activated charcoal, colloidal silver, dimethicone, liquorice, silicone dioxide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aristolactam E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial outer membrane protein 35-kDa, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mitochondrial ATPase subunit c"@en .

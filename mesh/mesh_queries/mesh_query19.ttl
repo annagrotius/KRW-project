@@ -1,0 +1,2987 @@
+<http://id.nlm.nih.gov/mesh/M0442085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomic Instability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XII Washington D.C."@en .
+
+<http://id.nlm.nih.gov/mesh/M0223794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIIIa receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africantriol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydrolysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Ghrelin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cytokine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 11.1, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Apoptosis Susceptibility Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "systemic RNA Interference-defective-1 transmembrane family member 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Occlusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systemic Vasculitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VII Padua"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Bergamo"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "codonocarpine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Corticotropin-Releasing Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 24.1-kDa, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018595>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, LHRH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Complement 3d"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Antigen, T-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539812>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX, factor VII, factor X, prothrombin drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX BM Lake Elsinore"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codon, Nonsense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Calcitonin Gene-Related Peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Wenatchee I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XIII activation peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0200404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII-von Willebrand factor concentrate 8Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 84, Mycobacterium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin E, EP2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Leptin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MHC Q1b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prolonged Electroretinal Response Suppression"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glanders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Multiplied Immunoassay Technique"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, alpha-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X activator, Vipera lebetina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic and Statistical Manual of Mental Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adiponectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163901>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IX Vancouver"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor Va receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85B, Mycobacterium leprae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028447>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Polymeric Immunoglobulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen CYFRA21.1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Uses of Chemicals"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, OSM-LIF"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Histamine H1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX San Dimas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African swine fever virus structural protein p14.5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Fibronectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449709>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen LG2-C, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diseases in Twins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adenosine A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques and Procedures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281686>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 12D3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Senescence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Horse Sickness Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VIIIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR2DL1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Viral, Tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent radii and thrombocytopenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, GABA-A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Uses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Albumin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0051046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor 420"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Glycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigen Presentation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen NU-T2 DEJ"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85A, Mycobacterium gordonae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen p200"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Otological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Long Beach"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V Leiden"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble immune-response suppressor, bone marrow"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Alliance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent patella"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Progesterone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Test Approval"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HsaD protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiological Monitoring"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026516>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, sigma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quantitative Trait, Heritable"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Union"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, FSH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hsa32 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neurotensin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Assays"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor X Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0385240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codonopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Americans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factors VIII, IX And XI, Combined Deficiency of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Ectodysplasin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent Eyebrows and Eyelashes with Mental Retardation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Pocket"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen SPAM-H1, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD34"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Granulocyte Colony-Stimulating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, B-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen B, Echinococcus granulosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356904>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V Hong Kong"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor III(Glc)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Surgical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0288415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Steroid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme-Linked Immunosorbent Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systemic candidiasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Nagoya 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neurokinin-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, GABA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII, von Willebrand factor drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codon Usage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa, Northern"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Laminin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352968>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africanene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Chongqing"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quantitative Light-Induced Fluorescence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor AF2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, IgE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Situs Inversus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen T cell receptor, epsilon chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Bradykinin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor X GLA-peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neurotransmitter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Fc fusion protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine D3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "oxidative potential water"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hsa protein, Streptococcus gordonii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lysophospholipid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Obstetrical and Gynecological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor For Inversion Stimulation Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, LH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lipoprotein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VIII Leiden"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, AMPA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Serotonin, 5-HT2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Misconception"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Xa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Precursors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V clotting antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Gonadotropin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, HIV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIIIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomic Imprinting"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599707>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Reprogramming Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxidative Phosphorylation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Natural Killer Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Tumor-Associated, Carbohydrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Cambridge"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, IgG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigenic Variation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor F430"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lysophosphatidic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, N-Methyl-D-Aspartate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Services"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, N-Acetylglucosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, beta-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Zutphen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0275287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 4C5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XIII subunit A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121084>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Xa, des(1-44)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Retinopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093876>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "receptors, pancreatic polypeptide-specific"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Immunologic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Fibrinogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Carcinogenesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor X Stockton"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Mating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Opioid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Strasbourg 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Melanocortin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Swine Fever Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR2DL4"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Kisspeptin-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-8B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018592>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Gastrointestinal Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Amino Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor J protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absenteeism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024505>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Leukocyte-Adhesion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VII related antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen A2B7, honeybee"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lipoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0434072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85C2, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Islet Amyloid Polypeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigen-Antibody Reactions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine D5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "therapeutic use"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Formyl Peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Ophthalmological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Touch"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chinese herbal medicine zhi mu 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XIIIb"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029262>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Chemokine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Oncostatin M, Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Imaging"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thromboxane"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Index"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Foot"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Angiotensin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Endothelin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85A, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Research Design"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Oxytocin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XI Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen FORSE-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2Y1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa, Western"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, T-Independent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Splints"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxidative Coupling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble tachyzoite antigen, Toxoplasma gondii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin E, EP4 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Errors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cytoadhesin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vascular Endothelial Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CXCR4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prolonged Bleeding Time, Brachydactyly, and Mental Retardation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Galanin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 5, Polybia scutellaris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Measurements"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Serotonin, 5-HT4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Xa, des(1-45)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Corticotropin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytotoxicity, Immunologic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent breasts and nipples"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Muscarinic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Scavenger"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Artificial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181765>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-antithrombin III complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neuropeptide Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vasoactive Intestinal Polypeptide, Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Milano"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Equivalency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Estrogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen V, Pseudomonas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Guanylate Cyclase-Coupled"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thyrotropin-Releasing Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-factor X-binding protein, Echis carinatus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, alpha"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Bombesin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X3"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Histamine H4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor Xa, Glu-Gly-Arg-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Notch"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XII Bern"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Friuli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Proteinase-Activated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Attenuated familial adenomatous polyposis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254581>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lysosphingolipid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glandulamines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Retinoic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Oxidized LDL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Mitogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen I(2), Trypanosome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X activator, Bothrops atrox venom"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625656>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 113, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XII Mie-1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Activators"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027288>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Kainic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII (des-797-1562)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Somatotropin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Niigata"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Repression"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Weeksella massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenomedullin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 40-kDa, Mycobacterium avium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 7A6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Melatonin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen III cell wall polysaccharide, Trichosporon domesticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa, Central"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 2, Coccidioides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cellular retinoic acid-binding protein 1, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX (1-47)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, Myelomonocytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Kp 90"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigenic Modulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor II clotting antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V Cambridge"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Ly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme-Linked Immunospot Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Tests, Routine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027150>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 1870, Neisseria meningitidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Taunton"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Weeksella virosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen LEC-A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 35, Mycobacterium avium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-IXa receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CXCR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Transferrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen T cell receptor, zeta chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0168530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Kawachinagano"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asymptomatic Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glanduliferin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2Y12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220708>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble complement inhibitor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Lincoln Park"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-8A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Atrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VII G331D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Deventer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V Stanford"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR2DL3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "codonopsinine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Serotonin, 5-HT1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Glucocorticoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzymes and Coenzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Complement 3b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IX Hollywood"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Antigen, B-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VIII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0307077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 106"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codon, Terminator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glandulone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Cyst"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186627>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Basel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quantitative Structure-Activity Relationship"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Soluble N-Ethylmaleimide-Sensitive Factor Attachment Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Oncostatin M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Aryl Hydrocarbon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen p102"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Nephropathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Human Experimentation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XIII (28-41)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glanduphen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bulgaria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Histamine H3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Seattle(2)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Fibroblast Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-Padua"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic peptide Ealpha52-68"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XII Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Dlx-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Heterophile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Horse Sickness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Va"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pituitary Adenylate Cyclase-Activating Polypeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR3DL1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001448>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Serotonin, 5-HT3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII Ise"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble tumor necrosis factor-related apoptosis-inducing ligand (114-281), rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Member 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IX"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen A, Mycobacterium paratuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, TIE"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chinese wheat mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxidative Stress"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen RhLA-DR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Phospholipase A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen PIM, Theileria parva"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Study Characteristics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Digestive System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0407677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chinese bittersweet alkaloid III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Microenvironment"@en .
+
+<http://id.nlm.nih.gov/mesh/M000638845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Chimeric Antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor inhibiting hypoxia-inducible factor 1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Methods"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Expressed Sequence Tags"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble immune response suppressor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent duct of Santorini"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pituitary Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Platelet-Derived Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors for Activated C Kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Eicosanoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Fc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0436709>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "codonoposide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pattern Recognition"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Member 6b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor rXai"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Glucagon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 3G11, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Androgen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169853>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X San Antonio"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen GL7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Sm23, Schistosoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cyclic AMP"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Catecholamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MHC binding peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine D2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine D4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Lymphocyte Homing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Ligament"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Padua"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Vorarlberg"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024704>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Granulocyte-Macrophage Colony-Stimulating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD20"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 5, Echinococcus granulosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Ketoacidosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Multivariate Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85C, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "periodontal ligament chemotactic factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Respiratory System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004021>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pheromone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Xa Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen I(17), Trypanosome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor III, vitamin B 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor D (liver)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Structures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Hemochromatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen-specific helper factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Morphogenesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neurokinin-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Concanavalin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Continental Ancestry Group"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H-binding protein, Neisseria meningitidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Opioid, kappa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Frameshift Mutation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Estradiol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSAJ2425 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR3DS1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen BLA.36, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85B, Mycobacterium paratuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Madrid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-1 Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 43, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Boston 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor C, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277448>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Sm10, Schistosoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cytoplasmic and Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Dressings"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytotoxicity Tests, Immunologic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glanduliferin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Neurological"@en .
+
+<http://id.nlm.nih.gov/mesh/M000638134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Screening Programs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VII clotting antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, LDL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008282>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Member 25"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Serotonin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IXa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Pf332, Plasmodium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Opioid, delta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Odorant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85A, Mycobacterium ulcerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CXCR3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cholecystokinin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Parathyroid Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088901>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor-42"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Wenatchee II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Polyomavirus Transforming"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSAF compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIII Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XII Locarno"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Antigen, T-Cell, alpha-beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen CD63b, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Member 10c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504591>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-binding protein, Trimeresurus flavoviridis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202773>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H-related protein p37"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Human Platelet"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, alpha-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Induction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X activator, Russell's viper"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Neuropathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Leukotriene B4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Equipoise"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen pso p27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigens, CD200"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 117, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Histamine H2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Glutamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen T cell receptor, eta-kappa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218773>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen Pf11-1, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Swine Fever"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Urokinase Plasminogen Activator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pituitary Hormone-Regulating Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR2DL2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H-related protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0143384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen gp 160(6C3)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postnatal Care"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen T cell receptor, iota chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Eph Family"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor IX GLA-peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thrombopoietin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor V Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241150>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen X-80"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Invertebrate Peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX-factor X-binding protein, Crotalinae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "diagnostic imaging"@en .
+
+<http://id.nlm.nih.gov/mesh/M0434071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85C1, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigen-Antibody Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Endocrine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor EF-P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024416>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiologic Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495662>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prolactin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Somatostatin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Calcium-Sensing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systemic necrotizing angiitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Drug"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa, Southern"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Opioid, mu"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Surface"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Prosthesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIII, B Subunit, Deficiency Of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Irrigation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Urological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Enterotoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Glandosane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Autocrine Motility Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Angiopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ducks"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Transforming Growth Factor beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006170>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Cardiovascular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systemic carnitine deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CXCR5"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "codonopsinol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neurokinin-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, GABA-B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Nerve Growth Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pituitary Adenylate Cyclase-Activating Polypeptide, Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Novara"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Community"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin E, EP3 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 7H6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble secreted endopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MHC class I-related chain A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen H-2A(k)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Calcitonin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2X2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Frameshifting, Ribosomal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027329>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor V activating enzyme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100420>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Epoprostenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Self Evaluation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Mineralocorticoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic factor 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Index"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Attachment Loss"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cellular Nip1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024701>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Colony-Stimulating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0422613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chinese herbal product P07P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592447>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII-Fc fusion protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Reactivators"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR3DL2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cellular Reprogramming"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "codonolaside I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Histamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XII Toronto"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cholinergic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor XIIa inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD1d"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxidative Phosphorylation Coupling Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Chapel Hill"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Norovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Soluble Guanylyl Cyclase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Replacement Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor VIII delta II"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSA(IAc)-NMU"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Calcitriol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X-binding protein, Deinagkistrodon acutus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor III(lac)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H-related protein p39"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, beta-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Nottingham"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Debridement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thyrotropin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asymptomatic Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0422349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quantitative Trait Loci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interferon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Expressed Emotion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85B, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vasopressin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR2DL5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor H-related protein 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Collagen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, beta-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Atrial Natriuretic Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MHC Ib Qa-2 antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX BM Nagoya"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Very Late Antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VII Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Situs inversus totalis with cystic dysplasia of kidneys and pancreas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Cardiff"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Codon, Initiator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Neuropeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontal Abscess"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa South of the Sahara"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, NK Cell Lectin-Like"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chinese ink"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigen-Presenting Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X St. Louis II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-13"@en .
+
+<http://id.nlm.nih.gov/mesh/M0168528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Troed-y-Rhiw"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Antigen, T-Cell, gamma-delta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Alabama"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530853>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor 8 deficiency, acquired"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Xiii, A Subunit, Deficiency Of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Shanghai"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 987P, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor X Kanazawa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Natural Cytotoxicity Triggering"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systemic Inflammatory Response Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen gp195, Plasmodium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thromboxane A2, Prostaglandin H2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adipokine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Death Domain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Dermatophagoides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomic Islands"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XIIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "weeksite"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thyroid Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzymes, Immobilized"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Cardiomyopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Erythropoietin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 85, Mycobacterium bovis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MHC class II transactivator protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Thrombin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0257705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen H2-Ma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor XII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cell Surface"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, CD7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Denver"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2Y2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Somatomedin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor VIIa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor V Excess with Spontaneous Thrombosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen 3008, Plasmodium chabaudi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigens, Differentiation, T-Lymphocyte"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, G-Protein-Coupled"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen B, Echinococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomic Library"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Equipment"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diabetic Coma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic protein, guerin epithelioma, neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0275969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapeutic Index, Drug"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177829>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX Leyden"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Absent corpus callosum cataract immunodeficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Nicotinic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0351393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen G250"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tumor Necrosis Factor, Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Phencyclidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vasoactive Intestinal Peptide, Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "factor IX BM Hilo"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Metabotropic Glutamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CXCR6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Pancreatic Hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, OX40"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Adrenergic, beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-4, Type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factor Analysis, Statistical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen D, Mycobacterium paratuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomic Structural Variation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vasoactive Intestinal Peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-1 Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, TNF-Related Apoptosis-Inducing Ligand"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Biogenic Amine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Dopamine D1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541772>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Prostaglandin E, EP1 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Wnt"@en .
+
+<http://id.nlm.nih.gov/mesh/M0275729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigen KH-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diagnostic Techniques, Radioisotope"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Purinergic P2Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028439>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Developed Countries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enzyme Stability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Ionotropic Glutamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Interleukin-4, Type I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Cannabinoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Vitronectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, CCR10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "soluble polysaccharide, Trichosporon domesticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Tachykinin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African cassava mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, KIR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Presynaptic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Complement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptors, Leukotriene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa, Eastern"@en .

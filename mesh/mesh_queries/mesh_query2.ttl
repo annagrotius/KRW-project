@@ -1,0 +1,907 @@
+<http://id.nlm.nih.gov/mesh/M0289053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogen-elicited epithelial chemoattractant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria, Falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIIA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription initiation factor TIF-IB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogenesis-related proteins, plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial benign hypercalcemia, type 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial apoceruloplasmin deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitinase C, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rncr4 RNA, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Multiple Coagulation Factor Deficiency IV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "potentilin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "kinase-splitting membranal proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Interstitial Cells of Cajal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIIC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070395>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor S-II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial popliteal pterygium syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIIR, Bombyx mori"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial primary biliary cirrhosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Paget's disease of bone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0204031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor CHOP"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor DP1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "yeast-CEA vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533097>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Letterer-Siwe disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor Pit-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor Brn-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Hyperaldosteronism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcriptional activator X1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor AP-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Osteochondritis Dissecans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial ependymoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factors, TFII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin 4-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor Hed"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription activator protein C1, Enterobacteria phage P22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor XF1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "yeast proteinase B inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Introns"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIID"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial hypersecretion of adrenal androgens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIF"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitinase B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial anomalous origin of right pulmonary artery"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EVT-101"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor Brn-3A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial cyclic vomiting syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Authorship"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate glycosaminoglycan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Analytic Sample Preparation Methods"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor RelA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Wilms tumor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogenicity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin 4-O-sulfotransferase 2, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial schizencephaly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Burkitt's lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription repair coupling factor protein, Bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial cylindromatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate N-acetylgalactosaminyltransferase-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor BM1P2, Bacillus megaterium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor IIB-related protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIIH"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614172>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Activator-Like Effectors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Termination, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor tau"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Interstitial Pneumonitis, Desquamative, Familial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Canadaphore"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogen-induced calmodulin-binding protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Testotoxicosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Yeast, Dried"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Glucocorticoid Deficiency 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial medullary thyroid carcinoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080448>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "yeast proteinase B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EVT 201"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNC4 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial myelofibrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor Brn-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor B, Archaea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial dilated cardiomyopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial vascular leukoencephalopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor NF-E4, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial pityriasis rubra pilaris"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Multiple Lipomatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Exudative Vitreoretinopathies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria, Cerebral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor MTF-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor RelB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate proteoglycan receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcriptional Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Endemic Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Potentiometry"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial duodenal atresia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial ectopia lentis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "interstitial retinol-binding protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor HES-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor AP-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcriptional activator TSRF1, tobacco"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial renal cell carcinoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial subependymomas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate succinimidyl succinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "kongboentine A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0407954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcriptional Elongation Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial spinal arachnoiditis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial capillaro-venous leptomeningeal angiomatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Hypophosphatemic Rickets"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aggregation substance, Enterococcus faecalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Mediterranean Fever, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor nuclear factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogen-induced oxygenase, Nicotiana tabacum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000624781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EVT901"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIIE, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogenicity protein, Xanthomonas"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Activator-Like Effector Nucleases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria, Avian"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin D-glucuronosyl 5-epimerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factors, TFIII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Cold Autoinflammatory Syndrome 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Acute Myeloid Leukemia with Mutated Cebpa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0442377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate glucuronyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial pars planitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "translational activator peptide, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pseudogenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor 7-Like 2 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial hypersensitivity pneumonitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIIB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial paroxysmal dystonia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vpu protein, Human immunodeficiency virus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate, sodium hyaluronate drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor Brn-3B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin ABC Lyase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin-4-O-sulfotransferase-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Endemic treponematosis caused by Treponema carateum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Evtepia gabavorous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Sudden Death"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor BTF3"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Potentially Inappropriate Medication List"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cross-Sectional Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial HDL deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcriptional Regulator ERG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0073840>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate trisaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate E hexasaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate N-acetylgalactosaminyltransferase-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial dermographism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Computational Biology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial primary gastric lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitinase C, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial acanthosis nigricans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Multiple Coagulation Factor Deficiency II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIIIA"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Canada"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Initiation, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate synthase-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factors, General"@en .
+
+<http://id.nlm.nih.gov/mesh/M0399291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Potentilla"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial encephalopathy with neuroserpin inclusion bodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin Sulfates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Yeasts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494581>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcriptional intermediary factor 1gamma, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mucosal-Associated Invariant T Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "kongensin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial neurocardiogenic syncope"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial progressive supranuclear palsy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitinsulfatases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor UBF"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial hyperchylomicronemia syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Initiation Site"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial antiphospholipid syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0432219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin polymerase, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription repression factor ET, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription initiation factor IIA subunit 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor NF-M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin Lyases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Malaria, Vivax"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Longevity"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Computational Chemistry"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203266>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TFIIX"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534931>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Translational Medical Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Hyperbeta- and Prebetalipoproteinemia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Microglia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIID"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin Sulfate Proteoglycans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor XMI-ER1, Xenopus laevis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "yeast W double-stranded RNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor E75, Manduca"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathogen-induced protease, P69"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin sulfate proteoglycan 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor PEA3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial streblodactyly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin N-acetylgalactosaminyltransferase-1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor AP-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor AP4, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465443>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "kongboentine B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial cerebral cavernous malformation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Mediterranean Fever"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Multiple Coagulation Factor Deficiency VI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Elongation, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor 7-Like 1 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin O-methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin 4,6-disulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathogen-Associated Molecular Pattern Molecules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phylogeny"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor NF-AT c3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566152>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitin-6-Sulfaturia, Defective Cellular Immunity, Nephrotic Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phosphorylation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial gynecomastia, due to increased aromatase activity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Primary Pulmonary Hypertension"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcriptional intermediary factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial Multiple Coagulation Factor Deficiency I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "familial Alzheimer's disease protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0365497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chondroitin 6-sulfate trisaccharide methyl glycoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor TFIIIB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor TZP, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNC3 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Familial multiple trichodiscomas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chondroitinases and Chondroitin Lyases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transcription Factor Brn-3C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor p120(E4F)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transcription factor PTF1"@en .

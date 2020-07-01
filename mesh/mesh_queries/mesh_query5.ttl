@@ -1,0 +1,5071 @@
+<http://id.nlm.nih.gov/mesh/M0010797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hygiene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl CoA-deacetylcephalosporin C acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-alanyl-prolyl-(N-methyl)phenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-E VEALEKK VAALESK VQALEKK VEALEHG-amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetohexamide reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623282>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamizuril"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceturic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-11-ketoboswellic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-tyrosyl-tyrosyl-arginyl-isoleucyl-arginine-ol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcoenzyme A-deacetylvindoline 4-O-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamido-CNU"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2,3-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyodontoschismenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prospective Payment Assessment Commission"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-P-(mannosylphosphatidylinositol)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-methionyl-glutaminyl-aspartyl-aldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope glycoprotein, Ebola virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Env9 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EnvY protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516766>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-L-leucyl-L-valyl-L-lysinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096876>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetarsol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ino80 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112434>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enviradene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphosphinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetato(dimethyl)(pyridine-2-carbaldehydethiosemicarbazonato)tin(IV)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461852>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AceA protein, Haloferax volcanii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonoscopy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Viral, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol pentaphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-asparagyl-prolyl-glycyl-glutaminamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcysteinyl-leucyl-glutamyl-glutamyl-prolyl-cysteine methyl ester cyclic disulfide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000733525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetonate-poly(L-lactic Acid)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0092190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl CoA carboxylase phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, butalbital, caffeine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-alanyl-alanyl-(N,N'-dimethylglutaminal)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldipeptide A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 4,6-carbonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetochlor mercapturate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B, Chronic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-N,N-diethylhomocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0362510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP7 protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope protein E1, GB virus C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk8ip protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoleucyl-glutamyl-threonyl-aspartyl-aldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glycyl-asparagyl-glutaminyl-glutamyl-glutaminyl-valyl-seryl-prolyl-leucyl-threonyl-leucyl-leucyl-lysyl-lysyl-tryptophyl-cysteinyl-Alexa Fluoro 680 C2C2-maleimide conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidermis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylleucine chloromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanyl-prolyl-bor-arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic linker protein 115"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-aspartyl-amino-4-methylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B vaccine AS04"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO-8875"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetarsol, dimethicone, neomycin, nystatin, polymyxin drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltyrosyl-arginine cetyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl CoA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-5-aminosalicylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-cyclo(aspartyl-cyclopentyl-(2-naphthyl)alanyl-arginyl-tryptophyl-lysyl)amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B surface antigen receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol hexaphosphate-polyethylene glycol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasmic Dyneins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltrimethylsilane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Atresia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bacterial adhesins, polysaccharide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltropic acid 2-pyridylmethylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol Phosphates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP protein, Cryphonectria parasitica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine 5'-phosphosulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetomicrobium flavidum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell lymphoma 1A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Polyubiquitin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP protein, earthworm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcoenzyme M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ace toxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis C, Chronic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonyltrimethylammonium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-LDL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acephenanthrylene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-(1-azulenyl)-alanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalicylic anhydride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP-3 protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylhistidyl-lysyl-aspartyl-methionyl-glutaminyl-leucyl-glycyl-arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetate kinase(pyrophosphate)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcarnitine deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetolactate decarboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-tetrakisphosphate 1-kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 4-(hexadecyloxy)-3-methoxybutanephosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Macrophages"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tyrosyl-isoleucyl-glycyl-seryl-arginyl-beta-alanyl-glycyl-chitosan"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter myodis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inordinaticella fortuita"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2,3,5-trisphosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Virus Cellular Receptor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, chlorpheniramine, dextromethorphan, phenylpropanolamine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol hexakisphosphate kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK8IP2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transgenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl methyl tetramethyl tetralin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin ethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpyridine benzoyl hydrazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intensive Care"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glutamyl-threonyl-lysyl-threonyl-tyrosyl-phenylalanyl-tryptophyl-lysinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peritonitis, Tuberculous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceriphyllic acid A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldophosphamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-glutamyl-histidyl-aspartal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000674519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fretibacterium fastidiosum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-leucyl-aspartyl-isoleucyl-isoleucyl-tryptophan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetothermus paucivorans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine-uridine hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium psammolithicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0200917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl 2,3-dioxopropanal-di-(4,4-dimethylthiosemicarbazone)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonyldethio-coenzyme A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3,5,6-pentakisphosphate 5-phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter senegalensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-Cell OKT4 Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde oxidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 3,4,5-trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic anhydride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope H3L protein, Vaccinia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNP protein, lizard"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcholine Release Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcasein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP136 protein, Giardia duodenalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-lysyl-leucyl-phenylalanyl-methionyl-lysinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonyl methoxatin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusol F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Illness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Virus, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK15 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Exposure"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Postmortem Changes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositolphosphoceramides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colon, Descending"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonoscopes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-Cell Antigen Receptor Specificity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetazolamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetanilide esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetonate-1,5-cyclooctadiene iridium I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl isogambogic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacteroides hydrogenigenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylajmaline acetylesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inophinnin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter tropicalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonitrile oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colony Count, Microbial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0193853>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "reovirus protein lambda2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4-bisphosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-isoleucyl-alanyl-aminoisobutyryl-isoleucyl-valyl-aminoisobutyryl-leucyl-aminoisobutyryl-proline methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter orleanensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0432973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-histidylglycyl-histidylglycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-LDL"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasmic Vesicles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylnorleucyl-glutamyl-histidyl-phenylalanyl-arginyl-tryptophyl-glycyl-lysinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis Virus, Duck"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACEII protein, T. reesei"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Specific Peptidase 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-beta-(methylthio)choline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-glutamyl-alanyl-glutaminyl-alanyl-arginyl-glutamyl-alanyl-leucyl-alanyl-lysyl-glutamyl-alanyl-glutaminyl-alanyl-arginyl-alaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environment and Public Health"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylisoniazid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Virus, Duck"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl triethyl citrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0425355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylstachyflin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007516>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Pollution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylthevetin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Snph protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,4,5,6-pentakisphosphate-1-3-phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-valyl-alanyl-aspartyl fluoromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,2,4,5-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intensive Care, Neonatal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192904>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Env-5 glycoprotein, HTLV-I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylaneurine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-13-epi-cupressic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-glutamyl-histidyl-aspartal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic linker protein 190"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colon cancer-specific antigen 2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalvianolic acid A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACEA 1328"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic protein A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde-O-pentafluorobenzyloxime"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter peroxydans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental DNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002126>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonylacetone bis(phenylhydrazone)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter lambici"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphthene-1-ol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE protocol 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetergamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tmevpg1 long noncoding RNA, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetivibrio ethanolgignens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylnorloline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peritonitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter ratti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-(glycyl-histidyl)3-glycyl-prolyl-(glycyl-histidyl)3-amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglucosamine transporter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin isopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bibliography, Descriptive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk8ip1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceroside VIII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0364657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNP1 protein, Phaeosphaeria nodorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylleucyl-leucyl-norleucinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phosphotyrosyl-N,N-dipentylglutamamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-valyl-valyl-valyl-valyl-valyl-aspartic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acefylline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colon-ovarian tumor antigen, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129420>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4-bis(phosphate)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetonitriles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE2 protein, Candida glabrata"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-aminoisobutyryl-arginyl-C(alpha)-methylphenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-CoA Carboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylhydrazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter oeni"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcholinesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyscirpenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen cysteinylglycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter calcoaceticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-threonyl-leucyl-aspartyl-alanyl-aspartyl-phenylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-Cell Intracellular Antigen-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde oxime"@en .
+
+<http://id.nlm.nih.gov/mesh/M0136746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosamycins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, aspirin, caffeine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetopyrrothine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, pholcodine, pseudoephedrine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1-alpha-galactosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0269783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanine methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, codeine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-C16-ceramide-NBD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylruthenocene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-tetrakisphosphate 3-kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,5,6-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholine mustard"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268447>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,3,4,6-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-asparaginyl-methylglycinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholine receptor alpha-subunit (125-148)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoguanaminium hydrogen maleate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol Polyphosphate 5-Phosphatases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetanilide N-deacetylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone monooxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotic acid B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen-mercapturic acid conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylamino propylidene diphosphonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inoscavin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glucagon-like peptide 1 (7-34)-amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, phenylpropanolamine, phenyltoloxamine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylleucine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyldigitoxins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalization, Stimulus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone-4-methylthiosemicarbazone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine 2',3'-O-(1-(6-aminohexyl)levulinic acid amide)acetal 5'-monophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetanaerobacterium elongatum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated pectic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRPPA protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "env Gene Products, Human Immunodeficiency Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4,6-trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Translocation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, dextromethorphan, doxylamine succinate, pseudoephedrine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltaurine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcolletotrichin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acemannan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Autoimmune"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated actin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-3,4,5,6-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enviomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanyl-alanyl-lysyl nitrite-phenylalanyl-alanyl-alaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl fucoidan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "snpn-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK8IP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-Cell Acute Lymphocytic Leukemia Protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bacterial polysaccharide immune globulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP2 protein, Coturnix japonica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceglatone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0430160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-histidyl-phenylalanyl-arginyl-tryptophanamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pharmacokinetics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-arginyl-tryptophyl-tryptophyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid-2-hydroxy-6-(3-oxo-butyl)phenyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0354446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol heptakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General Adaptation Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglycyrrhetinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol cyclic 1,2-phosphate 1-phosphodiesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl CoA-(beta-aminoethyl)-L-cysteine omega-N-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glutamyl-glutamyl-methionyl-glutaminyl-arginyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-N-dimethylleucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245429>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmartynoside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aminoisobutyryl-alpha-methylvalyl-aminoisobutyryl-aminoisobutyryl-alpha-methylvalyl-aminoisobutyryl-histidinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldeoxynivalenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EnvF protein, Salmonella typhimurium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phosphothreonyl-prolinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acess-A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmuramyl-valylisoglutamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetomicrobium hydrogeniformans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell immunodeficiency, congenital alopecia and nail dystrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, caffeine, guaifenesin drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167879>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-glycyl-aspartyl-serinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094812>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmaltose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0442969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Secretion Systems"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldehydro-3-(2-thienyl)alanyltyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO80 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Activating Enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135439>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacrolein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-aspartic acid p-nitroanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 4,5-bisphosphate 1-phosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPKKK18 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-tryptophyl-alanyl-histidyl(TauBzl)-Nip-glycyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetate-CoA ligase (ADP-forming)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-asparaginyl-O-(2-malonyl)tyrosyl-isoleucyl-aspartyl-leucyl-aspartyl-leucyl-valinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholine receptor gamma, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxy-1-hydroxy-epoxy-H-9,11(13)-guaiadien-12,6 -olide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acenocoumarol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol hexakisphosphate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acecainide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Conserved Sequence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcellulose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldoifosphamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0041665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosithin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acepentalene"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium submarinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy and Paroxysmal Dyskinesia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl thioalanine N-methyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceto-orcein"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter sicerae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-Phe-Gly-Gly-N-methyl amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INOSITOL TRANSPORTER 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inogatran"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glycyl-valyl-allo-isoleucyl-seryl-glutaminyl-isoleucyl-arginyl-prolyl-cysteinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acernikoenoside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-kaikasaponin III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0054544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Victoria blue B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin carboxyl-Terminal Hydrolase L-1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin carboxyl-Terminal Hydrolase L-1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4,5-trisphosphate kinase 2, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetophenoneazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042395>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acephate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetaldehyde Dehydrogenase Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin 50-59, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acebutolol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceratioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592840>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin carrier proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl coenzyme A-salutaridinol-7-O-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Crp protein, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetamides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colon, Transverse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "general secretion pathway protein, Xanthomonas campestris"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin ligase Ubr4, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetoin reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Domestic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228262>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inophyllum B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO80B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-phenylalanyl-tryptophyl-isoleucyl-asparaginyl-lysine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetofilamentum rigidum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucinal-nor-leucinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonography, Computed Tomographic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Macrophages, Peritoneal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACEMB compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ace2 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,5-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium bakii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholine mustard aziridinium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceclidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B virus surface antigen P31c"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter oryzifermentans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell inhibitor, STI protein, Salmonella typhimurium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol phosphate glycan"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter fabarum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotsuoxide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GENERAL REGULATORY FACTOR11, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerinol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl(4)-(aspartyl(5)-histidyl(6)-phenylalanyl(7)-arginyl(8)-tryptophyl(9)-lysyl(10))cyclo-alpha-MSH(4-10)amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceglutamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quarantine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA - lysine N6-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Victoria blue 4R"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Inbred Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aceraceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000733819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acer2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-glutamyl-alanyl-leucyl-phenylalanyl-glutaminyl-ethylpropionate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalicylsalicylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Policy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphtheno(1,2-b)-1,4,8,9-tetraazatriphenylene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine nucleosidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449294>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl trioctyl citrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,4,5,6-pentakisphosphate 2-kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Triphosphatase Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanine 4-nitroanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,6-trisphosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-glutaminyl-isoleucyl-valyl-tyrosyl-lysinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylornithine transaminase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 4,5-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mapk8ip3 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoacetates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcaine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-lysyl-prolyl-seryl-seryl-prolyl-prolyl-glutamyl-glutamic acid amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA-1-alkyl-2-lyso-sn-glycero-3-phosphocholine acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colonization factor antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsulfapyridine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Transferrin Receptor Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-prolyl-phenylalanyl-phenylalanyl-aspartamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-Asn-Gln-Glu-Gln-Val-Ser-Pro-Tyr(3-iodo)-Thr-Leu-Leu-Lys-Gly-NC100194"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNPH protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylthiamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Macrophages, Alveolar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylasulam"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-histidyl-tryptophyl-arginyl-tyrosyl-prolyl-leucyl-prolyl-leucyl-prolyl-glycyl-glutaminamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter persici"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonyl-coenzyme A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Infections and Mycoses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis delta Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetophthalidin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Diseases, Functional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Env-Mlvi-4 protein, Moloney murine leukemia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylaminophenylarsine oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Chronic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Structures"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter lovaniensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsoyasaponin I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphthenequinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoanaerobium noterae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087329>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylbleomycin A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusane D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, hydrocodone drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalicylic acid lysinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk15 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General Surgery"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcysteine(asparaginyl-alanyl-asparaginyl-proline)3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylardeemin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bibliography of Medicine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethyl 1-(2-(4-(1-(4-methanesulfonylphenyl)-3-trifluoromethyl-1H-pyrazol-5-yl)phenylmethoxycarbonyl)pyrrolidin-1-yl)diazen-1-ium-1,2-diolate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AceDAN-ZnPor-Lyso"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA 1-D-myo-inosityl 2-L-cysteinylamido-2-deoxy-alpha-D-glucopyranoside acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol nicotinate, mefruside, reserpine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme UBCv1, African swine fever virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Microbiology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsulfocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103282>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsialomucin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylbritannilatone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylgalactosamine deacetylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prospective Payment System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-alanyl-alanyl-alanyl-alanyl-alanyl-lysine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,4,5,6-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid, antipyrine, benzocaine, glycerol, polycosanol drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-isoleucyl-aspartyl-aldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositolphosphorylceramide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Conjugating Enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanine beta-naphthyl esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA-inducing protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol triphosphate phosphomonoesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceglutamide aluminum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0143664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine 5'-(3-thiotriphosphate)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-CoA C-Acyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0092572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colon carcinoma monosialoganglioside antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceanthrylene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyphenurone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylnovadral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-aspartyl-2-aminoacridone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor Vbeta 8.2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACER-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK1IP1L protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-(2-naphthyl)alanyl-4-chlorophenylalanyl-3-(3-pyridinyl)alanyl-seryl-histidyl-n5-aminocarbonylornithyl-tryptophyl-tyrosyl-prolyl-alaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-aldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde dehydrogenase (acylating)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA-pseudotropine acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Varices without Portal Hypertension"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol trispyrophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inokosterone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-glutamyl-arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl glyceryl ether phosphorylethanolamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylene-allene thioester isomerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl hypofluorite"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRPK1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic activator protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE protocol 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1-pyrophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor Vdelta2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylthreonyl-leucyl-asparaginyl-phenylalanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine-guanosine hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Typing Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3,6-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0353008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Outbred Strains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylspiramycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-specific peptidase 46, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4,5-triphosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Science"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoguanaminium 3-hydroxypicolinate monohydrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl ferulaic isosorbide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ace protein, Enterococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetophenone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-histidyl-alanyl-alanyl-alanyl-histidyl-alaninecarboxamide tetraammineruthenium(III) conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tyrosyl-prolyl-methylasparaginamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-arginyl-methionyl-tyrosyl-arginyl-arginyl-isoleucyl-tyrosyl-arginyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis vaccine MTH 68-B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-2-naphthylalanyl-3-chlorophenylalanyl-1-oxohexadecyl-seryl-4-aminophenylalanyl(hydroorotyl)-4-aminophenylalanyl(carbamoyl)-leucyl-ILys-prolyl-alaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-Arg-AEEA-(d)Ala-(l)boroPro"@en .
+
+<http://id.nlm.nih.gov/mesh/M0193022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin, des-(75-76)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylbenzenesulfonyl fluoride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen cysteine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Infectious Canine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalization, Response"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061126>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpyrrolidinecholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Victoria"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetatifactor muris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidotetramethylrhodamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylglucosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone cyanohydrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inorganic Chemicals"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylviloxazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tryptophyl-glutamyl-aspartyl-tryptophyl-valyl-glycyl-tryptophyl-isoleucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid, peracetic drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0047774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylfuratrizine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-(2-naphthylalanyl)(2)-4-chlorophenylalanyl-(3-pyridyl)alanyl(3)-seryl-tyrosyl-n5-aminocarbonylornithyl-tryptophyl-tyrosyl-prolyl-alaninamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acequinocyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "crps-7 protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor Vbeta 8.2 (76-101)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanyl-leucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glutaminyl-glutaminyl-arginyl-phenylalanyl-glutaminyl-tryptophyl-glutaminyl-phenylalanyl-glutamyl-glutaminyl-glutaminamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis D, Chronic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl bromide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic antigen, Trypanosoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP-5 protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosinylyl-(3'-5')-inosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acellular Dermis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, dextropropoxyphene, drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter heidelbergensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcysteine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acediasulfone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl FR-900130"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Pranobex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldeschloroelatol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyleugenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetabularia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylamino-phenylprophyl-benzoylamino-phenylpropionate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552259>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-prolyl-hisitidyl-alanyl-histidyl-phenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120328>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidoeugenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-(LSLLLSL)3-CONH2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyltransferases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,4-bisphosphate 4-phosphohydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpseudouridine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetomicrobium mobile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetalic resin, Acetal-Dental"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "iganidipine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylfawcettiine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerboside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-2,6-dimethyl-4-benzoquinone imine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis C Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium fimetarium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpelseneeriol-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-alanyl-alanyl-N,N-dimethylglutamine fluoromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acedoben"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltelluronium choline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltylophoroside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acethropan-S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Defective Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Shedding"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tyrosyl-valyl-alanyl-aspartic acid p-nitroanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO80 complex, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetanilide hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-N-methyl-alanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EnvA protein, Chlamydia psittaci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colony inhibiting factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodenticides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0298286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wisconsin Card Sorting Test"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3,4-tetraphosphate 5,6-dipyrophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646857>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylshikonin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alpha,beta-dehydrophenylalanine methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylprolyl-alpha,beta-dehydrovaline methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glycyl-glycyl-glutaminyl-aspartyl-isoleucyl-phenylalanyl-methionyl-threonyl-glutamy-glutamyl-lysine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylthiocholine iodide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetonatobis(2-(2'-benzothienyl)pyridinato-kN,kC3')iridium(III)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin vinylmethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acenaphthenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "victoria blue"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk8ip3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-4-phosphono(difluoromethyl)phenylalanyl-valyl-prolyl-methioninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-prolyl-alanyl-histidinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-lysyl-lysyl-seryl-phenylalanyl-lysyl-leucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic inclusion protein, Potato virus Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ENV protein, Caprine arthritis encephalitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme 22, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine dialdehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colony promoting activity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Victoria blue BO"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyoxirane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Newborn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl benzyl disulfide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylaspartyl-valyl-aspartyl-alanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic antiproteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltropic acid 4-pyridylmethylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium tundrae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldexphenmetrazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-CoA synthase, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4-bisphosphate 5-phosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter suratthaniensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-acyl carrier protein synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglucosaminyl(1-3)acetylgalactosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylicariin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Specific Proteases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625897>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acernikoenoside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltyrosyl-arginyl-arginyl-glutamyl-arginyl-thioglycyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized elastolysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0421848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpodocarpic dimer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acebutolol azide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-CoA reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, phenyltoloxamine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylstrophanthidin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgaA protein, Salmonella typhimurium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acer1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082990>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin hexadecapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B virus X protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphtho(1,2-b)quinoxaline-7,12-dioxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "env-sea oncogene protein, Avian Erythroblastosis Retrovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO80 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetochlor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP regulator protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor V(gamma)3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetothiolutamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetals"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colon, Ascending"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-phosphotyrosyl-aspartyl-leucyl-leucyl-leucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin carrier protein kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0243501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl cedrene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-seryl-leucyl-valine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyacetanilide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2,4,6-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidofluorescein-kinesin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoin Dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2,4,5-trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol polyphosphate multikinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187420>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium carbinolicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglucomannan esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylaleuritolic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inostamycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylleucovernine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010218>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter papayae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylene hydratase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucinyl-leucinyl-methional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Pseudo-Obstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-tyrosyl-valyl-alanyl-aspartyl-7-amino-4-methylcoumarinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylprolyl-alanyl-alanine-N-methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter farinalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotsuoxide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyladenosine triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081288>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acephenanthren-5-one"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetosyringyl-beta-glycoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-arginyl-arginyl-amidomethylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetohydroxamic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intensive Care Units, Neonatal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Virus, Woodchuck"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetone-(2-hydroxypropyl)cyclodextrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-glycan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl trihexyl citrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-arginyl-arginyl-seryl-phenylalanyl-arginyl-leucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Pollutants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inophyllin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-leucyl-normethional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltanshinone IIA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerogenin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000674520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fretibacter rubidus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetic Anhydrides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Livestock"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetrizoic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasmic Streaming"@en .
+
+<http://id.nlm.nih.gov/mesh/M0388427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetato(N,N,N',N'-tetrakis(2-pyridylmethyl)-1,3-diamino-2-propanol)dizinc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oxides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Core Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA-acetoacetate CoA transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter pomorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Adhesion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetate-CoA Ligase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,2,3,5-tetra angelate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylselenocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ENV-2 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220976>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACEA 1011"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsulfapyridine-O-glucuronide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldendrillol-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter malorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl di-starch adipate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpolyamine amidohydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acefyllin piperazinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450259>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceroside B2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0275596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-bombesin (7-14)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltrialanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoanaerobium pronyense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme UBC9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanylserine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetosulfame"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl CoA-1,4-diaminobutane N-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enviroxime"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTMC-PEG-PTMC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Congenic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-valyl-lysyl-cyclo(cysteinyl-threonyl-glycyl-isoleucyl-cysteinyl)-glutamamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0364655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme UBC8"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AceDAN-H2Por-Lyso"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethyl 1-(2-(4-(1-(4-sulfamoylphenyl)-3-trifluoromethyl-1H-pyrazol-5-yl)phenylmethoxycarbonyl)pyrrolidin-1-yl)diazen-1-ium-1,2-diolate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Pouches"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mapk14a protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-glutamyl-alanyl-glutamyl-alanyl-arginyl-alanyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidoacetonitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetagastrodine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-Gly-Arg-Arg-Arg-Arg-Arg-Gln-Arg-Arg-Arg-Pro-Pro-Gln-Gly-Cys amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol pentakisphosphate kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acebilustat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen hemisuccinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylhomocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonialism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholine receptor kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl coenzyme A - 10-hydroxytaxane O-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inotersen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodent Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0420670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,3,4,5,6-pentakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyloxypropylene dimethacrylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-cysteinyl-alanyl-isoleucyl-histidinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanyltyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Physiological Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-cyclo(aspartyl-prolyl-2-naphthylalanyl-arginyl-tryptophyl-lysyl)-prolyl-valyinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0407320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetatobis((bis(2-benzimidazolylmethyl)amino)ethanol)manganese(III)acetatomanganese(III)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNP nonapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-aspartyl-chloromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpuerarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colony-Stimulating Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl acetone dioxygenase, Acinetobacter johnsonii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis C"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter cibinongensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme UBC4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated concanavalin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0338133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapkbp1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AceK protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid, calcium hydroxide (Ca(OH)2), calcium salt (2:1), mercapto-, strontium hydroxide (Sr(OH)2) drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetabutone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-calmodulin ligase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenyl-alanyl-lysine chloromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acebutolol, nifedipine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4,6-trisphosphorothioate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Monophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylarginyl-asparginyl-cysteinyl-tyrosyl-asparginyl-N-methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0073687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylgalactosaminylserine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcodeine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3-trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxime"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis E virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoepiatalantin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor Vgamma9, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066030>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmonoethylcholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "env protein gp36, Human immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidofluorescein-bovine serum albumin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bibliography"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644137>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Indicators"@en .
+
+<http://id.nlm.nih.gov/mesh/M000732026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope protein, SARS-CoV-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalicylic acid hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylapoaranotin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pharmacokinetics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetone azine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasmic Structures"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotic acid A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Psychology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamide 45"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylbergenin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalization, Psychological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpolyamine deacetylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylgalactosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol requiring enzyme-1, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol hexaphosphate-adenosine triphosphate-polyethylene glycol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,6-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081771>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol NAD epimerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bibliography, National"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hygiene Hypothesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-prolyl-alanyl-prolyl-tyrosylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE-011"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA, secretory receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-ELLKKLLEELKG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin R-48"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Protein Ligases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0051034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpyruvic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone-cyanohydrin lyase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol 1,4,5-Trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter heylii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-RYYRIK-NH2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid cyano-(6-methoxynaphthalen-2-yl)methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-glutamyl-aspartyl-alanyl-isoleucyl-tyrosinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl(cyclo-methionine)isopropylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO4 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylthiocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EnvE protein, Salmonella typhimurium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colonization factor antigen II receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0041183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylenic carbamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-conjugating enzyme BRUCE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Nucleotides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-lysyl-para-aminobenzyloxycarbonyl-adriamycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetomicrobium thermoterrenum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0594114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Restoration and Remediation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542840>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Load"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen glucuronide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerboside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inoscavin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-alpha-(3-hydrazinocarbonyl-4-methoxyanilino)-alpha-oxoacetyl-alanine methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen deacetylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium malicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis C Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK8IP3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0399125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2,3,4,5-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpelseneeriol-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol 1,4,5-trisphosphate 3-kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-lysine chloromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis C immune globulin, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-N-methyl-glycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147434>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 3,4-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylenedicarboxylic acid dimethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACER2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetazolamide adipate ethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3,4,6-pentaphospate 5-pyrophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589904>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetabuloplasty"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanyl-alanyl-alanyl-alanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin ligase SlATL31, tomato"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inostamycin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562978>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-Coa Carboxylase Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Medicine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter trehalosifermentans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Capsules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-sarcosyl-glycyl-valyl-isoleucyl-threonyl-norvalyl-isoleucyl-arginyl-proline ethylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde hydroxysulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone carboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acedapsone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetiromate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylmuramyl-Alanyl-Isoglutamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246709>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde-lysine adduct"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO-4995"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosamine-phosphate amidinotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Laboratory"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Biomarkers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol polyphosphate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium wieringae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcholecystokinin C-terminal heptapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062748>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethylbenzylnitrosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoleucyl-glycyl-leucine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylenic 5',5',6',6'-tetradehydro-6'-deoxyhomoadenosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter syzygii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,4-trisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone hydrazone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter okinawensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acernikoenoside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerifolin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylethylcholine mustard"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol nicotinate, pholedrine sulfate, troxerutin drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-arginyl-arginyl-amidomethylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcarnitine hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-caffeic acid-1-piperonylpiperazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-lysyl-alanyl-alanyl-OH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,3,4,5,6-pentakisphosphate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-seco-hemicholinium-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007505>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environment, Controlled"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl adenylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO 1001"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetaldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO80 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "igantibe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmartynoside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldiethylcholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNP1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Proton-Translocating ATPases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetate Kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ace3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inotilone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0064667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanylglycinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Zoo"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000137>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-arginyl-ketobenzothiazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltanghinin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2,3,4,6-pentakisphosphate-2-phoshomonoesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152097>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylquinine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol Niacinate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol hexasulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPKAP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylneurotensin (8-13)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Outer Membrane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine monophosphate synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium carbinolicum subsp. kysingense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylvalerenolic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxynitroestrone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin C-terminal 7-amido-4-methylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colon, Sigmoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Surface Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE-ECE-1 dual inhibitor FI"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter pasteurianus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phosphotyrosyl-leucyl-prolyl-glutaminyl-threonyl-valinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acecarbromal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Polyps"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acevaltrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter ghanensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphthylene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acepreval"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcyclohexene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inoviridae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-alanyl-alanyl-OH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin specific protease 36, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intensive Care Units"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis Delta Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environment"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphthenequinone thiosemicarbazone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetophenazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-cyclo(aspartyl-prolyl-D-phenylalanyl-arginyl-tryptophyl-lysyl )amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanyl-prolyl-boroarginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 2-monophosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl blancoxanthone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyliodocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Suckling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpyruvate hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetoxyacetylaminofluorene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoleucyl-tyrosyl-glycyl-glutamyl-phenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl Coenzyme A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA-specific metalloendopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylurea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceclofenac"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylgastrodin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Chromatophores"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter musti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450258>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceroketoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceto-carmine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter aceti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaldehyde 2-(2-ethoxyethoxy)ethyl 4-(methylthio)phenyl acetal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl-phosphothreonyl-piperidine-2-carboxylic acid-2-naphthylalanyl-glutaminamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell leukemia translocation-associated protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl CoA-tropine acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin Thiolesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylspermidine oxidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmethionyl-prolyl-arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-glutamyl-valyl-aspartal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetopropyl alcohol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Crp32 protein, Cotesia rubecula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceprometazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-dehydrophenylalanyl-valyl-N-methyldehydrophenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmannose receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B hyperimmune globulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen, caffeine, carisoprodol, diclofenac drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine-adenosine-guanosine-preferring nucleoside hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138580>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen mercapturate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine triphosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0136191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bacterial adhesin receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis B virus-binding protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoasparaginyl-methylglycinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetolactate Synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodent Control"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated peptide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl dehydrophenylalanyl-alanyl-N-methyldehydrophenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Env7 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylspermidine deacetylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-prolyl-glutamyl-tryptophyl-leucyl-arginyl-aminoisobutyryl-glycyl-valyl-threonyl-phenylalanyl-prolyl-glycyl-tyrosyl-isoleucyl-threoninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-CoA C-Acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ranavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitinated Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylethylcarbinol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phosphotyrosyl-phosphotyrosyl-phosphotyrosyl-isoleucyl-glutamic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Toxins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol 1,4,5-Trisphosphate Receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-cyclo(aspartyl-octahydroindole-2-carboxylic acid(6)-4,4'-biphenylalanine(7)-pipecolic acid(8)-tryptophyl-lysyl)amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0424509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EnvC protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colony-Forming Units Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin C-terminal hydrolase 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Viral, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetaldehyde"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter estunensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inotodiol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPKBP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-CoA synthetase acetylase, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-parathyroid hormone (25-30)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated human fetal hemoglobin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Diphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phosphonooxytyrosyl-Ac6c-asparagyl-amino(3-naphthalen-1-ylpropyl)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylgitoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldipeptide B2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0337897>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl(leucyl-alanyl-arginyl-leucyl)3-beta-alanyl-beta-alanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sNPF-R protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin adenylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acemosin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoin-2,6-dichlorophenolindophenol oxidoreductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colony Collapse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACE bond Se"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin vinyl sulfone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-aspartyl-histidyl-phenylalanyl-arginyl-beta-methyltryptophyl-lysinamide, cyclic (2-7)-peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglutamate kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy With Febrile Seizures Plus, Type 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mapk8ip3 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-(arginyl-alanyl-aspartyl-alanyl)4-amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environ LpH"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inositol Oxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-asparaginyl-prolyl-methyltyrosinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetal copolymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inorganic Pyrophosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis A virus, VP3 protein (62-75)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl chloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylcarnitine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ubiquitin-Protein Ligase Complexes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General Practice, Dental"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin carboxyl-terminal hydrolase 47, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetatotetrakis((3-phenoxyphenyl)porphyrinato)rhenium(III)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxycycloheximide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-4-dimethylaminosalicylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACEA 1416"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acein-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamidofluorescein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylesterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213218>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-N-dimethyl-alpha,beta-dehydroleucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACER3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsalicylate, glycine, lysine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylalanyl-prolyl-valyl-trifluoromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-arginyl-glutamyl-isoleucyl-norleucyl-arginyl-7-amido-4-methylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colon-specific antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope protein, endogenous retrovirus-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylaranotin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CRP-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylacetonate-1,5-cyclooctadiene rhodium I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Genetically Modified"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetohalobium arabaticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bacterial leucyl aminopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl 4-aminosalicylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen-cysteine conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SNP-1 protein, synthetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,3,4,5-tetrakisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-dephospho-CoA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aminoisobutyryl-glutaminyl-isoleucyl-isoleucyl-aminoisobutyryl-prolyl-leucyl-leucyl-aminoisobutyryl-prolyl-leucinol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-phenylalanyl trifluoromethyl ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Snp protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0437716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetamiprid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphenylalanyl acrylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell receptor Vgamma6, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetate decarboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 3-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylanonamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-aspartyl-lysyl-proline"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter mrazii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A Virus Cellular Receptor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-norleucyl-cyclo(aspartyl-Aic-(2-naphthyl)alanyl-arginyl-tryptophyl-lysyl)amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgA-specific serine endopeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132728>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin precursor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404439>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethyl N(3)-(4-methoxyfumaroyl)-2,3-diaminopropanoate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envoplakin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyldigoxins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethyl-2,2,5,5-tetramethylpyrrolidine-1-oxyl-3-carboxylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetic acid 3,6a,9-triacetoxy-6,6a,7, 11b-tetrahydro-indeno (2,1-c) chromen-10-yl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acepromazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intensive Care Units, Pediatric"@en .
+
+<http://id.nlm.nih.gov/mesh/M0354469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inolimomab"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerogenin L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylserotonin O-Methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldithio-coenzyme A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelope protein, Feline immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonitrile anion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerogenin M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceriphyllic acid B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl isothiocyanate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-2-naphthylalanyl-chlorophenylalanyl-1-oxohexadecyl-glycyl-arginyl-prolyl-alaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetonema longum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wisconsin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytoplasmic linker protein 170"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium paludosum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacteraceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AceP protein, Acetobacter xylinum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0427179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAPK-interacting and spindle-stabilizing protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-aspartyl-alanyl-aspartyl-glutamyl-phosphotyrosyl-leucinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyldehydro-3-(2-furyl)alanyltyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylglycyl-N-methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-AAVALLPAVLLALLAP-DEVD-CHO"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-lactate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetogenins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000604028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Exotic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envZ protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-CoA hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ptms protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylated hemoglobin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inostamycin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylselenonium choline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inonotusol G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-arginyl-tyrosyl-tyrosyl-arginyl-isoleucyl-argininamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetylglucosaminidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Health"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Biodegradable Plastics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-Lys-Leu-Arg-(l)boroPro"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetaminophen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-S-(4-cyanoanilinomethyl)cysteine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-isoleucyl-glutamyl-threonyl-aspartyl-7-amino-4-trifluoromethylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482497>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inotuzumab Ozogamicin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTM 88 alloy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetate-SH-(acyl-carrier-protein) enzyme ligase (AMP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcarnitine arginyl amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylsulphametrole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,2-cyclic-4,5-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Crp protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "reovirus type 3 receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium woodii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucinal-leucinal-normethional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitin-Nalpha-protein hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetosellin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "envelysin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis A virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylarsenocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter thailandicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-glutamyl-histidyl-aspartyl-7-amino-4-methylcoumarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylxylan esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetotartaric acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceranol acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter orientalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-decaalanine N-methylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acer protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acerifolin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl acetonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoacetyl-CoA synthetase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565765>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inosine Phosphorylase Deficiency, Immune Defect Due To"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463961>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mapk8ip2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,4,5-trisphosphate 1-(2-nitrophenyl)ethyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetol dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl tert-butyl dimethylindan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "crp protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environment Design"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetabulum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetate-succinate CoA-transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxymethylphenylnitrosamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetanilides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inosine diphosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-prolyl-histidyl-seryl-cysteinyl-asparaginamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Wild"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625748>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-leucyl-arginyl-ketothiazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetohexamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General Practice"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylinsulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacterium dehalogenans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxyestrone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 4-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0150473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,4-bisphosphate 1-phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B e Antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter pasteurianus subsp. pasteurianus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016801>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General Practitioners"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bacterial Outer Membrane Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252030>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INO2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetone phenylhydrazone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055529>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol cyclic phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoxytubipofuran"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colonic Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,2-cyclic 4-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylcorynoline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyltetrahydropapaverine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter indonesiensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACER1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenaphthene"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetitomaculum ruminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acemethacin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodentibacter rarus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetaminophen sulfate ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylmethionyl-prolyl-arginyl-glycinamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,4,5,6-pentakisphosphate 2-kinase, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl 3''-O-benzyl-coenzyme A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057662>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetoneberberine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental Monitoring"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prospective Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "T-cell reactive fusion protein, Coccidioides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Generalized Epilepsy with Febrile Seizures Plus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animals, Poisonous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-cyclo(cysteinyl-histidyl-leucyl-aspartyl-cysteinyl)isoleucyl-tryptophan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylpyridinoline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylphosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetosyringone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetophenones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytoplasmic Granules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetonylgeraniin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis B Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylthiourea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-alanyl-alanyl-tyrosine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetyl-CoA Hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000654218>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-macrocalin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Crp79 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis delta virus large antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hepatitis C protein F, Hepatitis C virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatitis, Alcoholic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol 1,3,4-trisphosphate 5-6-kinase 4, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter nitrogenifigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aceroside B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl-seryl-aspartyl-(N-acetyl)-lysyl-proline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetylenic alcohol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inositol-1,3,4,5-tetrakisphosphate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetyl sulfisoxazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acetovanillone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acetobacter ascendens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acenol (insect attractant)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acemetacin"@en .

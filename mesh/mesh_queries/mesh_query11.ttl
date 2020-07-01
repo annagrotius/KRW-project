@@ -1,0 +1,1675 @@
+<http://id.nlm.nih.gov/mesh/M0476527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5 Convertase, Classical Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Analog-Digital Conversion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a, (Tyr-70-77)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor beta isoform M, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028432>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regression, Psychology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Receptor Neurons"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilation-Perfusion Ratio"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Capacitance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular adhesion protein-1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1s"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor A (138-165)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-associated placental tissue protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Fusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular apoptosis-inducing protein 1, Crotalus atrox"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complementary PR3 (138-169), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lyticum sinuosum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "avian retrovirus proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor-related receptor beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum inhibited related protein I, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum albumin-EDTA-manganese complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3g"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Mucosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor (8-109)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic protein, guerin epithelioma, neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1r"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum response factor, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement factor D, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluorescence Polarization"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C4b-Binding Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane steroid binding protein, lens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor alpha (295-311), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-associated PGE synthase-1, rabbit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane glycoprotein antigen GP22, Schistosoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement factor D, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute-On-Chronic Liver Failure"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Remodeling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C4a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Fixation Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Physiological Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogens, conjugated synthetic A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigenic Modulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum response factor kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor A, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cells, Cultured"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C4b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Receptor beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Bactericidal Test"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Replacement Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum albumin, bovine (152-168)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute-Phase Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501326>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Malformations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geography, Medical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548840>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parasite Load"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004932>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Bactericidal Antibody Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015259>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Tubercle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Btbd6a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5b-8 complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor activator protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Receptor Antagonists"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3d,g"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139885>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C9b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogens, Non-Steroidal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Kidney Injury"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "olfactory cyclic-nucleotide-gated channel 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute rheumatism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine-L-serine phosphatidyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0387104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor gamma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pronethalol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587258>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rabies virus glycoprotein peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane and microfilament-associated protein p58, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Physiological Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum resistance associated protein, Trypanosoma brucei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3bBa complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lytic control element-binding protein 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regression Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane progestin receptor gamma, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0073512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen 2-hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogens, conjugated synthetic B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Albumin, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C2a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic factor 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446826>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0362537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virulence factor p28, Ectromelia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Calcification"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Hemolytic Activity Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1 Inactivator Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C4a, des-Arg"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Hyalinosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Glycoproteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C4A7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Leukosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement regulatory protein, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279673>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement regulator-acquiring surface protein-1, Borrelia hermsii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000662947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lyticum flagellatum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VASCULAR-RELATED UNKNOWN PROTEIN1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor D Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen-induced uterine creatine kinase, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3e"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Nerve"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000624136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Ring"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antigenic peptide Ealpha52-68"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor deltaE7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Antagonists"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD10 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Microdomains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen sulfatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Inactivating Agents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor I Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular purpura"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine-ceramide phosphoethanolamine transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Amyloid P-Component"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Btbd7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Fusion Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Inactivator Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hyenanchin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rabies virus nucleoprotein N (404-418)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor B, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160152>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane glycoprotein 80"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular System Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute-Phase Reaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum polyglobulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NSs protein, Bunyamwera bunyavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane glycoprotein gp42, rat NK cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1 Inhibitor Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142881>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5b receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane nuclease MnuA protein, Mycoplasma pulmonis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3-C5 Convertases, Alternative Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prone Position"@en .
+
+<http://id.nlm.nih.gov/mesh/M000615510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTB-POZ Domain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum immunosuppressive factor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004933>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3b Inactivator Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor alpha, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C2b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Stiffness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Virulence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Virulence Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proneurotensin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rabies virus glycoprotein (253-275)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Albumin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Physiological Effects of Drugs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "olfactory receptor I7, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "deubiquitinating enzyme A, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "analogs & derivatives"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3d-k"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement H100"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3f-des-arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cells, Immobilized"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement System Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Malformation, Primary Intraosseous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted phospholipase A2 group XII protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a, (57-77)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "olfactory receptor 692, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Pathway, Mannose-Binding Lectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021595>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tissues"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acute flaccid myelitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor H Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted antigen 1, Babesia gibsoni"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a, (70-77)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum P-component"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Leukosis Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parasite Egg Count"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Headaches"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fluorescence probe E1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement 4 nephritic factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Grafting"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Pathways"@en .
+
+<http://id.nlm.nih.gov/mesh/M0380375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Response Element"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen regulated protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine - dolichol acyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogens, Conjugated (USP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute brachial neuritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pronephros"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Compression of the Duodenum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Globulins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted frizzled-related protein 5, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted glycoprotein, Ebola virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Exosomes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component 4a Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0410438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluorescence Recovery After Photobleaching"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute bee paralysis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0434269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "parasitenone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor 1, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum sodium transport inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted autotransporter toxin, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Virulence Factors, Bordetella"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ischemic Preconditioning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5a, des-Arginine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Pathway, Alternative"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTB-1 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C9 polymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a, des-Arg-(77)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum albumin-EDTA-gadolinium complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Closure Devices"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor C, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor Receptor-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Generalized Exanthematous Pustulosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3 Convertase, Alternative Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0365759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement activation blocker 2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "avian adenovirus type 1 proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component 6 Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membranes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parasitemia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Btbd9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Perception"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Albumin, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum cancer-suppressive peptide, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rabies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute fatty liver of pregnancy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148714>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Cofactor Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor 2a, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antigenic Variation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted ookinete adhesive protein, Plasmodium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Receptor Modulators"@en .
+
+<http://id.nlm.nih.gov/mesh/M000636599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C1q-like protein 3, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "avian glycoprotein 50-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilation-Perfusion Scan"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum amyoid A4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor Receptor-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geography"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane progestin receptor alpha, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ischemic Preconditioning, Myocardial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complementary human autoantigen proteinase-3 (105-201)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278728>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen binding site, type II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "methods"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3a, (72-77)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acute-phase phosphoprotein pp63"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Lipids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-associated PGE synthase, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Progression-Free Survival"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parasites"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Patency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proneuropeptide Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deubiquitinating Enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor C, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acute-phase protein rho"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Radiation Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute cholinergic dysautonomia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute zonal occult outer retinopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fluorescence probe NBzF"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phosphatidylethanolamine Binding Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine-binding protein, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3-C5 Convertases, Classical Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine hydroperoxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Sickness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogen Receptor alpha"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3a"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascularized Composite Allotransplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complementarity Determining Regions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component 4, Partial Deficiency Of"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor 2b, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0401161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C4c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "olfactory receptor 17-4, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Membrane Attack Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Pathway, Classical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor repressor-10, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor A, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-bound adrenal trypsin-like enzyme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C1 inhibitor Ta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum albumin, Tyr(411) anthraniloyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement component 5 deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C2, C allele protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular basement membrane-derived multifunctional peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5 Convertase, Alternative Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluorescence Polarization Immunoassay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Bulb"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular peroxidase, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD18 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membranes, Artificial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane protein, 75kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Sarcoma Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "innate repair receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parasite Encystment"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Retroviral Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Access Devices"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular calcification-associated factor, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000732027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane protein, SARS-CoV-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute malaria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rabies Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Activating Enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-associated factor, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "olfactory G protein subunit alpha olf"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum-glucocorticoid regulated kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum thyroid hormone reducing factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "phosphatidylethanolamine N-acyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane associated iron chelator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane progestin receptor beta, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Febrile Encephalopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum thymic factor receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0388066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Sex-specific W-linked protein, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Potentials"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Nerve Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "evolved beta-galactosidase, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ischemic Contracture"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Resistance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3-C5 Convertases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular endothelial growth factor D, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deubiquitinating Enzyme CYLD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Community-Acquired Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogenic Steroids, Alkylated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3 Nephritic Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "btbd2a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute erythroleukemia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTB 06237"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-bound proton-translocating PPi synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Cortex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500631>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Coronary Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor alpha, medaka"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C5b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Chest Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0123869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5a-inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phosphatidylethanolamine N-Methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3 Convertase, Classical Pathway"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD6 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0044856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascularin-Gel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Pain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogens, Catechol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Factor D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5a, (65-74), Tyr(65)-Phe(67)-Pro(69,71)-Ala(73)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement factor H, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component 3 Deficiency, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian Myeloblastosis Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum tumorlytic factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ventilation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component C1s Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogens, Esterified (USP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Transport Modulators"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Amyloid A Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Cell Adhesion Molecule-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Fluidity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute cerebral Gaucher disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Novirhabdovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BTBD9 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Lung Injury"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen-induced secretory glycoprotein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement-control protein, Vaccinia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Methods"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ProNectin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement 1q receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor Receptor-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C1q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0193024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "avian thymic hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluorescence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C3f"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "membrane-bound transcription factor peptidase, site 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Nerve Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145296>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5b-6 complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Albumin, Radio-Iodinated"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen receptor alpha 36, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vascular calcification-associated factor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Olfactory Marker Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0160475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Serum Response Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fluorescence Resonance Energy Transfer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rabies virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement C3d"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C4d"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ubiquitous tissue antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "secreted phosphoprotein 24"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum albumin (1-24)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Endothelial Growth Factor, Endocrine-Gland-Derived"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "acute disease antigen A, Coxiella burnetii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complement Component 7 Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016644>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phosphatidylethanolamines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564656>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acute Tubulointerstitial Nephritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement C5b-7 complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Potential, Mitochondrial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0381156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complementary Therapies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Surgical Procedures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "innate defense regulating peptide 1018"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lyticase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catalytic Domain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Membrane Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0235348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "estrogen-inducible transferrin receptor-like membrane glycoprotein, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0411811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "serum-inducible kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ischemic Postconditioning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vascular Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Kinetics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Estrogens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complement regulator-acquiring surface proteins, Borrelia burgdorferi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Avian dependoparvovirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ischemic Attack, Transient"@en .

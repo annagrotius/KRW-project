@@ -1,0 +1,2263 @@
+<http://id.nlm.nih.gov/mesh/M0563794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy with Negative Electroretinograms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aberrant growth and death2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane serine protease-1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte-specific protein p50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Suid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sulfates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic enteropathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "jungianol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophil Granule Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Education Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing, Supervisory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HmsH protein, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Pleural"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junctional Adhesion Molecule A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 2, Gallid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAB2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophil Peroxidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAP2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COV1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna13 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographic Locations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein, Simian immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NecroX-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406700>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, Escherichia coli O111 B4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate cellufine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512466>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna12 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MprA protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 121"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Gallid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518949>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology, Surgical"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Hypoplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDC213 peptide, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nectria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic Fasciitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eosinophilopoietin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual altered peptide ligand"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniperonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, Proteus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000684057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COVID-19 diagnostic testing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HmsF protein, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Subsets"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Glioma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Ocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Staff"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectinepsin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin 5'-triphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 51"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNG protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide galactosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "herpesvirus protein gp57-65"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin 5'-sulfamate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophil Major Basic Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 4, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necdin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectarin 4 protein, Nicotiana tabacum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgin subfamily A member 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Activation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JunD protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "herpesvirus saimiri protein, Saimiriine herpesvirus 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 192, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Assessment"@en .
+
+<http://id.nlm.nih.gov/mesh/M000618626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 178, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Illusions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neck Muscles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNAR2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489707>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide-6B, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd6ip protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000653657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JUN protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necrostatin-7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate adenylyltransferase (ADP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy and cataract, autosomal dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 214, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCL2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy, Deafness, Ophthalmoplegia, and Myopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necab3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 5989-29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Laryngeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy polyneuropathy deafness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncin O"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necropsobacter massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNgamma-NGR peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA13 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necatorin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA17 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 147, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nectins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniperoside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566249>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Hypoplasia and Abnormalities of the Central Nervous System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Homes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582434>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNL4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin 2',3',5'-triacetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic pustular folliculitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrobiotic Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Lobe, Nonmammalian"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane glycoprotein, Ebola virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAB2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0429936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniper tar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Evaluation Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Pulmonary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nectin3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junctional Adhesion Molecule B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junipediol A 2-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0428609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated cholecystokinin 15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "golgicide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 117"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna14 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0558979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD10 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pdcd4b protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Juniperus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mprA protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Equid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNLR1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junctional Adhesion Molecule C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin amidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated acrylic acid-vinyl alcohol copolymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473322>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NEC3 protein, Nicotiana tabacum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi membrane glycoproteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD2L protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology, Veterinary"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte cytosolic protein 1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aberrant subclavian artery"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543249>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrolytic Migratory Erythema"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectin-like molecule 1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide glucosyltransferase II"@en .
+
+<http://id.nlm.nih.gov/mesh/M000731043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COVID-19 drug treatment"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCB1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Oral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated glycoprotein 185"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Staff, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jun a 3 protein, Juniperus ashei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceoside D"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Anti-Platelet Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Assistants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0395791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 112"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFN-alpha21a(1-75), IFN-alpha2c(76-165) fusion protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual oxidase, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 4793-14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 4587-056"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy, Hereditary, Leber"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 4, Equid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Theory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD10 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic Esophagitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NEC1 protein, Petunia hybrida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 3, Gallid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469308>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junctin protein, Oryctolagus cuniculus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mpr1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 260, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000638956>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sulfate Transporters"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Rotation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis Societies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrobiosis Lipoidica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifnar2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi Apparatus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAB3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Biochemical Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0338086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HMST protein, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate radical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd6ip protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcl protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496188>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide J"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hantavirus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Tumor-Infiltrating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PdcA protein, Myxococcus xanthus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Specific Protein Tyrosine Kinase p56(lck)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188700>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Cement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncin Q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531591>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic nerve hypoplasia, familial bilateral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNGR2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide E"@en .
+
+<http://id.nlm.nih.gov/mesh/M000641051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi Matrix Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junin virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022120>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Lymph Node"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Process"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Culture Test, Mixed"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin-5'-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Opticocochleodentate Degeneration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy with Demyelinating Disease of CNS"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nectin2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aberrant Crypt Foci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eosinophil stimulating promoter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Central Nervous System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Tweezers"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CovR protein, Streptococcus agalactiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic synovitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "C-type natriuretic peptide (1-22), Tyr(0)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, E. coli O26-B6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optically Stimulated Luminescence Dosimetry"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 3021-012"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECTIN3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Renal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing, Team"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0210838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPRR protein, Streptomyces lividans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipopolysaccharides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Function-Associated Antigen-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, Helicobacter pylori serotype O2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nec protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Count"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD5 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte antigen-6 epidermis, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MPR300 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 34, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectriapyrone C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy 1 and deafness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipopolysaccharide Receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd4 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Endocrine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceoside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi and lysosome-associated GLP-1, Trypanosoma brucei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 2, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junctophilin-2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0405025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pdCpdA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HmsR protein, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509904>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAB1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000731044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COVID-19 serotherapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceoside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M000655165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated lactosyl archaeol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 4, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncusol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrotizing encephalopathy, infantile subacute, of Leigh"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Specificity Phosphatase 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necrostatin-1i"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual oxidase Udx1, sea urchin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Antigen 96"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 7, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NodE protein, Rhizobium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFN-gamma(95-132) peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectarin V protein, Nicotiana tabacum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing, Practical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optics and Photonics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necator americanus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd11 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 76"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNL2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDC1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Audit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "C-type lectin, Rat Cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015364>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Rotatory Dispersion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Avian"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncenolide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Transfusion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilic Granuloma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pdcd2 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi-Mazzoni Corpuscles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hantavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate permease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "covalitin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Flow"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi phosphoprotein 4, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD11 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 5989-25"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Devices"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "jun a 1 protein, Juniperus ashei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Zement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectandrin-B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDC2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI-113"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCL protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD6IP protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, E coli O55-B5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0365578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "covalitoxin II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 8, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology Department, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M000695998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COVID-19 vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Restriction Mapping"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 2, Saimiriine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eosinophil chemotactic factor-L, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncin P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgin-160 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030686>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pathology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate-O-3-xylosyl-(4-methylumbelliferone)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrostatin-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neck Pain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022121>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Male Genital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560426>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Imaging"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Records"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide I, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junD protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy, Hearing Loss, and Peripheral Neuropathy, Autosomal Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual orexin receptor antagonist 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA14 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juncin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jundp2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pdcd10a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 352"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Methodology Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 3021-022"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Spinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, E coli J5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jungian Theory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte proliferation potentiating factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceelolide C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated pentagalloylglucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419152>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi complex autoantigen, 97-kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated Le(a) pentaosylceramide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated polyvinyl alcohol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectriapyrone D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy, X-linked"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Fibers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographic Tongue and Fissured Tongue"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Female Genital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necab1 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jun o 2 allergen"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAP1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAP1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifngr2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectamazin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junctophilin-2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JUN-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide IP-PA1, Pantoea agglomerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNG protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual MEDICAID MEDICARE Eligibility"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFN-inducible protein p27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Hypoplasia, Bilateral"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 33, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "golgin-84, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane serine protease 2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JunB protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Chiasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFN-alpha21a(1-95), IFN-alpha2c(96-165) fusion protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JunB protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna10 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561911>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniferdin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nectin1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mprip protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rTid-1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing, Private Duty"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 109, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Null"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Resonance Frequency Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNL3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transmembrane Activator and CAML Interactor Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eggshell protein, Schistosoma japonicum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Care"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology, Molecular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Specificity Phosphatase 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophils"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necturus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necrox-7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophil Cationic Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Meleagrid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd1lg2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated polyanions depolymerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sporozoites"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 82"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Cardiovascular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology, Clinical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Cercopithecine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniperigiside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0185560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI-COC 32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Meningeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Service, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Specificity Phosphatase 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junipeginin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Multidrug-Resistant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jun a 2 protein, Juniperus ashei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA21 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgin45 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectrisine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Ranid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophies, Hereditary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD10b protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015359>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Neuritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mpr1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectin 4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNLR1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Cooperation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated polymannuroguluronate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDC-TREM protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoantigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Splenic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide, Helicobacter pylori"@en .
+
+<http://id.nlm.nih.gov/mesh/M000681578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COVID-19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin 3',5'-phosphate pentadecamer homoribopolymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necatoriasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNAR1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual specificity phosphatase 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necitumumab"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 5, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcl protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neck Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "jungermannenone b"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 6, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Gastrointestinal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophil-Derived Neurotoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunogenicity, Vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "covi-ox"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dual stem cell factor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAP2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated beef insulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECTIN2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectamazin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CovS protein, Streptococcus pyogenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195121>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide O-antigen acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Diagnosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceoside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optical Storage Devices"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate-3-glucuronyl paragloboside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrobiotic Xanthogranuloma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Aplasia, Bilateral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Osteoarticular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sulfate Adenylyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Disk"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide-binding protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "JunD protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Administration Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neck Dissection"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 3, Equid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECTIN1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Junctional Adhesion Molecules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NECAB2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000603244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Use Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lymphocyte effector molecules"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi adaptor protein 1, bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necroptosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNL1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eosinophil granule ontogeny transcript, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necrodol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifna3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 1, Canid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Atrophy Spastic Paraplegia Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necturus maculosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MprB protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated glycoprotein p50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide O-chain, Naxibacter alkalitolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane envelope glycoprotein gp45, retrovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nursing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfate-binding protein, bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Cutaneous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathology, Oral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI 130"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Opticospinal Multiple Sclerosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated fuco-manno-1,6-galactan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NEC1 protein, Streptomyces scabies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Nerve Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0378627>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MprA protein, Burkholderia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junionone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceellolide I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Disk Drusen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD1LG2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Miliary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 2, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Services"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide II, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junctophilin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mprF protein, Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Specificity Phosphatase 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Neuropathy, Ischemic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "jun-like bZIP A protein, Aspergillus nidulans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ribavirin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual-Specificity Phosphatases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Informatics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniperolide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "necrostatin-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocyte Depletion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTI40 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Toll-Like Receptor 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Induction Chemotherapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCD6IP protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Urogenital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herpesvirus 3, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jung Wolff Back Stahl syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000618625>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transmembrane protein 178, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ifnar1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0421371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographic Information Systems"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neck"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipopolysaccharide-6A, Yersinia pestis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic Tract"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Stations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Biochemical Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Optic atrophy 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilia-Myalgia Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDCL3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographic Atrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "juniper berry oil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ribavirin 5'-diphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eosinophilia, Familial"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "jungermannenone c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0435811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sulfated colominic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RTII70 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pdcd2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "golgin-67"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tuberculosis, Hepatic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PDC-M-TO 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000668102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necropsobacter rosorum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFNA8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nectamazin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Markov Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hantavirus Pulmonary Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dual Oxidases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "junceelloside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nursing Faculty Practice"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographic Mapping"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240780>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Golgi antigen 372-kDa"@en .

@@ -1,0 +1,1895 @@
+<http://id.nlm.nih.gov/mesh/M000660051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseburia faecis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius halophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660021>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga ehrenbergii"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas riguiloci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aquatica"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious flacherie virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious pancreatic necrosis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmarinic acid methyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius gaetbuli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Differentiation-inducing factor-1, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosuvastatin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dominance, Ocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Sucrose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseicyclus mahoneyensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nervous System Agents"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas hibiscisoli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmaridiphenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Anemia Virus, Equine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tlr4ba protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseobacter litoralis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nonlinear Dynamics"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenbergiella collisarenosi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Arterial Occlusive Disease 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659662>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira thiosulfatophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0064239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenthal's inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosacelose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164426>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosenonolactone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN-induced putative kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating pheromone 2, Euplotes raikovi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ovine herpesvirus-2 glycoprotein B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Blood Stem Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibaca ekhonensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4-MD2 protein complex, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fipexide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired Immunodeficiency Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosavin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunization"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga spongicola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Disease Transmission, Vertical"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas suffusca"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Tolerance"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659644>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius marisflavi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine Respiratory Coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymic humoral factor gamma 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunization Schedule"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LpsD protein, Sinorhizobium meliloti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099448>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "primer activating enzymes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosigenin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "polyvalent DSHT vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas deserti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028764>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine Reproductive and Respiratory Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosette Formation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseinatronobacter monicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP-2B protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659686>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas nepalensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0269285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TlrD protein, Streptomyces fradiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659656>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius algicolus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Approaches To Stop Hypertension"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymic epithelial tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rossicasin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosinidin 3-O-(6-O-(alpha-rhamnopyranosyl)-beta-galactopyranoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LPSF-PT05"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532633>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired amegakaryocytic thrombocytopenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complications"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseofilum reptotaenium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR7 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ovine gammaherpesvirus 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacula alcaliphilum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544021>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rossinone B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lactation Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax marinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas vinacea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nerves"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseofungin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacterium elongatum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius pelophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0168918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating pheromone Er-10, Euplotes raikovi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline leukemia virus receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax lentus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RoseOX"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659976>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas gilardii subsp. gilardii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP1L1-PDGFRA fusion protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosaniline Dyes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoflavin adenine dinucleotide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating pheromone Er-1, Euplotes raikovi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseburia cecicola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Bovine Rhinotracheitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LPS 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660022>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga echinicomitans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, and Spongy Degeneration of Brain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Services"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas rhizosphaerae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas alkaliterrae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius confluentis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseophilin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosoxacin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosbin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR11 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymic humoral factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virion protein, belladonna mottle tymovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseicitreum antarcticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0335072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "putative killer toxin-like protein, Streptomyces sp."@en .
+
+<http://id.nlm.nih.gov/mesh/M0541446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tlr4bb protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenbergiella australiborealis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr11 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Vascular Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira navarrensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoredoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RosB protein, Streptomyces davawensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Emphysema, Hereditary Pulmonary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "polyvalent pseudomonas vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosoxacin N-oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibaca calidilacus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fip1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosarin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga seohaensis subsp. seohaensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Fats, Unsaturated"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas stagni"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius lutimaris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rose Bengal B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunization, Passive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FipA protein, Fusobacterium nucleatum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379450>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Somatic Hypermutation, Immunoglobulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LpsE protein, Rhizobium meliloti"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas cervicalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratamine-3-O-beta-D-cymaropyranosyl-(1-4)-beta-D-digitoxopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ross River virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseimicrobium gellanilyticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROS1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4-associated protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659687>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas musae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169968>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virion protein mu, adenovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseaflavanonoloside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roselipin 1A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius albus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0378491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR protein, bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rossicasin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virion protein, erysimium latent tymovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired angioedema"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP-fve protein, Flammulina velutipes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseococcus thiosulfatophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dietary supplement, SPORT"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosmarinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas tokyonensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LPS binding protein (86-99), Ala(95)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired CJD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseolovirus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immature laminin receptor protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacterium beibuensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius pacificus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Tumor-Infiltrating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fipamezole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN Phosphohydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosbin protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax jejudonensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virion protein, Calopogonium yellow vein virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roselipin 3A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas terricola"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas gilardii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019269>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rose Bengal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius nubinhibens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymic Aplasia with Fetal Death"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LpS1 protein, Lytechinus pictus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LPS rhamnosyltransferases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine rubulavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseateles terrae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forms as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunization, Secondary"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseitalea porphyridii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270702>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating pheromone Er-11, Euplotes raikovi"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas radiodurans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305708>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TlrB protein, Streptomyces fradiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aestuarii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rose-oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feline Infectious Peritonitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius azorensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROS1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mexico"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymic stromal lymphopoietin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028615>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseolovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451740>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ros1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosen's T-10 protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FiP1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659990>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aerophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391493>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmarinecine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ptena protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TlrC protein, Streptomyces fradiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibium sediminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006748>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dominance-Subordination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Supplements"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurodegeneration with brain iron accumulation (NBIA)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating hormone alpha2, Phytophthora"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunization Programs"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax sediminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira mediosalina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoredoxin reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius tolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosoloactone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymic shared antigen-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious spleen and kidney necrosis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseiarcus fermentans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Batson's compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637721>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feline morbillivirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosanae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534709>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratamine-3-O-beta-D-oleandropyranosyl-(1-4)-beta-D-cymaropyranosyl-(1-4)-beta-D-cymaropyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga seohaensis subsp. aquiponti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine epidemic diarrhea virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas soli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr12 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired Protein S Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Encephalitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius litoreus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0438980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmaquinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLRP protein, Nicotiana tabacum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas baikalica"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660029>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseimaritima ulvae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas mucosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseaflavanonoloside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius aestuariivivens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymic-Renal-Anal-Lung dysplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008298>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feline Panleukopenia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosicaside F"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660030>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseimarinus sediminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired hypoprothrombinemia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Disease Incubation Period"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseococcus suduntuyensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN2a protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseobacter denitrificans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosenone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmaricine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymic Factor, Circulating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Mononucleosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired Hyperostosis Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosselli-Gulienetti Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacillus ponti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseobacter"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax isoporae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roselipin 3B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas terrae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Disease Transmission, Professional-to-Patient"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659978>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas frigidaquae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostrinucin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius nitratireducens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine Postweaning Multisystemic Wasting Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660054>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseateles depolymerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transduction, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoferin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious bursal disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseisolibacter agri"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas pecuniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosemorgen"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine circovirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius atlanticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548317>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasticity-related gene 5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523532>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR3 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ros1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aerofrigidensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosettacin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibium hamelinense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ptenb protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dominance, Cerebral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lactation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax salinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira marina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseocardin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius scapharcae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP1L1-RARA fusion protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROSA22 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmarinic acid n-butyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP-18"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseburia inulinivorans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peripheral membrane protein 43K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseorubicins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virion host shutoff protein, Simplexvirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga seohaensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas sediminicola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Fiber"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr13 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fipronil sulfone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius indicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Emphysema, Congenital, With Deafness, Penoscrotal Web, And Mental Retardation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostafuroxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas arcticisoli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious hematopoietic necrosis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenthal-Kloepfer syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Emphysema"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roscovitine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseaflavanonoloside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphocytes, Null"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius aestuarii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roselipin 2A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline leukemia virus vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseiflexus castenholzii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired ichthyosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas ludipueritiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseobacter prionitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN2b protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenbergiella nectarea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "polyvalent melanoma cell vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospirillum parvum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosenone B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosiglitazone-metformin combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating factor, Ala(9)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacillus persicicus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline oncornavirus-associated cell membrane antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosemarinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax halotolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mating hormone alpha1, Phytophthora"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Carbohydrates"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "peripheral myelin protein 22, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Disease Transmission, Patient-to-Professional"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas fluminis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius nanhaiticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROSY1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROS3 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseateles aquatilis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rossicaside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas elaeocarpi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pten protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Porcine respiratory and reproductive syndrome virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseisalinus antarcticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas oryzicola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0228790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "porcine myeloid antibacterial peptide 23"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fipronil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLRR protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius aquimarinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosamultic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nonlinear Optical Microscopy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aerilata"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibium denhamense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurodegeneration Due To Cerebral Folate Transport Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pten protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax roseus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira goensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nervous System Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lpsZ protein, Rhizobium meliloti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius salinarum"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613420>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nerve Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseburia intestinalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Arterial Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLRP protein, Lycopersicon esculentum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022750>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Virion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosaprostol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas globiformis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0401149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pten protein, pufferfish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga maritima"@en .
+
+<http://id.nlm.nih.gov/mesh/M000669862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Commensalibacter intestini"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas rubra"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feline Panleukopenia Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "primer protein, Bacteriophage M2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseburia hominis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0304553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymic shared antigen-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Haplotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline leukocyte antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP37 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0476611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline leukemia virus protein p15E"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius halotolerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008765>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forms and Records Control"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymic aplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M000653215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4 antagonist FP7"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivirga marina"@en .
+
+<http://id.nlm.nih.gov/mesh/M000733783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4 agonist G100"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas arctica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosaramicin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Blood Stem Cell Transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmaquinone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0380993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosaceae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tlr6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Sugars"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmarinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseicyclus marinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired pure megakaryocytic aplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas lacus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseobacter ponti"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosuvastatin lactone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0307201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immature thymocyte-specific antigen, IMT-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosuvastatin Calcium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosette-decreasing factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mating Factor, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosenbergiella epipactidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659661>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseospira visakhapatnamensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious bronchitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fiprozyme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mating Preference, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Cone Dystrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibacillus ishigakijimensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nervous System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosette-inhibiting factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "porcine bladder submucosa matrix-poly(D,L-lactide-co-glycolide) composite"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax halodurans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Emphysematous Cholecystitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Fats"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659673>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas terpenica"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius mucosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosemary oil"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR4 decoy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TLR2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000618824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostracine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0382103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LpsB protein, bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas eburnea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PTEN protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseinatronobacter thiooxidans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rose Bengal acetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas oryzae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rost protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius antarcticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseadine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Homeostasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosamultin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosales"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Acquired agranulocytosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas aeriglobus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseotoxin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseibium aquae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rossinone A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "feline leukemia virus protein p27"@en .
+
+<http://id.nlm.nih.gov/mesh/M000660008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseivivax pacificus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas wooponensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dietary Exposure"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peripheral Nervous System Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Infectious Disease Medicine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rosmaridiphenol diacetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseovarius ramblicola"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoflavin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosiglitazone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613421>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rostratin D"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "somatic embryogenesis receptor-like kinase 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0377566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "porcine protein kinase 98, Sus scrofa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Feline Acquired Immunodeficiency Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas gilardii subsp. rosea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FIP1L1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rosacea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "roseoflavin mononucleotide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pten Hamartoma Tumor Syndrome With Granular Cell Tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000659679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Roseomonas rosea"@en .

@@ -1,0 +1,891 @@
+<http://id.nlm.nih.gov/mesh/M0549336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "axisonitrile 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Aspiration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0064090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chymotrypsin-like cationic protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaside C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral enhancing factor, Trichoplusia ni granulosa virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Interference"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Notification"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Combinatorial Chemistry Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine leukemia virus protein p10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Resistance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral protein 1054, baculovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine adrenal medulla 8-22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TCRVgamma9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002851>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bovine Virus Diarrhea-Mucosal Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Progressive Interstitial, of Sheep"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helixor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0351414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CfpA protein, Treponema phagedenis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral alkaline nuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine mitochondrial endonuclease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Nonstructural Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral protein 60, rabbit hemorrhagic disease virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000615196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Oblique Muscles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Reservoirs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198332>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-Uniblue A conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Structures"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activation, Metabolic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557505>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaside E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helixor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183170>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine ribonuclease peptide (41-61)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tfs1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Real-Time Polymerase Chain Reaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0434098>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TcrB protein, Enterococcus faecium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0385352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "axisonitrile 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Ventilator-Associated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS-1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP17 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activation Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fats"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bovine mastadenovirus A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-poly(methyl methacrylate) conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral chemokine CXC-1, Cytomegalovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helix, Snails"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Thermoplasty"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal chemodectomas with cutaneous angiolipomas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211721>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral coat protein, Cowpea aphid-borne mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Spasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "axistatin 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mtb81 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Activities of Daily Living"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540849>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Wound Closure Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Svs6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral FLIP protein, Human herpesvirus 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bovine Respiratory Disease Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helix-loop-helix protein, eHAND"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bovine papillomavirus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mtb8.4 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaquinone B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diseases in Twins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tcrk1 protein, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dysbiosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Necrotizing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372876>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mtbp protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Tail Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine gamma globulin-penicilloyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Arteries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Transmission, Infectious"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral FLIP protein, Molluscum contagiosum virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0231902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SIV envelope glycoprotein gp160"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TCRzeta protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625880>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Materials Science"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Mycoplasma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Load"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine adenovirus type 3 proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TCR Vbeta3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Outbreaks"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helix lectin receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP29 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral V antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP-10 protein, Mycobacterium leprae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine vitreous lipid factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine herpesvirus type-1 glycoproteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Materials Management, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022705>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Core Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Targeted Gene Repair"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mtb72F-AS02A vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Hyperreactivity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helix-Loop-Helix Motifs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP21 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526447>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Tropism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP-10 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Regulatory and Accessory Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Svs2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Vessels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine antimicrobial protein-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Rickettsial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helixoside A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Siva protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Smokers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Susceptibility"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia of Swine, Mycoplasmal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaside F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TCRK3 protein, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bovine papillomavirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Metastasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mothers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cfp32 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MTBVAC vaccine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Materials Testing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008258>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fats, Unsaturated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Fusion Protein Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP-10 protein, Mycobacterium bovis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Lipid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181030>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine adenovirus type 7 proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal cystic lymphangioma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine cartilage extract"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546595>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sivasinolide 6-O-angelate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "axistatin 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024034>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Structural Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine viral diarrhea virus receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Eradication"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP25 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enhanced cyan fluorescent protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MTB12 antigen, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MTBP protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Muscles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027839>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease-Free Survival"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TcrHT1 protein, Trypanosoma cruzi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hepatocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SIV envelope protein gp110"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-dextran conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deficiency of interleukin-1 receptor antagonist"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Abscess"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473386>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral IAP associated factor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helix-Turn-Helix Motifs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0351760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Wall"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaflavone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Progression"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Hepatitis Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Abnormalities"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fatsicarpain A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enhanced Recovery After Surgery"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Pneumocystis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP-10 protein (71-85), Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0220074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SIV envelope protein gp41"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SIVA1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-corticosterone conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Irradiation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "enhanced green fluorescent protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP 6 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deficiency Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Atypical Interstitial, of Cattle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustolide L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207317>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SIV(mac) proteinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Matrix Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchial Provocation Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TCRP protein, Oncorhynchus mykiss"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089877>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helix-destabilizing proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enhanced S-Cone Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-galactose (39)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Staphylococcal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral interferon regulatory factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral envelope lipids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaflavone-7''-methyl ether"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia of Calves, Enzootic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0368230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helixoside B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MTB48 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Injuries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Siva protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral superantigen 23, Mouse mammary tumor virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Vectors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral protein p6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Fat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "robustaside G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "sivelestat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135748>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine neutrophil beta-defensin 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202239>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "viral protein 1, rhinovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helix lectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Management"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Fusion Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Axis, Cervical Vertebra"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP20 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine adenovirus type 10 protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217622>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine hemoglobin-divinyl sulfone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lymphatic Vessel Tumors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ticks"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pneumonia, Pneumococcal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576262>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS-1 peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094245>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-DTPA complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575824>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mtb32 antigen, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530015>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal obesity metabolic syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "axistatin 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CFP22 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Envelope Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Models, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Svs5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Disease Attributes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Pain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Viral Plaque Assay"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Abdominal Cavity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0069831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SVS8 protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bovine serum albumin-LHRH conjugate"@en .

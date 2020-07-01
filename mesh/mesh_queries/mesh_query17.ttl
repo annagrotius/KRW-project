@@ -1,0 +1,927 @@
+<http://id.nlm.nih.gov/mesh/M0007603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Attachment"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095588>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "verofylline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin S"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionotropic receptor 93a, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclophilin D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionylideneethane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bundle of His"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptosis related protein 3, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0394428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Apoptosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclosporine metabolite M17"@en .
+
+<http://id.nlm.nih.gov/mesh/M000634682>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IONIS-ANGPTL3-LRx"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mersicarpine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin T"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelial microtubule-associate protein, 115 kDa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic initiation factor-5B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chb protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokinesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dairy Products"@en .
+
+<http://id.nlm.nih.gov/mesh/M0419373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Urine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Passive Cutaneous Anaphylaxis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ChbC protein, Borrelia burgdorferi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte-macrophage differentiation factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurons, Efferent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Urine Specimen Collection"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Binding, Competitive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493426>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nsg1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic subglottic tracheal stenosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Cell Adhesion Molecule"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nsg1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic release factor 1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin-4059"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ioniol II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "veronamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Exchange"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionotite F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin L1, Fasciola hepatica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG, sulfonated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-2B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokine Receptor Common beta Subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic Hypersomnia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion-Selective Electrodes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M0388150>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin L5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NSG2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Apoptosis Regulatory Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin B receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin X, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sendai cocktail"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic Pulmonary Fibrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocyte-Macrophage Precursor Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ChbA protein, Borrelia burgdorferi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG D1.3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-4F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurons"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242554>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionosit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionotropic receptor 25a, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptosis-induced regulator protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ChbG protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0425363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 16, Onchocerca volvulus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocytes, Activated Killer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085897>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic peptide initiation factor-1A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic pulmonary hemosiderosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536779>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionofil U"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "probestin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine receptor, GLM-R"@en .
+
+<http://id.nlm.nih.gov/mesh/M0054528>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "veronicastroside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Sodium Channel Blockers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGG autoantibody binding determinant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte-macrophage differentiation antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptosis inhibitor of macrophage protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclophilin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclosporine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 20-3, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin N"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bundle-Branch Block"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptosis protein inhibitor, porcine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHb-2 peptide, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic initiation factor-2 alpha, Toxoplasma gondii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Reduced Folate Carrier Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin-S1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Sodium Channels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0164767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclosporine metabolite M21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "verocytotoxin 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic orthostatic hypotension"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic basal ganglia calcification, childhood onset"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dairying"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Indicators and Reagents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complementarity Determining Regions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Passive-Aggressive Personality Disorder"@en .
+
+<http://id.nlm.nih.gov/mesh/M0224582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionos glass ionomer bone cement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG2c receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0262814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Channel Gating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003661>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nsg2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Recurrent Erosion Dystrophy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokine TWEAK"@en .
+
+<http://id.nlm.nih.gov/mesh/M000627104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionoalliacane A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionic Liquids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic Interstitial Pneumonias"@en .
+
+<http://id.nlm.nih.gov/mesh/M0433569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nsg1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332764>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelial adhesin 1, Candida glabrata"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "verongamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic Hypogonadotropic Hypogonadism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mechanistic Target of Rapamycin Complex 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic inflammatory myopathy, familial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 59, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539526>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ion transport peptide, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epidemiology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516595>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 71, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ion-transport peptide, Schistocerca gregaria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic intracranial hypertension with papilledema"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Exchange Resins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029249>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclophilin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sendai activating enzyme"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "urine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lions"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494636>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "hydrophilic methoxy hexa(ethylene glycol) methacrylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic release factor 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Squamous Dysplasia, Keratinizing Desquamative, of Urinary Tract"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bundle Branch Block, Familial Isolated Complete Right"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocyte Chemotactic Disorder"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocyte Chemoattractant Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionotropic receptor 40a, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHB1 protein, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptosis related protein 3, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "verotetrone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0046343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionox 330"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionozone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0402287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin hCyp-18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelial progenitor 1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110035>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nullo protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Apoptosis Inducing Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vero Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nsg2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NSG1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG Fc-binding protein, Streptococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "reduced epidermal fluorescence1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138060>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-4E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGG-horseradish peroxidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ChbB protein, Borrelia burgdorferi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neurons, Afferent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011679>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Iontophoresis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Binding Sites, Antibody"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic translation initiation factor 5A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic Juxtafoveal Retinal Telangiectasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "epithelial membrane protein-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine-like factor-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528313>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin Z"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-4G"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclosporine A, 4-((6-carboxy-1H-benzo(d)imidazol-2-yl)methyl)-4-methylthreonine)(1)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579317>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mechanistic Target of Rapamycin Complex 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin J, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ioniol I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin J"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mersyndol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Veronica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine-induced apoptosis inhibitor 1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokine-Induced Killer Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclosporine metabolite M18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Pumps"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628537>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHb-1 peptide, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Channels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-4A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ion Mobility Spectrometry"@en .
+
+<http://id.nlm.nih.gov/mesh/M000655792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin B, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin-6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Probiotics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0278415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte chemoattractant protein 1 (9-76)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial-Mesenchymal Transition"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Idiopathic dilation cardiomyopathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin Q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nucleolus Organizer Region"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eukaryotic Initiation Factor-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mersalyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine-induced apoptosis inhibitor 1, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine-inducible protein 29, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionoseal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokine Receptor gp130"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Veronate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495990>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte chemoattractant protein 1 (66-77)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396991>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chb3 protein, Streptomyces coelicolor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cathepsin M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin W"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "urine S 100 protein, alpha subunit, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic translational regulator p97"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin 38, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187431>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgG hinge protein-gastrin 17 (2-17)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sendai virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic release factor 1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0165451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "matrigel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cytokine inducible SH2-containing protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Allelic Imbalance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cathepsin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte locomotion inhibitory factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Binding Sites"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ionophores"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IONIS-PTP-1BRx"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ionotropic receptor 8a, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mersacidin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cyclophilins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cyclophilin H, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "monocyte-specific esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHB2 protein, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "eukaryotic release factor 3, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569038>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epithelial Sodium Channel Agonists"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monocyte Esterase Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokine Release Syndrome"@en .

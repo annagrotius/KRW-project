@@ -1,0 +1,1195 @@
+<http://id.nlm.nih.gov/mesh/M0175051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase T"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "metastasis-associated kinase, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helical erythrocyte lysing peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Sounds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Muscles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0144989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin D receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Protease I, Porphyromonas gingivalis W83"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Hormones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cubital Tunnel Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0173741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin A, Secretory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease SM"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MBL2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Protease La"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin epsilon-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubebin dimethyl ether"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Elements"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cubozoa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274788>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubylcarbinylamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokinesis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin G-binding protein, Streptococcus suis type 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen I-variant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubebol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403794>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubebenone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins, Intravenous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease nexin-protease complex receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Polymorphism, Single-Stranded Conformational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Airway Obstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Physiological Phenomena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0092191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Joining Region"@en .
+
+<http://id.nlm.nih.gov/mesh/M0077666>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental ribonuclease inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin G-dextran conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease I, Rarobacter faecitabidus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease-activated receptor 4, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "coronavirus receptors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase Cpro-1, hepatitis C virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0204373>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mbl2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ldsdh1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "respiratory syncytial virus immune globulin intravenous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin zeta, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0260814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease I, Pyrococcus furiosus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin a deficiency 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease Q"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSV-2 protease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Protease Nexins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Airway Remodeling"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Protease Inhibitors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease N"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory System Agents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease VC-I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nonstructural phosphoprotein 5A, GB virus type C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Therapy Department, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LDS-698"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase P"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Center"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mathematical Computing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507385>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Histiocytic Sarcoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506421>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase I, Dictyostelium discoideum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Burst"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin light chain protein Sm lambda"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525443>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nonstructural protein 1, West Nile virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mbl-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin kappa-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Switch Region"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Hypersensitivity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease A, Crotalus basiliscus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0351041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Circulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Tract Fistula"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Extracts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582522>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cubn protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290667>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Interacting Protein Serine-Threonine Kinase 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin A, immunoglobulin G, immunoglobulin M drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antiretroviral Therapy, Highly Active"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Class Switching"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase L2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lds2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase Cpro-2, hepatitis C virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin mu-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin G (285-292)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0234689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin alpha-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Syncytial Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Allotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Clinical Trials as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease MCP-01, Pseudoaltermonas"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Mechanics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus, Turkey"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental immunomodulatory ferritin protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Light Chains, Surrogate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease p15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011131>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin gamma-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Km Allotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease resembling ICE"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 13, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Distress Syndrome, Adult"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Syncytial Virus, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Immunity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Rate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Clinical Trial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin lambda-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Polymorphism, Restriction Fragment Length"@en .
+
+<http://id.nlm.nih.gov/mesh/M0202648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease inhibitor, Bacillus brevis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Airway Extubation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Variable Region"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease Ci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Paralysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease PACE4C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin lambda-like polypeptide 1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622671>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "respiratory burst oxidase 1, tomato"@en .
+
+<http://id.nlm.nih.gov/mesh/M0257227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase ECP 32"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Insufficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0005405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cuba"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mathematical Concepts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545515>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus NL63, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen-3, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mbl protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase yscE"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Duration of Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nonstructural protein, coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Endogenous Retroviruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CUB-serine protease, Panulirus argus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011126>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Fab Fragments"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Interacting Protein Serine-Threonine Kinases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Elements, Radioactive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Constant Regions"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mblac1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dynamin-related protein DRP3A, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase In"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mbl2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease IV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins, Thyroid-Stimulating"@en .
+
+<http://id.nlm.nih.gov/mesh/M0247563>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase inhibitor ATI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0435071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mbl protein, Bacillus subtilis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase inhibitor-inducing factor (tomato)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Heavy Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin-binding factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease D, Streptomyces griseus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0172502>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Case-Control Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Uganda"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase F1, Naja nigricollis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-CD3 Complex, Antigen, T-Cell"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Histiocytic Dermatoarthritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease inhibitor 16, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "respiratory complex II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vivonex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111025>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease activated kinase I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin-MBP3 protein, chimeric"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin A-sepharose 4B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory System Abnormalities"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dynamin-related protein 1, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Domains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin lambda-like polypeptide 1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328056>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Mucosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113879>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease So"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease-activated receptor 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Superinfection"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190498>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease p29"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "receptor-interacting protein 3, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Syncytial Virus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Tract Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Gm Allotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus OC43, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264077>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease SPC7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus 229E, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Dead Space"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Histiocytic Necrotizing Lymphadenitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin Facb fragment"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Light-chain Amyloidosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "airway trypsin-like protease, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease D, honeydew melon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Proteinase Inhibitory Proteins, Secretory"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CuBOT1 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease-activated receptor 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin J Recombination Signal Sequence-Binding Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Aspiration of Gastric Contents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Distress Syndrome In Premature Infants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018897>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Insufficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulins, Fd"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Function Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Sinus Arrhythmia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HsvG protein, Pantoea agglomerans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Therapies, Investigational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease inhibitor protein, Phaseolus lunatus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0176940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental antigen X-P2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cytokines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372701>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen A-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011124>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin delta-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "receptor-Ck"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551297>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "tivozanib"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus, Feline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "respiratory burst oxidase homolog D, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSV2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445976>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Physiological Processes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Tract Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Isotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Tract Absorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Polymorphism, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus, Rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisms, Genetically Modified"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory-Gated Imaging Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin M"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental lactogen I, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Singapore"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Underresponsiveness to Hypoxia and Hypercapnia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease-activated receptor 3, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin T, teleost"@en .
+
+<http://id.nlm.nih.gov/mesh/M0530751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin a deficiency 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567246>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontitis, Aggressive, 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045232>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental uterotrophic factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Suppression, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Placental Lactogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin G-sepharose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cubitus Valgus with Mental Retardation and Unusual Facies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MBLAC1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HSV-1 infection response repressive protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366850>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease B, Euphorbia supina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Fc Fragments"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Templates, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin M receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease XXIV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Fragments"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease, Moloney murine leukemia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Care Units"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease C1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Polymorphism, Single Nucleotide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "nonstructural C protein, Sendai virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin J-Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000612>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Airway Resistance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0060520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin Kol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0193620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lds protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137137>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase inhibitor B, arrowhead root"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Protective Devices"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease-activated kinase II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Function Tests"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540885>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Airway Management"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157231>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "immunoglobulin Fv"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease V"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Aspiration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase yscD"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Periodontitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Histiocytic Disorders, Malignant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Light Chains"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631629>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lds1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase inhibitor I (plants)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "receptor-like protein kinase 2, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase, foamy virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0186225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase R"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Iran"@en .
+
+<http://id.nlm.nih.gov/mesh/M0396005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubebin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Syncytial Virus Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "dynamin-like protein, Trypanosoma brucei"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "placental protein 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018919>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Tract Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581891>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cubitene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376295>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin Idiotypes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018890>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Distress Syndrome, Newborn"@en .
+
+<http://id.nlm.nih.gov/mesh/M000641392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Immunoglobulin G4-Related Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027314>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Respiratory Syncytial Virus, Bovine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0154410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease Re"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coronavirus, Canine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Receptor-Like Protein Tyrosine Phosphatases, Class 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "airway trypsin-like protease, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "protease inhibitor protein, Tylosema esculenturm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SSPE Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105317>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "proteinase inhibitor II protein, plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cuban OMP vaccine"@en .

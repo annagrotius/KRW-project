@@ -1,0 +1,1727 @@
+<http://id.nlm.nih.gov/mesh/M0013986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Sequence Data"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPEF1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar echinococcosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0414675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2''-O-(6'''-O-4-sinapoyl)glucopyranosyl)glucopyranosyl-7-O-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella Infections, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate D-glucosaminyl 3-O-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar Epithelial Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-xylopyranosyl-1-3-O-rhamnopyranosyl-1-6-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza virus-hemagglutinin peptide 2 (1-48)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblast-lymphocyte cross-reactive antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Broadly Neutralizing Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024524>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Heterotopic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(2''-O-galloyl glucoside)-4'-O-vinylpropionate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-apiofuranosyl-1-6-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-5-O-beta-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bleomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin phenylisocyanate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar Ridge Augmentation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Resorption"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-arabinopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-neohesperidose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-(6-malonylglucoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Pancreatitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fetal steroid-binding protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-((6-caffeoyl)-beta-glucopyranosyl-beta-glucopyranosyl (1-3) alpha-rhamnopyranoside)-7-O-alpha-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal bungarotoxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H5N8 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. salamae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H2N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Therapies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011586>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune oophoritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0116807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 3'-hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(4',6'-di-O-rhamnopyranosyl)glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572704>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(6''-galloyl) beta-D-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(6''-O-malonyl)glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin A5-pd(CCAAACA)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella"@en .
+
+<http://id.nlm.nih.gov/mesh/M000626449>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-rhamnopyranosyl-(1-6)-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 5-O-glucosyltransferase, Bombyx mori"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(alpha-L-rhamnopyranosyl-(1-2)-alpha-L-arabinopyranoside)-7-O-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-((6'''-O-caffeoyl)-alpha-L-rhamnose-(1-2)-beta-D-glucopyranosyl)-5-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-sambubioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3,4'-O-diglucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Quercetin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza Pandemic, 1918-1919"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Flavonoids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183530>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin-immunoglobulin G conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin-mannan conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza B virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-rutinoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE2 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Membranes, Premature Rupture"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Lymphoproliferative Syndrome, Type IA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arthropod Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-rhamnopyranosyl-(1-2)-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Egfr protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Alcohol Spectrum Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2'',6''-O-digalloyl)galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza virus hemagglutinin peptide 2 (1-23)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-rhamnopyranosyl-1-6-O-(glucopyranosyl-1-3-O-rhamnopyranosyl-1-2)-O-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ppef1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR-lytic peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0410237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-glucuronide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Heterologous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 7-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organelles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Docking Simulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Targeted Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal intestinal pseudoobstruction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-beta-D-glucoside-4'-O-alpha-L-rhamnoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Haploidentical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-L-rhamnopyranosyl-(1-2)-(beta-D-glucopyranosyl-(1-3)-alpha-L-(4-O-trans-p-coumaroylrhamnopyranosyl)-(1-6))-beta-D-galactopyranoside-7-O-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H9N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H10N7 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Epidemiology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192748>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transplantation antigen P91A, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arthropods"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Plasticity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epidemiological Monitoring"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate 3-O-sulfotransferase, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-acetyl-7,3',4'-trisulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0421535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR protein, Anopheles gambiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminths"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Hypophysitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Weight"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019395>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella paratyphi A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblast-derived growth factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate 6-O-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Extracts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Growth Retardation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-glucoside-7-O-rhamnoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-gentobioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207704>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza virus polymerase basic protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576516>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-5',8-disulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCR1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trophoblastic Tumor, Placental Site"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitory Concentration 50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Viability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(3-(4-hydroxy-3,5-dimethoxybenzyl)-alpha-L-rhamnopyranosyl)-(1-6)-beta-D-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 8-hydroxylase, Chrysanthemum segetum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Comparative Effectiveness Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRGP3 protein, Petunia hybrida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-7-O-arabinosyl-3-O-6''-acetylglucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0222478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helminthosporol"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. indica"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H3N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Distress"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminthiasis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal cell death inducible putative kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune polyendocrinopathy syndrome, type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-alpha-L-3'',5''-diacetyl-arabinofuranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation Tolerance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532259>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal trimethadione syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-beta-D-apiofuranosyl-(1-2)-beta-D-galactopyranosyl-7-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(6''-O-malonyl)galactoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella arizonae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561842>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR tyrosine kinase inhibitor 324674"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-rhamnopyranosyl-1-6-glucopyranosyl-1-6-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate L-iduronyl 2-O-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Typing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune progesterone dermatitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin-vanadium(IV) complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. houtenae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gestational Age"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004908>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Comparative Study"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza hemagglutinin (306-318)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390443>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin A5 glycoconjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Farming"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enteritidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "molecular chaperone GRP78"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblast glycoprotein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015477>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenzavirus C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291299>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3,7-dimethyl ether 3'-O-rhamnopyranosyl-1-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Outgrowth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020949>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathological Conditions, Signs and Symptoms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0044292>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 2,3-dioxygenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539887>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H7N1 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008406>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Monitoring"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Lymphoproliferative Syndrome, Type IB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0415950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronavigation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Dental"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gestational Diabetes Insipidus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Mortality"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systematic Review"@en .
+
+<http://id.nlm.nih.gov/mesh/M0244833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal pentraxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Homologous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Comparative Genomic Hybridization"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008394>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Development"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531856>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal intranuclear inclusion disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(beta-D-xylopyranosyl(1-2)-alpha-L-rhamnopyranosyl(1-6))-beta-D-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-rhamnopyranoside-7-O-beta-D-glucopyranosyl-(1-3)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-rhamnopyranosyl(1-2)-beta-galactopyranoside-7-O-beta-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thymus-leukemia antigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H7N9 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448539>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Mechanisms of Pharmacological Action"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Chaperones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "salmonella toxin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646871>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE37 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Probes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pcrA protein, Bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Lymphoproliferative Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella Phages"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza matrix peptide MAT(17-31)"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR-050"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Gland"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Heart"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550690>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate 6-O-endosulfatase, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-rhamnopyranosyl-(1-2)-beta-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Probe Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0350366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal protein 17.3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-6''-(3-hydroxy-3-methylglutaryl)glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblast antigen 2, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544384>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gestational Sac"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 3',5'-hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0407859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-apiosyl-2-1-O-galactoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-alpha-arabinofuranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Digital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin pentabenzenesulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRK1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-alpha-L-rhamnopyranosyl-(1-6)-beta-D-glucopyranosyl-(1-2)-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-dirhamnopyranosyl-(1''-2',1''-6')-beta-glucopyranoside-4'-methoxy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H3N8 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-beta-D-glucopyranosyl-4-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-beta-D-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal Cdk5 activator (p25-p35)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 5-O-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblastic glycoprotein 5T4, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. enterica"@en .
+
+<http://id.nlm.nih.gov/mesh/M000598803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-beta-D-glucopyranosil(1-6)-O-alpha-L-arabinoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008793>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza in Birds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0430168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-methyl ether"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2(G)-(E)-coumaroyl-3(G)-O-beta-D-glucosyl-3(R)-O-beta-D-glucosylrutinoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella Food Poisoning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE14 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune limbic encephalitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE55 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PpENA1 protein, Physcomitrella patens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Apoptosis-Inhibitory Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0131427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin O-3-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Movement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Lymphoproliferative Syndrome, Type I, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H7N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Hospital"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-(2,3,4-triacetylarabinopyranosyl-1-6-galactoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate alpha-N-acetylglucosaminyltransferase I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRGP1 protein, Petunia hybrida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation Chimera"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systematic Reviews as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-4'-O-beta-D-galactoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(3-O-syringoyl-L-rhamnopyranosyl)-(1-6)-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pathological Conditions, Anatomical"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRE1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 7-O-beta-D-apiofuranosyl-(1-2)-beta-D-xylopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H1N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate C5-epimerase, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Diagnostic Techniques"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal akinesia syndrome, X-linked"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015316>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Operations Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M0526945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Tract-Tracers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Egfr protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484627>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-glucopyranosyl-7-O-gentiobioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-glucosyl(1-3)rhamnosyl(1-6)galactoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella paratyphi B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440021>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3'-methoxy-4'-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alveolar macrophage-chemotactic factor-II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Hemoglobin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplant Donor Site"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Hormones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593693>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Special"@en .
+
+<http://id.nlm.nih.gov/mesh/M0115254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparanase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal nuclear antigen NeuN, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0240608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-glucopyranosyl-1-2-xylopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487601>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-5'-sulfonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-l-(2,4-di-O-acetyl)rhamnopyranoside-7-O-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Hyperplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 7-demethylartonol E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(2-E-sinapoxyl)-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplant Recipients"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "herdmanine E"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286011>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 4'-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Blood"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Diseases of the Nervous System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate 2-O-sulfotransferase, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Calcium-Sensor Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3,7-dimethyl ether 3'-O--rhamnopyranosyl-1-2-rhamnopyranosyl-1-6-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Structure"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642228>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gestational Weight Gain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H5N1 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminth Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminthiasis, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(6''-feruloyl)galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan sulfate sulfatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helminthosporoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000906>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amiloride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Research"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. diarizonae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin A6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010010>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminthosporium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Apoptotic Protease-Activating Factor 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Biology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 1-2 rhamnosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella paratyphi C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-beta-(2(G)-O-beta-xylopyranosyl-6(G)-O-alpha-rhamnopyranosyl)glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IFN-inducible protein p27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin BAPP"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 7-rhamnoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblastic androgen-binding protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amiloride, bumetanide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2''-galloyl)glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Motor Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblastic beta 1-glycoprotein receptor, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-sophorotrioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza matrix peptide (58-66)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-7-O-(alpha-L-rhamnopyranosyl(1-6)-beta-D-galactopyranoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0334067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal interleukin-16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525655>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3'-O-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar Bone Loss"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Organ Maturity"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(3',4'-di-O-galloyl)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516215>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE44 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar Process"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398989>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gestational Trophoblastic Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-sophoroside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Isogeneic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal protein E1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H1N1 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011584>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestine, Large"@en .
+
+<http://id.nlm.nih.gov/mesh/M0586278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-beta-D-xylopyranosyl-(1'2)-alpha-D-ribopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545840>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Sequence Annotation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-beta-(2''-galloyl)-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Helminthosporium victoriae virus 190S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza virus hemagglutinin peptide 2 (1-25)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fetal Alzheimer antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Imprinting"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(2'-O-tigloyl)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139816>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ptms protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 7-O-beta-D-apiofuranosyl-(1-2)-beta-D-xylopyranoside 3'-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "transplantation antigen P198"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE36 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal hydantoin syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EGFR protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0591776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H10N8 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572533>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 3'5' dihydroxylase, Camellia sinensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella typhi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Nutrition Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0209884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-galactoside-7-O-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mammals"@en .
+
+<http://id.nlm.nih.gov/mesh/M0448819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2''-O-rhamnosyl-6''-O-malonyl)-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-4'(O-glucosyl)1-6-O-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3'-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218480>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza hemagglutinin (307-319)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenzavirus A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082854>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fetal sulfoglycoprotein antigen, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Macrosomia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inhibitory diffusible factor 45"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Mimicry"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-alpha-L-(3,4-di-O-acetyl)rhamnopyranoside-7-O-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Heparan Sulfate Proteoglycans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021471>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thymus Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3'-sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amiloride, hydrochlorothiazide drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation Immunology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592000>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-7-O-beta-4''-deoxy-hex-4''-enopyranosiduronic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508808>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "intricatetraol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Imaging"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-2-(E-caffeoyl)-alpha-L-arabinopyranosyl-(1-2)-beta-D-glucopyranoside-7-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505570>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid artonin F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H5N2 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchiolitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0400343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin pentaacetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arthropod Vectors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Tissue Transplantation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528792>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helminthosporic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Weight"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella bongori"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchiolitis Obliterans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trophoblasts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Conformation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "flavonoid 6-hydroxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar capillary dysplasia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019393>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-(6''-galloyl)glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella invasion protein C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "heparan-sulfate 2-sulfotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Dynamics Simulation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576097>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-beta-D-xylopyranosyl-(1-2)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018639>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Endosomes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune Lymphoproliferative Syndrome, Type IIA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008409>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Globulins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Hypoxia"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(2',3',4'-tri-O-galloyl)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Medical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-methyl ether 7-O-arabinofuranosyl(1-6)-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenzavirus B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CXR protein, chicken"@en .
+
+<http://id.nlm.nih.gov/mesh/M0360575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-(2(G)-rhamnosylrutinoside)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440910>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(2,6-di-rhamnopyranosyl)-galactopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0266087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRGP2 protein, Petunia hybrida"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella typhimurium mitogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3,3'-di-O-alpha-L-rhamnoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M000657067>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella enterica subsp. VII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arthropod Antennae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000636209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCRK2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106582>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "fetal hemoglobin F(Ic)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011585>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intestine, Small"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autoimmune enteropathy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Libraries, Nursing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0592555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-alpha-L-rhamnopyranosyl-(1-6)-beta-D-galactopyranosyl-7-O-beta-D-sophoroside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alveolarin, Polyporus alveolaris"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ppe1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(3'-O-tigloyl)-alpha-L-rhamnopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0232827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycin N-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "apoptotic nuclease Mr 34,000"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-(alpha-L-rhamnose-(1-2)-beta-D-glucopyranosyl)-5-O-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015475>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-3-O-palmitate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-arabinopyranosyl-(1-6)-(2''-O-(E)-p-coumaroyl)-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Molecular Medicine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Salmonella typhimurium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3,4'-di-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "neuronal pentraxin receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0259868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza virus membrane protein (58-66)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alveolar Bone Grafting"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Upstream Stimulatory Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Endocytosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0064402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "helminthosporal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PPE68 protein, Mycobacterium tuberculosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-xylosyl-1-2-rhamnoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-(6-feruloyl-glucopyranosyl)-(1-2)-arabinopyranoside-7-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "bleomycinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCR 3787"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PCR-amplified p33 antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137527>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amiloride caproate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0558073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin-6-C-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trophoblastin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-gentiobioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation, Autologous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Death"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fetal Stem Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pcr1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H7N7 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Influenza A Virus, H7N3 Subtype"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arthropod Venoms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitory Postsynaptic Potentials"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "alveolar macrophage growth factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355024>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "upstream activation factor, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transplantation Conditioning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Neuronal Ceroid-Lipofuscinoses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "influenza C virus glycoprotein gpII"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000727>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alleles"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3,7,3',4'-tetrasulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bronchiolitis, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 7-O-6''-(E-caffeoyl)-beta-D-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trophoblastic Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "quercetin 3-O-(2-trans-caffeoyl)-alpha-L-arabinopyranosyl-(1-2)-beta-D-glucopyranoside"@en .

@@ -1,0 +1,67 @@
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix frbr: <http://purl.org/vocab/frbr/core#> .
+@prefix hyp: <http://example.org/hypothesis_ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/hypothesis_ontology> a owl:Ontology .
+
+hyp:contains a owl:ObjectProperty ;
+    rdfs:label "Resource representing a hypothesis's entity set."^^xsd:string ;
+    rdfs:comment "Links hypothesis with its entity set."^^xsd:string ;
+    rdfs:domain hyp:Hypothesis .
+
+hyp:hasHypothesis a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "Resource representing a document's hypothesis entity."^^xsd:string ;
+    rdfs:comment "Links paper with its hypothesis entity."^^xsd:string ;
+    rdfs:domain hyp:Paper ;
+    rdfs:range hyp:Hypothesis ;
+    rdfs:subPropertyOf frbr:part ;
+    owl:inverseOf hyp:isHypothesisOf .
+
+hyp:hasProvenance a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "Resource representing a paper's provenance."^^xsd:string ;
+    rdfs:comment "Links paper with its provenance."^^xsd:string ;
+    rdfs:domain hyp:Paper ;
+    rdfs:range hyp:Provenance ;
+    owl:inverseOf hyp:isProvenanceOf .
+
+hyp:isHypothesisOf a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "Resource representing a hypothesis' paper."^^xsd:string ;
+    rdfs:comment "Links hypothesis with paper it comes from."^^xsd:string ;
+    rdfs:domain hyp:Hypothesis ;
+    rdfs:range hyp:Paper ;
+    owl:inverseOf hyp:hasHypothesis .
+
+hyp:isProvenanceOf a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "Resource representing a provenance's paper."^^xsd:string ;
+    rdfs:comment "Links provenance with the paper it is provenance of."^^xsd:string ;
+    rdfs:domain hyp:Provenance ;
+    rdfs:range hyp:Paper ;
+    owl:inverseOf hyp:hasProvenance .
+
+hyp:Provenance a owl:Class ;
+    rdfs:label "Provenance"^^xsd:string ;
+    rdfs:comment "Provenance of the paper."^^xsd:string ;
+    rdfs:subClassOf owl:Thing .
+
+hyp:Hypothesis a owl:Class ;
+    rdfs:label "Hypothesis"^^xsd:string ;
+    rdfs:comment "Paper's hypothesis."^^xsd:string ;
+    rdfs:subClassOf owl:Thing ;
+    owl:equivalentClass [ a owl:Restriction ;
+            owl:minCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onProperty hyp:contains ] .
+
+hyp:Paper a owl:Class ;
+    rdfs:label "Research paper or article"^^xsd:string ;
+    rdfs:comment "General class for all papers"^^xsd:string ;
+    rdfs:subClassOf owl:Thing .
+

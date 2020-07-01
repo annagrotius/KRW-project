@@ -1,0 +1,1803 @@
+<http://id.nlm.nih.gov/mesh/M0108319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-N-acetylglucosamine receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Y-Linked"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rastim 30 DKV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-1,6-bisphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Bispecific"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid-binding protein 5, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024976>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, vif"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-binding lectin, Kidachi Aloe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490439>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrf2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD7 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasburicase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, sis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Mitochondrial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, bcl-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrf2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236181>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras-dependent mitogen-activated protein kinase kinase kinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systems Theory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439110>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Transgenic, Suicide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid transfer proteins, plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, rRNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COPD, Severe Early-Onset"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, rev"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528365>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complementary PR3 (138-169), human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD-Z protein, Gallus gallus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001361>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, T-Cell Receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333388>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose polyethylenimine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Tumor Suppressor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oasl2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, myc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rotavirus vaccine 89-12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A 4'-phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipidyl pseudopterane A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "raspailol B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, vpu"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-bovine serum albumin conjugate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammation Mediators"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645874>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasidasin II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome-Wide Association Study"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Wilms Tumor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, fos"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chloroquine-N-oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457895>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASD2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASEF protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose-Binding Protein-Associated Serine Proteases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "genestifolioside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chloroquine(triphenylphosphine)gold(I)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-glucose-binding lectin, Cladrastis lutea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "autophagy-related protein 2 homolog A, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423513>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, pol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030334>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complications"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009086>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Dominant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001355>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556464>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Chloroplast"@en .
+
+<http://id.nlm.nih.gov/mesh/M0552641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Modifier"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Protein 8 Family"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrf1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Blocking"@en .
+
+<http://id.nlm.nih.gov/mesh/M0136473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose 1-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-1-phosphate guanylyltransferase (GDP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0431512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid peroxide-modified protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd7 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Haversian System"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Microbial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0022752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Virology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, p53"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, MDR"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522065>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Immobilized"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650510>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipidomics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid phosphate phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Causality"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A 1-phosphatase, Porphyromonas gingivalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "havanensin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518419>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RasGRP3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, fms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "diminazene aceturate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376367>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipidosin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMT-5 compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRF1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inhibitor of apoptosis 1 protein, Aedes triseriatus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systems Biology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid-associated sialic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphate rich phosphomannan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0006470>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Diminazene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RAS2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588441>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasd1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitory Concentration 50"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599133>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD8 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Catalytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd8 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Droplet Associated Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrp1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RasGEF1B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009117>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Switch"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, MHC Class II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-induced cytopathic protein 133, Acanthamoeba"@en .
+
+<http://id.nlm.nih.gov/mesh/M0426101>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rassf5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Antinuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637665>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, T-Cell Receptor alpha"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Suppressor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "genome-linked viral protein, potato virus Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannosesensitive haemagglutinin, Pseudomonas aeruginosa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, abl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0143701>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A disaccharide synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitor of Differentiation Protein 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASA2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544884>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF8 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "raspailol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL11A protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrp1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrf1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HAVCR2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, DCC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras-2 protein, Neurospora crassa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, MHC Class I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, env"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL11B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasagiline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0303501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-mannose-mannose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, BRCA1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0286733>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasd1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Heterophile"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras-dva1 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Reporter"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027746>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, APC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539170>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD1L protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0550888>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome Size"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, pX"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Lethal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Immediate-Early"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipids"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "geneserine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0089797>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027758>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systems Integration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasd2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0523198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrp2 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602234>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Neutralizing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534057>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid raft adaptor p18 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457734>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0293109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "genesine protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000653007>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RasGEF1B protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HAVCR1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASA1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028675>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, bcl-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357125>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus Vaccines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574183>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose 1-phosphate guanylyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMT1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447309>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Phospho-Specific"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Plastid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Overlapping"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501014>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGEF1A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, p16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0573333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009082>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, araC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HAV peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitor of Apoptosis Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548835>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid storage droplet protein 5, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012547>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Antiphospholipid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0555917>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras-dva2 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025413>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0245237>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0052009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid mobilizing substance"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Duplicate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214728>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, T-Cell Receptor beta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0504186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000608319>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Havcr1protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328255>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras-GRF1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029755>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Essential"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, erbB-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Metabolism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297012>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336026>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras-interacting protein 3, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Monoclonal, Murine-Derived"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613430>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137241>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose 6-sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Higher Nervous Activity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471556>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RasGAP1 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635827>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chdoitunggarcinone J"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Protein 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468127>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASIP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0477929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ternary Complex Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0020981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Systems Analysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0421609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome Components"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Microbial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inhibitor of apoptosis, Nucleopolyhedrovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Monoclonal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose(2)-mannosyltransferase-I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061444>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid peroxidation inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640949>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Focused Assessment with Sonography for Trauma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, jun"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chloroquine diorotate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Neurofibromatosis 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Insect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, vpr"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, mos"@en .
+
+<http://id.nlm.nih.gov/mesh/M0236130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genesis Visible Light-Cured Resin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129476>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M000618767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF7 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose N-acetylgalactosamine-4-sulfate receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cmtm2b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, ras"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid raft adaptor p18 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipidoses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rassf9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cmtm2a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-fucose-resistant hemagglutinin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, src"@en .
+
+<http://id.nlm.nih.gov/mesh/M0412169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose-Binding Lectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025377>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, RAG-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507136>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, erbB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Chloroplast"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023400>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Peroxidation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001352>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606306>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "autophagy associated protein Atg8, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0375254>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras85D protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028170>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, cdc"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463858>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "complementary human autoantigen proteinase-3 (105-201)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012548>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Bilayers"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542715>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd1l protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481286>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Anticardiolipin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026445>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, MCC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A 1-phosphatase, Rhizobium leguminosarum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphate protein p76, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Synthetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Accumulation Product"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025414>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Immunoglobulin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, X-Linked"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CmtB protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, T-Cell Receptor gamma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610427>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "havcr1 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid-linked oligosaccharides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520482>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD3 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitor of Differentiation Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009120>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0101913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose isomerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470459>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0392266>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMT3 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563901>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose 6-Phosphate Receptor Recognition Defect, Lebanese Type"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Intracisternal A-Particle"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543885>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid-Linked Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL12 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297013>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphate phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0585138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASA1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, myb"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471557>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASA4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasd2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0391669>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-phosphate-citronellol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, sry"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587689>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASA3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328027>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423516>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rassf3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000620062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187061>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-bis(inositolphospho)ceramide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0509778>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD4 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, erbB-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408730>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Havcr1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Mating Type, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001358>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536218>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasip1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009114>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Developmental"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Protein 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, nef"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras protein, Laccaria bicolor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL10A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Homeobox"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipidex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Severity of Illness Index"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496933>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasagenthi Lehyam"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inflammation modulatory protein, Cowpox virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RAS1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0453720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrp4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553084>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "havellockate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Neurofibromatosis 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0593736>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Droplets"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras GTPase-Activating Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469745>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331831>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid Z"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasG protein, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitor of Growth Protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASD1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000628998>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHDP-1 protein, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0577442>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Insect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560819>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammation of the whole uveal tract"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasa4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0296356>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "OASL protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016069>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Patients"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "inhibitory diffusible factor 45"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Mitochondrial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasfonin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002016>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL10B protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasgrp2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, BRCA2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009084>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611055>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD5 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0127638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras protein, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inbreeding"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492235>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMT-308"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras Homolog Enriched in Brain Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016070>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Patients' Rooms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Metabolism, Inborn Errors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid S, Staphylococcus epidermidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0539402>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Regulating Agents"@en .
+
+<http://id.nlm.nih.gov/mesh/M0479843>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasmussen Johnsen Thomsen syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104302>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013002>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose-6-Phosphate Isomerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chloroquine receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011307>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, erbA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genome, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Immunoglobulin Heavy Chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Mobilization"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, T-Cell Receptor delta"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Reassortant Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0190503>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose binding protein A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRP3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose-Binding Protein Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRF2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019278>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rotavirus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, rel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545225>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASL11A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose 6-phosphate N-acetylglucosamine ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0556300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Monoclonal, Humanized"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Metabolism Disorders"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Havcr2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0435201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRP4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000631179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHDI-340246"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A precursors, bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras guanine nucleotide releasing protein 4, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253934>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras64B protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481378>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ras-like protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Protein 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, tat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404473>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chloroquine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029329>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0214725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD-W protein, Gallus gallus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipiderm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Antineutrophil Cytoplasmic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0451031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oasl1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000679423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ras Guanine Nucleotide Exchange Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0162942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipidin-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0384642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasD protein, Dictyostelium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "chloroquine diphosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitor of Differentiation Protein 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0112844>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid IV"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AUTOPHAGY-RELATED11 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0472512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CHD1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0129478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0413583>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasp protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644504>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASD1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rasidasin I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Retinoblastoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nonsteroidal Anti-Androgens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0096094>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid transfer protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423512>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009109>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Regulator"@en .
+
+<http://id.nlm.nih.gov/mesh/M0372494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASGRP2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024137>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, gag"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499051>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inbreeding Depression"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602304>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid droplet protein 1, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASAL1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Autophagy-Related Protein-1 Homolog"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibodies, Anti-Idiotypic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rasmussen subacute encephalitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0381156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Complementary Therapies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0108790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "raspberry ketone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "virology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannosephosphates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009097>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genes, Immunoglobulin Light Chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTWNQMNL peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088903>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid A-associated protein, Bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipid Peroxides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510017>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RASSF6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0493123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inhibitory Postsynaptic Potentials"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTM6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167862>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "geneseroline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218318>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMTI protein, Cucurbita maxima"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chd64 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0205579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mannose-6-phosphate reductase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0128864>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "lipid-associating peptides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0114068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mannose-Binding Lectins"@en .

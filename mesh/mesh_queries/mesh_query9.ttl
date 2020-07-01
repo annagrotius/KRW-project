@@ -1,0 +1,2339 @@
+<http://id.nlm.nih.gov/mesh/M0004762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colinus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic AC6H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "anionic peroxidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206213>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein, San Miguel sea lion virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010868>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Renovascular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0529619>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocyclopyrachlormethyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557754>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-benzosuberone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043303>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyldithioacetic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582529>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CatSper1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 12"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001348>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibiotics, Antineoplastic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPER2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl methacrylate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370511>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl-isothiourea"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primate T-lymphotropic virus 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase yspI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-beta-benzoylpropionic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminolevulinic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Breast Neoplasms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 10"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycan sialylneolacto-N-tetraose c"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobutyrates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192941>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase K"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System y+L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048747>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl diphenylpropylacetate"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Heuristics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055240>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl cellulose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Sequence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cortex Fraxini"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminozolamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastroenteritis, Transmissible, of Swine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541500>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plaque, Amyloid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin-(4,8)-malvidin-3-O-glucoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6108B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 3874 H3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LESION INITIATION 2 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacetone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopentamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265956>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic APHE 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CatSper2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086148>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 2562"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274467>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African swine fever virus structural protein p14.5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Probability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoarabinose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0250129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminodantrolene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "anionic ligand-binding receptor, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000933>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoacetonitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554956>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pntB protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109084>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic PS 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 1233A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocarboxymuconate-semialdehyde decarboxylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminomuconate-Semialdehyde Dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0166264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic S 632-B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M000649710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Epigenome"@en .
+
+<http://id.nlm.nih.gov/mesh/M000594995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PNT100"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic G 418"@en .
+
+<http://id.nlm.nih.gov/mesh/M0352968>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africanene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PNT1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter ciceronei"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyridazin-3(2H)-one"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010863>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Portal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567683>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Chloromethyl Ketones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Segmentation syndrome 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethylisoselenouronium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Capsid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colibactin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminolevulinate aminotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutyraldehyde dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000957>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopeptidases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminodeoxychorismate lyase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379250>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport Systems, Neutral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Essential"@en .
+
+<http://id.nlm.nih.gov/mesh/M0463735>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoacylation"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Psychological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzenesulfonamidoquinolino-beta-cyclodextrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0191089>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminostigmine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic G0069A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0446536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoguanidine pyridoxal adduct"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropylsilane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 18"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519088>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethylglycyl PNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 25, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0373111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic H107"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacterium thunnarium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminosalicylic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethoxyvinylglycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223063>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pnt protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146389>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 80334 F"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467486>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "anionic polypeptide fraction, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027673>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Immunological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045829>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistinmethanesulfonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0189501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBV protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoadipoyl-cysteinyl-aminobutyrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242331>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase N, Streptococcus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminochlorambucil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527479>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin-(5,6-bc)-4beta-(4''-hydroxyphenyl)-dihydro-2(H)-pyranone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0103508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 1588"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catsperb protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase P3, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580921>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminolevulinate synthase, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibiotics, Antitubercular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tropism"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Biological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antioxidant biofactor AOB"@en .
+
+<http://id.nlm.nih.gov/mesh/M0141632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutylethylisoluminol-biotin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopentol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminomethyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565653>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyridazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126495>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistin heptapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000617873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino(5-(4-methoxyphenyl)-2-methyl-2-(thiophen-2-yl)-2,3-dihydrofuran-3-yl)methanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plaque, Atherosclerotic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6108C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0011491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Interferons"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Cardiovascular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BaseLine dental cement"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Motifs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0524935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase P, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000964>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopyridines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colicins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophenylacetylleucine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583333>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Hemochromatosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14873A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0283144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacyl-histidine dipeptidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459211>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CatSper2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097405>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminooxysuccinic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotridecane adipate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0254768>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin 5 protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067425>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminosilochrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension Resistant to Conventional Therapy"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter anthyllidis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vitrofil LC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151518>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System L"@en .
+
+<http://id.nlm.nih.gov/mesh/M0241873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminochrome 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0374878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBV-encoded nuclear antigen 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000946>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoglycosides"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein VP2, parvovirus B19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 13"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547912>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyrine, atropine, codeine, promethazine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic JI 20A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0306860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino-Cerv"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobeclamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Isomerases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158345>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopterin N-hydroxysuccinimide ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic APHE 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067437>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 3980"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004770>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cats"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis, Microscopic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248590>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 07F275"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyltrioxsalen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0117315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic A 19009"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000958>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminophenols"@en .
+
+<http://id.nlm.nih.gov/mesh/M0081404>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6734-21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379251>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport Systems, Acidic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443909>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoguanidinium pentafluorozirconate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0213781>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyldithiolano phalloidin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyl tetrahydronaphthalene biphenyl carboxamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase T protein, Thermus aquaticus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000928>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Peptides, and Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0385935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophenol triacetic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565659>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376048>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin gallate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic M-13-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzyltriethylenetetraaminohexaacetic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropyltrimethoxysilane-methylenebisacrylamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0459096>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-terminal pro-C-type natriuretic peptide, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536820>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyrine, dexamethasone, phenylbutazone, thiamine, vitamin B12 drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013976>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Structural"@en .
+
+<http://id.nlm.nih.gov/mesh/M0409867>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside 2'-N-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vitronectin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophenyl fluorescein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541453>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colicursi"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzyl-EDTA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catsper1-Related Nonsyndromic Male Infertility"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primate T-lymphotropic virus 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0167080>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 834-B1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447327>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminochelin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517956>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ColiMil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin 7-O-glucopyranoside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567678>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 24"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 27"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178276>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoadenosine triacid ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacylase III, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675192>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacterium mobile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminosalicylic Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379390>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System ASC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489847>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethylthioxotriazoline"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colidextribacter massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118889>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutylethylisoluminol succinyl cyclic AMP"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218236>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsidiol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0216149>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase yscXVI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568987>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoreductone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0071566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomalonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510399>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacrylonitrile(3-amino-2-propenenitrile)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475474>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin-(3'-O-3''')-afzelechin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000640062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgSF21 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Probability Theory"@en .
+
+<http://id.nlm.nih.gov/mesh/M0439564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-(3,4-dihydroxyphenyl)methylphosphonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin A lysis protein precursor, Bacteria"@en .
+
+<http://id.nlm.nih.gov/mesh/M0044860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyrine, barbital drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoacyltransferases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056695>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoquinuride"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370428>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoflavone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563610>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin (6'-8)-catechin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0073724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6016"@en .
+
+<http://id.nlm.nih.gov/mesh/M0579635>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf11 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPER1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513301>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPERB protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopolyoxyethylene polystyrene graft copolymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Pregnancy-Induced"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175828>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutyryl-threonyl-asparaginyl-tyrosyl-threonine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 28, Autosomal Recessive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000923>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Branched-Chain"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminocaproic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086772>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglutethimide phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567661>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 20"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Recombination, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminocoumarins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087562>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic Bu 2545"@en .
+
+<http://id.nlm.nih.gov/mesh/M0126496>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistin nonapeptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethylcarbamoyl-beta-cyclodextrin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin-(4alpha-8)-7-O-beta-xylopyranosyl-catechin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-3'-methylphenylnorharman"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062801>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopolystyrene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083654>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminohexyl-sepharose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-acid, glucose, and electrolyte solution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133688>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14952B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopherase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic A447 C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023411>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Statistical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013971>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Chemical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopyrine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Probability Learning"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africantriol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050079>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin immunity proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000543>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Horse Sickness"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoacridines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532707>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoacylase 1 deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vitronectin-binding protein, Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0157936>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catscum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566064>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocholine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminooxypentane-RANTES"@en .
+
+<http://id.nlm.nih.gov/mesh/M000622081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBV-BART10-3p microRNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacyl-tRNA-lipopolysaccharide transferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455008>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter aminovorans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminokrovin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151519>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport Systems"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Capsid Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocyclitol alpha-mannosidase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0569138>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino acetamide-NDI-lysyl-beta-alanyl-beta-alanyl-beta-alanyl-NDI-lysyl-adipamide-lysyl-NDI-beta-alanyl-beta-alanyl-beta-alanyl-lysyl-NDI-amino acetamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Pulmonary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacyl-tRNA hydrolase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminohippuric Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0507552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyl-ChemMatrix resin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PnTx4-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0583135>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminocaproates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575697>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyralid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444398>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethylphosphonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotadalafil"@en .
+
+<http://id.nlm.nih.gov/mesh/M0105059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic DC 14"@en .
+
+<http://id.nlm.nih.gov/mesh/M0067438>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 24010"@en .
+
+<http://id.nlm.nih.gov/mesh/M0040073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocinnamonitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Recombinational DNA Repair"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004771>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis, Ulcerative"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049172>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoplex 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic S 632-C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "cortexin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000959>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminophylline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport Systems, Basic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000597645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin-7-O-xyloside"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoadamantane nitrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyl tetrahydronaphthalene ketopiperazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528205>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-pyrazole 2,6-dichloro-N-ethyl benzamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic TAN 868 A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000929>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Sulfur"@en .
+
+<http://id.nlm.nih.gov/mesh/M0102600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethylpiperazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565534>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043650>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminochlorthenoxycycline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Econometric"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565323>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Factors VIII, IX And XI, Combined Deficiency of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000960>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopropionitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vitrogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461596>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF11 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Theoretical"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542274>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catsperg2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acyl-tRNA Synthetases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079707>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropylcobalamin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0519290>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-LNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602983>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Union"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSHL syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase, sulfhydryl dependent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0554953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "pntA protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethylpyrimidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139900>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic Y"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025968>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis, Ischemic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic PS 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104559>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic AS 40"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino-Acid N-Acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0125598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14931A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14885A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178362>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein P40, Infectious laryngotracheitis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0177668>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotris(methylenephosphonato)diamminoplatinum (II)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111937>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocaprolactam racemase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675193>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacterium colombiense"@en .
+
+<http://id.nlm.nih.gov/mesh/M000670199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colibacter massiliensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0063796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotics M-4365"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004765>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colipases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0159975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibiotic 308"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567680>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 16"@en .
+
+<http://id.nlm.nih.gov/mesh/M0433896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoperezone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0151375>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBVP protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyl-dimethyl-phosphine oxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0122451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-terminal disulfide knot"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antioxidant Response Elements"@en .
+
+<http://id.nlm.nih.gov/mesh/M0050660>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophenazone-2-hydroxyquinoline sulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300354>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoindanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Substitution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156984>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 4181-B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase My, Mycoplasma salivarium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139658>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside 2''-phosphotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218726>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside phosphoribosyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside NB84"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542268>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl nitrate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Cyclic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0267708>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein p88, Hv190SV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370134>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Basic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic M-4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072424>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropanol racemase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0094072>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Genetic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-hexyl-amino-propyltri-methoxysilane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopyrine N-Demethylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464383>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin S8, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0208719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoplast KFA5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 26"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297284>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic AFC-BC11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzanthrone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Horse Sickness Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopurvalanol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146525>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14873G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0001491>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antioxidants"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Acidic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Nursing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "glycanase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455009>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter aganoensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0441535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzoic acid-7-O-(1,6-O-glucopyranosyl)-glucopyranosyl ester"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088913>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic complex JI-20"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010866>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Renal"@en .
+
+<http://id.nlm.nih.gov/mesh/M000636552>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistin A, Paenibacillus polymyxa JB05-01-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0098801>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminohexyl-2-hydroxyethylmethacrylate polymer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminohydrolases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside 4'-adenylyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0095809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic JI 20B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049227>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic SS 56C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Metabolism, Inborn Errors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgSF8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178731>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminosteril-hepa"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511728>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyl pyrrolotriazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564226>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 9"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 23"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis, Collagenous"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotroponate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004742>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379253>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antibiotic Prophylaxis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513761>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPER3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutane bisphosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0055249>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminosol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0520350>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomebendazole"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 3874 H1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066535>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colibacterin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0207869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein VP26, herpes simplex virus type 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265954>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic APHE 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0043651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminochlorthenoxazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic FK 089"@en .
+
+<http://id.nlm.nih.gov/mesh/M0092287>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropylon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 21"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495540>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocandin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBV-associated membrane antigen, Epstein-Barr virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0297882>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside N(3')-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000931>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Alcohols"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catsup protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic X 14873H"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacylase I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0003638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catechin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0422569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminohydroxamic acid lysinehydroxamic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0370111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Aromatic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0170451>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 88617"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter niigataensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367019>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethane diphosphonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0010861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Malignant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004766>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coliphages"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Catsper1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 5590"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075113>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic complex 4041"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000943>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoethylphosphonic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein VP1, parvovirus B19"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567681>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 15"@en .
+
+<http://id.nlm.nih.gov/mesh/M0371154>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyropheophorbide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514841>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzothiazole compound"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Animal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "catechin sulfate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminodeoxychorismate synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0248164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoadipoyl-cysteinyl-allylglycine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158649>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropylcysteine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0110642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6643-X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467248>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "africanol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin D immunity protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminohydroxy epoxybenzoxocin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026042>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Educational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocaproate esterase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0120053>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-terminal parathyroid hormone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301567>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminosterol 1436"@en .
+
+<http://id.nlm.nih.gov/mesh/M0290501>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379670>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System y+"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colivelin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0145488>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic A 47934"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647126>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IgSF9b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0076790>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropyl silica gel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacyl-tRNA synthetase-associated protein p38"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386782>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primate T-lymphotropic virus 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminooxyacetic Acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0066083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoparathion"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331940>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein, Cricket paralysis virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000925>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Diamino"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568272>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobenzoates"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein p72, African swine fever virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0354106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Neutral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic I-11"@en .
+
+<http://id.nlm.nih.gov/mesh/M0062803>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotricycline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0147798>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic A447 D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0056372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotrideoxybutirosin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013973>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Molecular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179624>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic AK 165-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoquinolines"@en .
+
+<http://id.nlm.nih.gov/mesh/M0362541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EBVD protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0204716>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "anionic polypeptide fraction, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0048456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyl-aminopropyl-trimethoxysilane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Swine Fever"@en .
+
+<http://id.nlm.nih.gov/mesh/M0387343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-polyethyleneoxide-sulfonate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Economic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside adenyltransferase AadD, methicillin-resistant Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0229785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethylcysteine sulfoxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF6 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510801>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocyclopentenol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoaryl polyacrylamide-nylon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0580164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vitromolar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethyldipyrrylmethane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0226541>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase Ey, Gallus gallus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 80334 C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 460"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547945>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophyline, amobarbital, pseudophedrine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport System X-AG"@en .
+
+<http://id.nlm.nih.gov/mesh/M0505160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin E5 protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistin B, Paenibacillus polymyxa JB05-01-1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282846>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein, Physalis mottle virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000949>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoimidazole Carboxamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478951>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IAV protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0379157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocyclitol adenylyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0444962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Continental Ancestry Group"@en .
+
+<http://id.nlm.nih.gov/mesh/M0080677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic SF 1933"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097481>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colistinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0058115>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomalononitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colitose"@en .
+
+<http://id.nlm.nih.gov/mesh/M0494081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PNT1 protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 4181-A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009018>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gastroenteritis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6108D"@en .
+
+<http://id.nlm.nih.gov/mesh/M0139865>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic K 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000950>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoisobutyric Acids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminorex fumarate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0567627>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 22"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455264>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colitis, Lymphocytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Anatomic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0514129>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminotroponiminate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0171893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobutylhomospermidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0442212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoproline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000920>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Oxidoreductases"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African cassava mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminodehydrochloramphenicol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPER4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0566260>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Aciduria with Mental Deficiency, Dwarfism, Muscular Dystrophy, Osteoporosis, and Acidosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0002626>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Americans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0181490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 6108A1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0161759>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropylmethylpropyl-bleomycin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0548506>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzoic acid, calcium pantothenate, chloroquine, quinacrine, pyridoxine drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0468703>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethylene-bisphosphonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137171>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomenthylnorepinephrine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0156992>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic M 14659"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000962>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminopterin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-propyl-triethoxysilane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000932>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Sugars"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoxide WS 35"@en .
+
+<http://id.nlm.nih.gov/mesh/M0070852>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminodeoxygluconate dehydratase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0100642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "coligenoid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0135995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase W"@en .
+
+<http://id.nlm.nih.gov/mesh/M0158542>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside N(6')-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocyclopyrachlor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0440107>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf11protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106914>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophylline, cycloclenbutrerol, diphenydramine, phenobarbital drug combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin receptor, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf4b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobacter lissarensis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0397242>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoplatin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0137756>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colibiogen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169321>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside 6-adenylyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0109807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic C 19393E5"@en .
+
+<http://id.nlm.nih.gov/mesh/M0521600>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino-p-hydroxybenzylideneimidazolinone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Colistin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0099447>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 2928"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic PS 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000944>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminoglutethimide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0155551>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside N1-acetyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0470160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf4c protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hypertension, Diastolic, Resistance to"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027285>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Superantigens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0091028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoimidazole carboxamide phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoacylase III, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027647>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Primate Diseases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0527387>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "colicin Y protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EHEC-hlyA protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Organizational"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045472>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopenicillanic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0104996>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic 1107"@en .
+
+<http://id.nlm.nih.gov/mesh/M0390031>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropioaldehyde dehydrogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0490741>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocarbene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489078>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopropyl-Si MCM-41"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inflammatory Bowel Disease 8"@en .
+
+<http://id.nlm.nih.gov/mesh/M0133257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminomethanesulfonic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328095>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acid Transport Disorders, Inborn"@en .
+
+<http://id.nlm.nih.gov/mesh/M000621155>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Spatial Interaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0195743>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopeptidase C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amino Acids, Dicarboxylic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0513376>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CATSPER3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0270090>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopotentidine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0237604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic M-3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0559310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminobenzamide cysteine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminopyridine-3,5-dicarbonitrile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065023>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoglycoside 66-40C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Igsf5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0013974>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Models, Neurological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119804>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino sugar U 7"@en .
+
+<http://id.nlm.nih.gov/mesh/M000645982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminophosphine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminohydroxyacetic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000968>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminorex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0049121>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminocarb"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminobiphenyl Compounds"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000546>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African Swine Fever Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455422>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amino propynyl benzoic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0383677>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoalcoholphosphotransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0118664>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoethyldextran"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084182>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoquinolone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406059>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "IGSF8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0196811>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "vitronectin-like protein, Physarum polycephalum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012044>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Kinetics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0227392>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "capsid protein, Carnation Mottle virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331446>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COLIA1-PDGFB fusion protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675190>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aminomonas paucivorans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0211252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antibiotic APHE 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0083458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "aminoimidazole ribotide"@en .

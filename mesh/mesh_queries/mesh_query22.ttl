@@ -1,0 +1,2475 @@
+<http://id.nlm.nih.gov/mesh/M0544230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Small Untranslated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM33 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl naphthalene diimide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280930>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmatocyte-spreading peptide 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485602>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Editing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0518536>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase J, Thermus thermophilus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Antisense"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada-C protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Cys"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045489>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamon"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019178>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 28S"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Clinical Trial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219374>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GAG-BP protein, Streptococcus pyogenes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Binding Motifs"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS9 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Polymerase II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0280597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal X"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adapt73"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016978>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Cells"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557066>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Unrelated Donors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545282>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019160>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Virus Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Messenger, Stored"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085325>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-tyrosine phosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Psychological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575763>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PA-X protein, influenza A virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0405652>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M0291093>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456463>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS15 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0184075>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Polymerase Sigma 54"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-2 protein, Barley mild mosaic virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Splice Sites"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328032>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Laryngoscopes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467927>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0285875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase Z"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601641>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498507>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-associated protein 55, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0589132>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-binding protein-defense related 1, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028083>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Plant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376896>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA binding protein, Ciona intestinalis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492351>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell Maturation Antigen"@en .
+
+<http://id.nlm.nih.gov/mesh/M0564045>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell Immunodeficiency, Distal Limb Anomalies, And Urogenital Malformations"@en .
+
+<http://id.nlm.nih.gov/mesh/M0584729>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTSL5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Caps"@en .
+
+<http://id.nlm.nih.gov/mesh/M0499970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "elastase A, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644415>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0508571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251141>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GAGE1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454620>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antitumor-analgesic peptide, Buthus martensii"@en .
+
+<http://id.nlm.nih.gov/mesh/M0565185>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Clot Retraction Factor, Deficiency of"@en .
+
+<http://id.nlm.nih.gov/mesh/M0230875>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 3 coat protein, prune dwarf ilarvirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607699>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPB07479"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541558>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0265247>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM17 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163813>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex alpha Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500102>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA2a protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473346>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam10 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0261423>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS13 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482036>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnase4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM21 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009577>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft Survival"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363732>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydophila Infections"@en .
+
+<http://id.nlm.nih.gov/mesh/M0097988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptic Bonding Agent"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Lys"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029997>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Helicases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249905>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Membrane Calcium-Transporting ATPases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284674>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl maleimide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000635310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAT2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445391>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, Self-Splicing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572737>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmapheresis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483112>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase IV, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000618163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rna14 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0581869>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAPT 232"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamantane"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481642>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0528738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Immunity"@en .
+
+<http://id.nlm.nih.gov/mesh/M0199561>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft LC"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246723>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmalyte R"@en .
+
+<http://id.nlm.nih.gov/mesh/M0422769>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adalimumab"@en .
+
+<http://id.nlm.nih.gov/mesh/M0355123>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-cleaving DNA 10-23"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaline"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019209>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Leu"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456457>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM 10 protein, Bos taurus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000999>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amniotic Fluid"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European brown hare syndrome virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016368>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Permeability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0217967>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmanylinositol glycan"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516645>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamtsl2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019223>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Val"@en .
+
+<http://id.nlm.nih.gov/mesh/M0414791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS14 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0295566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM23 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560279>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch4 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0547271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts12 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497817>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS16 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019199>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Arg"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019167>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Messenger"@en .
+
+<http://id.nlm.nih.gov/mesh/M0258344>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0541931>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamabianthrone"@en .
+
+<http://id.nlm.nih.gov/mesh/M000677270>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts17 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada2a protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206572>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam7 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027757>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Helminth"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059565>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma-lyte 148"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333711>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-biotin-avidin-adduct"@en .
+
+<http://id.nlm.nih.gov/mesh/M000595777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS10 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625894>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thailandepsin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016981>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Volume"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028202>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Controlled Clinical Trial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163807>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 2, alpha 2 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gageotetrin C"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255116>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "oviduct-specific glycoprotein, Mesocricetus auratus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637802>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European bat 1 lyssavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0533353>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase V, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Induced Silencing Complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485604>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam1a protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adarb1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456484>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam15 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADARB1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000599772>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNAi Therapeutics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Glu"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amniotic Band Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336454>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam22 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183800>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag-fos protein, FBR murine sarcoma virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561701>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch1b protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0553300>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-binding protein-defense related 1, Arabidopsis thaliana"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029752>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Spliced Leader"@en .
+
+<http://id.nlm.nih.gov/mesh/M0393068>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA protocol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187315>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019194>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer"@en .
+
+<http://id.nlm.nih.gov/mesh/M0169217>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gageotetrin B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019162>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Viruses"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023273>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M0571738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS18 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484776>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl-OEG-fullerene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0042244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantanone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0075092>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylidene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249106>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseX25 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M000642966>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adal protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028657>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Satellite"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563041>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamantinoma Of Long Bones"@en .
+
+<http://id.nlm.nih.gov/mesh/M0289173>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNAIII inhibiting peptide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457426>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adap1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0366349>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase II largest subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antitumor B III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473381>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078785>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA(ribonucleoside-2'-)-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549643>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Isoforms"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119614>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Mitochondrial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 3' Polyadenylation Signals"@en .
+
+<http://id.nlm.nih.gov/mesh/M000601818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adap2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0478822>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029986>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft vs Tumor Effect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0538487>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 16S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175267>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase sigma A"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS5 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0452521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPBC215.O7C protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M000639312>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADARB1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0281499>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex delta Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA15 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087091>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Binding Protein EWS"@en .
+
+<http://id.nlm.nih.gov/mesh/M0221436>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BALF5 protein, Epstein-barr virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0337907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, U82 small nucleolar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481631>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM3A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0272293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM12 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BALF1 protein, Human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023632>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Probes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000679918>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAT3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0153257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-proteolipid complex"@en .
+
+<http://id.nlm.nih.gov/mesh/M0587544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS16 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009579>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft vs Host Reaction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "etiology"@en .
+
+<http://id.nlm.nih.gov/mesh/M0018988>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Directed DNA Polymerase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578370>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase MC2, Momordica charantia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019212>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Met"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456460>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam8 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000623560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantine phthalocyanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0516823>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase kappa, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0085676>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmagel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492587>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BALF1 protein, Epstein-Barr virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS4 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adametizine B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019156>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Processing, Post-Transcriptional"@en .
+
+<http://id.nlm.nih.gov/mesh/M0253566>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BALF2 protein, Human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0017244>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Ligase (ATP)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0061621>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, immune"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498550>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "continentalic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0336549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam23 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0225739>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAAV solution"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000338>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Biological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482153>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA aptamer SUP-A-004"@en .
+
+<http://id.nlm.nih.gov/mesh/M0183696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex gamma Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246725>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam6a protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0138382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmalyte A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0132718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0300433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gagaminine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam32 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0299637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SpBf protein, Strongylocentrotus purpuratus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0197342>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl-1,2-dioxetane phosphate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328028>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft vs Leukemia Effect"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Continental Ancestry Group"@en .
+
+<http://id.nlm.nih.gov/mesh/M0465836>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM12 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609719>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adametizine A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft Enhancement, Immunologic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0030833>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "trends"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA binding motif protein 46, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000607821>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAR1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572766>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl isothiocyanate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0239311>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA2 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ligand-Gated Ion Channels"@en .
+
+<http://id.nlm.nih.gov/mesh/M0408184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SpbR protein, Streptomyces pristinaespiralis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0149637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 2'-O-methyltransferase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000610783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPBC1271.09 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts6 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Skin Regeneration"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019151>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Precursors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0194071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylcyclopentanamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025317>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Binding Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA3 protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078396>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalogenase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0578848>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamant-1-ylglycyl-alanyl-isoglutamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0249860>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag precursor protein, HIV-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146907>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Proteins, Vesicular Transport"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485606>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam17 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0072073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Circular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163799>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex 1"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalopsychosine A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019206>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Gly"@en .
+
+<http://id.nlm.nih.gov/mesh/M0187128>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaprolol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0092006>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptic Radiopaque composite resin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Thr"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574263>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS-12 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019196>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Ala"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481993>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oviductus Ranae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Double-Stranded"@en .
+
+<http://id.nlm.nih.gov/mesh/M0358789>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Untranslated"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361931>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-cleaving DNA 8-17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam1b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369120>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS9 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590052>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA processing factor 5, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Algal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462870>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Proteins, Signal Transducing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251574>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag protein (129-135)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012553>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lipids"@en .
+
+<http://id.nlm.nih.gov/mesh/M0178995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal, 25S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Ser"@en .
+
+<http://id.nlm.nih.gov/mesh/M0124371>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0134186>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase II-binding proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M000600947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Recognition Motif Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148569>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "elastase receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019201>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Asp"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331859>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam24 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215050>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase A (1-123)-3-(2-naphthyl)alanine amide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0365372>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM28 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019177>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 23S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534490>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM19 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0204656>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmanylethanolamine desaturase"@en .
+
+<http://id.nlm.nih.gov/mesh/M000732609>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptaquin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602564>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAR1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175560>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adapalene"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS7 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019145>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Polymerase I"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasma membrane intrinsic protein 2 Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0496834>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adacel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016977>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000675718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adavosertib"@en .
+
+<http://id.nlm.nih.gov/mesh/M0574401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM15 protein (286-297)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0367751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM19 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0458494>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spb1 protein, Streptococcus agalactiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461189>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTSL4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000605363>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmablastic Lymphoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000341>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Physiological"@en .
+
+<http://id.nlm.nih.gov/mesh/M0276508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NOTCH4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0525105>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Amniotic Band Sequence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456462>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466509>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "rna1 protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0546707>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NOTCH1 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549815>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA granule protein 140, Danio rerio"@en .
+
+<http://id.nlm.nih.gov/mesh/M0045469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantoylcytarabine"@en .
+
+<http://id.nlm.nih.gov/mesh/M000602324>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAR2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0467926>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NOTCH3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609722>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adametacorenol B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019158>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Splicing"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts2 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028082>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Chloroplast"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019172>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Neoplasm"@en .
+
+<http://id.nlm.nih.gov/mesh/M0517712>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase LS, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019140>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Cap Analogs"@en .
+
+<http://id.nlm.nih.gov/mesh/M0188465>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA14 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0301617>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalogen-selective phospholipase A2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473401>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTSL3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0148412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adapromine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0090281>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-dependent ATPase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0562717>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adactylia, Unilateral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0560630>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Controlled Substances"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059040>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylmethamphetamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0369058>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ovidrel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam25 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0287578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM20 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009576>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft Rejection"@en .
+
+<http://id.nlm.nih.gov/mesh/M000603810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adapalene, Benzoyl Peroxide Drug Combination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0277265>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase Esigma(38)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0174603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPB4 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0238440>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM11 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0068568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Phytoestrogens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0084256>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamexina"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA"@en .
+
+<http://id.nlm.nih.gov/mesh/M0420289>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmapepsin IV"@en .
+
+<http://id.nlm.nih.gov/mesh/M0087111>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Binding Protein FUS"@en .
+
+<http://id.nlm.nih.gov/mesh/M0175277>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex beta Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M000647360>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts14 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0462403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam5 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537283>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antitumor A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmalogens"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059039>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylamphetamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0274258>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase beta subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0531975>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmacytoma anaplastic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0535514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPBC1773.02c protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0082003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantane diazirine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252777>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNAIII, Staphylococcus aureus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0557935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseZ protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0417033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0182710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gag protein p27, Simian immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549698>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Folding"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam17 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512663>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thailandolide B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0590760>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamite"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480634>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS12 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0475594>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Membrane Neurotransmitter Transport Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0215555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalopsychosine B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019208>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Ile"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456456>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM10 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0338220>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM30 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019222>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Tyr"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Stability"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445104>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAP2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019198>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Amino Acyl"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 1, mu 1 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481995>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0500293>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts13 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019166>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Heterogeneous Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361071>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Genomics"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 3'-terminal phosphate cyclase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0206571>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam7 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0219085>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalene"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019180>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 5S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532686>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adams Oliver syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0551261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Homologous Recombination"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016980>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Substitutes"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218046>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase sigma 70"@en .
+
+<http://id.nlm.nih.gov/mesh/M0273523>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "suilysin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0004108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydophila psittaci"@en .
+
+<http://id.nlm.nih.gov/mesh/M0357047>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase sigma(28)"@en .
+
+<http://id.nlm.nih.gov/mesh/M0338219>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM29 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Kallikrein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331521>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAP1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0086043>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasma protein Z"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292074>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag protein p19, Rous sarcoma virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0484485>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS15 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0405879>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Interference"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146904>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 2, mu 2 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0305108>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell Activating Factor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471648>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantan-1-yl-4-oxo-4H-chromene-6-carboxylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0059942>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantanecarboxylic acid"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482969>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 1, mu 2 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0359369>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase-related protein, Calystegia sepium"@en .
+
+<http://id.nlm.nih.gov/mesh/M0130830>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylamide-alanyl-isoglutamine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0515001>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "amniotic fluid peptide-1, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485603>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0026408>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Guide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000611597>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAR1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456483>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam15 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252961>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam12 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0356948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPB1 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Gln"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnaset2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019179>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 5.8S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0218691>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-cell alloantigen D8-17"@en .
+
+<http://id.nlm.nih.gov/mesh/M0537775>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM10 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461791>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM22 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613168>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS13 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Polymerase III"@en .
+
+<http://id.nlm.nih.gov/mesh/M0416549>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 5' Terminal Oligopyrimidine Sequence"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016979>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Exchange"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406955>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adansonia"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473233>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Spb70 protein, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0268417>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gag R10 protein, Coturnix coturnix"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596718>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gageotetrin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404545>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex sigma Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025825>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydophila pneumoniae"@en .
+
+<http://id.nlm.nih.gov/mesh/M000646568>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adafosbuvir"@en .
+
+<http://id.nlm.nih.gov/mesh/M0140305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-cell differentiation factor receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0288118>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase omega subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M000630637>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptive Clinical Trials as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0333169>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510713>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Validation Studies as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-Seq"@en .
+
+<http://id.nlm.nih.gov/mesh/M0163801>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0088435>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antitumor B"@en .
+
+<http://id.nlm.nih.gov/mesh/M0487076>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA aptamer B40"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019216>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Phe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473380>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NOTCH1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000612774>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mismatch Repair Endonuclease PMS2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0492195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell Activation Factor Receptor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0111784>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl nitroxide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0503893>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag Gene Products, Human Immunodeficiency Virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0119161>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, recombinant"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473744>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA2 protein, Plasmodium falciparum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019174>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481252>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA aptamer 58"@en .
+
+<http://id.nlm.nih.gov/mesh/M000648531>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thailandamide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019142>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Nucleotidyltransferases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0294004>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "mismatch-specific thymine uracil-DNA glycosylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027266>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Complementary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0543762>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Gases"@en .
+
+<http://id.nlm.nih.gov/mesh/M0106204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA primers"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606938>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BALF3 protein, human herpesvirus 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495049>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adal-1 adhesive"@en .
+
+<http://id.nlm.nih.gov/mesh/M0282805>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam18 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000614271>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase H2B protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rnase2b protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009578>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft vs Host Disease"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549623>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Cleavage"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363922>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam21 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0223020>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag protein p1, Human immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019187>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, U3 small nucleolar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0588139>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Controlled Before-After Studies"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572738>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS8 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0376878>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adalinine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0544593>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase II associated factor 1, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000606832>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA processing factor 7, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0014544>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Necrosis"@en .
+
+<http://id.nlm.nih.gov/mesh/M000641335>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein 1G, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000337>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adams-Stokes Syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450099>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam1a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616694>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Splicing Factors"@en .
+
+<http://id.nlm.nih.gov/mesh/M0246724>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam5 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008931>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gagging"@en .
+
+<http://id.nlm.nih.gov/mesh/M0386455>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASET2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0008433>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fibrinolysis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456458>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM15 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0121410>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Small Cytoplasmic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamanolol"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019224>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Viral"@en .
+
+<http://id.nlm.nih.gov/mesh/M0025468>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma Cell Granuloma, Pulmonary"@en .
+
+<http://id.nlm.nih.gov/mesh/M0328073>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Small Nucleolar"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497818>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS18 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0498120>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "notchless protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482972>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 1, sigma 1 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M000633412>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-binding protein QKI-5, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146883>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex 4"@en .
+
+<http://id.nlm.nih.gov/mesh/M0486939>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam28 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0179122>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal, 26S"@en .
+
+<http://id.nlm.nih.gov/mesh/M000596343>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTSL2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0264899>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase NE"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331611>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS8 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0079886>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA triphosphatase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292837>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-1 protein, Prune dwarf virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449806>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ada2b protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0534379>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts7 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0483347>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase 6, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0363640>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chlamydophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0460994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAL-2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0016982>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasmacytoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M000643915>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adavivint"@en .
+
+<http://id.nlm.nih.gov/mesh/M0302855>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasma clotting protein, Pacifastacus leniusculus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028203>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Controlled Clinical Trials as Topic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0540616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS19 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361672>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase P, spinach"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Cap-Binding Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0506787>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485605>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0021261>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thailand"@en .
+
+<http://id.nlm.nih.gov/mesh/M0252963>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam19 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0568257>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adar protein, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461305>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM18 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0028336>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Frameshifting, Ribosomal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0255320>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptic II"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292952>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GAGE7 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447796>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-directed RNA polymerase RRF-3, C elegans"@en .
+
+<http://id.nlm.nih.gov/mesh/M0423638>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTSL1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0469608>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam33 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0203478>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal, 12S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0464357>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0331845>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam26a protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0023947>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Keratinocytes"@en .
+
+<http://id.nlm.nih.gov/mesh/M000652838>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Bacterial"@en .
+
+<http://id.nlm.nih.gov/mesh/M0536310>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM12 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000676291>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamts9 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0501163>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS1 protein, Xenopus"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613120>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS1 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0113081>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase CI"@en .
+
+<http://id.nlm.nih.gov/mesh/M0442581>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Gag protein p12, moloney murine leukemia virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0065087>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adapiprazine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019218>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Pro"@en .
+
+<http://id.nlm.nih.gov/mesh/M0473382>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078786>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA ribose methylase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0074243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA inhibitor, tetrahymena"@en .
+
+<http://id.nlm.nih.gov/mesh/M0406100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Small Interfering"@en .
+
+<http://id.nlm.nih.gov/mesh/M0361810>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Validation Study"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445146>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Continental Population Groups"@en .
+
+<http://id.nlm.nih.gov/mesh/M0457339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts20 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0489204>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam9 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0450407>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA2b protein, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019200>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Asn"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019176>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Ribosomal, 18S"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613119>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS Proteins"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Phages"@en .
+
+<http://id.nlm.nih.gov/mesh/M0251144>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GAGE2A protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0545280>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADA protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481618>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Grafton demineralized bone matrix gel"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502340>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam22 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0474809>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamantinoma"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057100>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plasma, artificial FSB-FSP"@en .
+
+<http://id.nlm.nih.gov/mesh/M0403005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "notch1a protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024538>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Protozoan"@en .
+
+<http://id.nlm.nih.gov/mesh/M000632514>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamdec1 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0389229>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS4 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0192751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase SP6"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522230>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamant composite resin"@en .
+
+<http://id.nlm.nih.gov/mesh/M0263573>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-binding protein 4F, Drosophila"@en .
+
+<http://id.nlm.nih.gov/mesh/M0511195>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase S, psi(CS-NH)(4)-"@en .
+
+<http://id.nlm.nih.gov/mesh/M0456461>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam9 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0449210>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS20 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616517>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM10 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0549814>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA granule protein 140, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000609721>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adametacorenol A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019157>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Replicase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0575175>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adarotene"@en .
+
+<http://id.nlm.nih.gov/mesh/M000619892>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0418795>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM33 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0576767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thailandepsin A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0000339>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptation, Ocular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0461492>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam3 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0047330>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantanine"@en .
+
+<http://id.nlm.nih.gov/mesh/M0471948>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNaseLE protein, Tomato"@en .
+
+<http://id.nlm.nih.gov/mesh/M0561598>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Long Noncoding"@en .
+
+<http://id.nlm.nih.gov/mesh/M000650159>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell Lymphoma 3 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0378710>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA 3' End Processing"@en .
+
+<http://id.nlm.nih.gov/mesh/M0398753>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0522275>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase E, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0029143>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Archaeal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0447873>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM32 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0491706>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA debranching enzyme Dbr1, S cerevisiae"@en .
+
+<http://id.nlm.nih.gov/mesh/M0570003>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNase J, Arabidopsis"@en .
+
+<http://id.nlm.nih.gov/mesh/M0057555>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmatic slow plasmin inhibitor"@en .
+
+<http://id.nlm.nih.gov/mesh/M0542033>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPB 02229"@en .
+
+<http://id.nlm.nih.gov/mesh/M0332684>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adam18 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0404403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adaptor Protein Complex mu Subunits"@en .
+
+<http://id.nlm.nih.gov/mesh/M0009575>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Graft Occlusion, Vascular"@en .
+
+<http://id.nlm.nih.gov/mesh/M0454783>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS5 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0201366>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "oviductin"@en .
+
+<http://id.nlm.nih.gov/mesh/M000613902>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA Recognition Motif"@en .
+
+<http://id.nlm.nih.gov/mesh/M0582418>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS17 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000684037>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA-dependent RNA polymerase, coronavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0015599>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oviducts"@en .
+
+<http://id.nlm.nih.gov/mesh/M0233395>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal, 45S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0455403>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNASE3 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572767>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl-N-acetylcystein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019184>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Small Nuclear"@en .
+
+<http://id.nlm.nih.gov/mesh/M000644924>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADARB2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0572062>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ligand of Numb protein X2, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M000625191>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-Cell CLL-Lymphoma 10 Protein"@en .
+
+<http://id.nlm.nih.gov/mesh/M0488130>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS13 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0078397>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalogen desaturase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0198861>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch4 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0495589>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantylcarbonyl-arginyl-phenylalaninamide"@en .
+
+<http://id.nlm.nih.gov/mesh/M0432916>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SPBC776.08c protein, S pombe"@en .
+
+<http://id.nlm.nih.gov/mesh/M0142696>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmalogen synthase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0497935>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "B-cell inhibitory factor, Hyalomma asiaticum"@en .
+
+<http://id.nlm.nih.gov/mesh/M0007953>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Union"@en .
+
+<http://id.nlm.nih.gov/mesh/M0485607>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM17 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0512662>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "thailandolide A"@en .
+
+<http://id.nlm.nih.gov/mesh/M0443720>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MscS protein, E coli"@en .
+
+<http://id.nlm.nih.gov/mesh/M0502965>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantyl-globotriaosyl ceramide"@en .
+
+<http://id.nlm.nih.gov/mesh/M000637749>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thailand hantavirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0284520>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase II transcript release factor 2"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019207>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, His"@en .
+
+<http://id.nlm.nih.gov/mesh/M0053214>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasma protein fraction"@en .
+
+<http://id.nlm.nih.gov/mesh/M0146898>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adaptor protein complex 2, mu 1 subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0180243>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "gag protein p26, Human immunodeficiency virus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019221>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Trp"@en .
+
+<http://id.nlm.nih.gov/mesh/M0563164>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Myeloperoxidase Deficiency"@en .
+
+<http://id.nlm.nih.gov/mesh/M0510616>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch3 protein, zebrafish"@en .
+
+<http://id.nlm.nih.gov/mesh/M0271452>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAMTS1 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0445103>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adap2 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019197>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Transfer, Amino Acid-Specific"@en .
+
+<http://id.nlm.nih.gov/mesh/M0481994>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NOTCH2 protein, human"@en .
+
+<http://id.nlm.nih.gov/mesh/M0019165>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Fungal"@en .
+
+<http://id.nlm.nih.gov/mesh/M0292613>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase alpha subunit"@en .
+
+<http://id.nlm.nih.gov/mesh/M0024970>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, Catalytic"@en .
+
+<http://id.nlm.nih.gov/mesh/M0093147>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "antitumor protein, Streptomyces"@en .
+
+<http://id.nlm.nih.gov/mesh/M0466751>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts1 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M000616469>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adamantaneacetyl-(6-aminohexanoyl)3-(leucyl)3-vinylmethyl-sulfone"@en .
+
+<http://id.nlm.nih.gov/mesh/M0482692>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Notch3 protein, rat"@en .
+
+<http://id.nlm.nih.gov/mesh/M0107985>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "plasmakinase"@en .
+
+<http://id.nlm.nih.gov/mesh/M0256651>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA, ribosomal, 19S"@en .
+
+<http://id.nlm.nih.gov/mesh/M0027082>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Circovirus"@en .
+
+<http://id.nlm.nih.gov/mesh/M0279005>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM 11 protein, mouse"@en .
+
+<http://id.nlm.nih.gov/mesh/M0152872>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "adafenoxate"@en .
+
+<http://id.nlm.nih.gov/mesh/M0532685>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adams Nance syndrome"@en .
+
+<http://id.nlm.nih.gov/mesh/M0242885>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ADAM 3"@en .
+
+<http://id.nlm.nih.gov/mesh/M0212238>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RNA polymerase sigma G"@en .
+
+<http://id.nlm.nih.gov/mesh/M0012508>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ligands"@en .
+
+<http://id.nlm.nih.gov/mesh/M0480646>
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Adamts7 protein, mouse"@en .
