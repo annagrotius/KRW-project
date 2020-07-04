@@ -15,7 +15,8 @@ This project is by Marta Turek, Anna de Groot, and Marcin Michorzewski and is fo
 
 ## Running the Code
 All code is written in Python 3.7 notebooks and should be compiled in the order described hereunder. The library requirements are RDFlib, Owlready2, and SpaCy.
-NOTE: filepaths are written accodring to how they are saved by running the notebooks in order. 
+
+NOTE: filepaths are written according to how they are saved when running the notebooks in order. 
 
 #### Step 0:
 Ensure that all queries from sparql-queries/queries.rq were executed and that the respective output results are in the directory sparql-queries. The following files sould be there: abstract-info-instances.csv, bnode-instances.csv, hypothesis-info-instances.ttl, paper-info-instances.ttl, and provenance-info-instances.ttl.
