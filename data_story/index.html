@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>Hypothesis Generation Data Story</title>
+  <link rel="shortcut icon" href="https://stories.triply.cc/shared/imgs/triply/logo.svg">
+  <link href="https://stories.triply.cc/shared/imgs/triply/logo.png" rel="icon" type="image/png">
+  <link rel="stylesheet" href="https://stories.triply.cc/shared/css/main.css">
+  <link href="https://stories.triply.cc/shared/css/yasgui/stories.min.css" rel="stylesheet" type="text/css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+</head>
+<body>
+
+
+
+<div class="flex">
+    <div class="content story">
+      <h1>My data story</h1>
+      <p>See below a data story for the proposed hypothesis generation tool.</p>
+      <p>The researcher begins his search by finding hypothesis statements with variations of the term 'coronavirus'.
+        The hypothesis statement with the keyword is rendered in a user-friendly manner, as shown by the following examples.
+        In the tool itself, all hypothesis statements would be rendered in a user-friendly way. </p>
+      <img src="bird_mammalian_coronaviruses.png" alt="Bird mammalian coronaviruses">
+      <img src="taxonomically-related_coronaviruses.png" alt="taxonomically-related coronaviruses">
+      <img src="coronavirus_m_protein.png" alt="coronavirus m protein">
+      <!-- This query element fetches a Triply query configuration, and renders it on the html page-->
+      <p>This SPARQL query generates 29 relevant hypothesis statements </p>
+      <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/Hypothesis-Statements-Coronavirus-Search/3"></query>
+
+      <p>The researcher now decides to focus in on his chosen area of study which is proteins.
+        So he now searches for papers where 'coronavirus' and 'protein' appear together in the abstract.
+        He would like to isolate the titles also to better understand the context of the papers.
+        There are 6 results for this query </p>
+    
+      <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/Coronavirus-Protein-Query/1"></query>
+    </div>
+</div>
+
+
+
+
+<script src="https://nightly.yasgui.triply.cc/yasgui.polyfill.min.js"></script>
+  <script src="https://stories.triply.cc/shared/js/stories.min.js"></script>
+  <script type="text/javascript">
+    window.onload = function () {
+      window.stories()
+    };
+  </script>
+</body>
+</html>
