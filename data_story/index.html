@@ -17,24 +17,33 @@
 
 <div class="flex">
     <div class="content story">
-      <h1>My data story</h1>
-      <p>See below a data story for the proposed hypothesis generation tool.</p>
-      <p>The researcher begins his search by finding hypothesis statements with variations of the term 'coronavirus'.
-        The hypothesis statement with the keyword is rendered in a user-friendly manner, as shown by the following examples.
-        In the tool itself, all hypothesis statements would be rendered in a user-friendly way. </p>
+      <h1>Hypothesis Generation Tool</h1>
+      <p>Below is a data story demostrating how a researcher might use this proposed hypothesis generation tool. The use case revolves around a researcher named Anna, who is specializes specifically in protein components of the coronavirus. She hopes to better understand how the virus interacts with human cells and to unveil answers about its silent transmission between humans. </p>
+      <h2>Use Case:</h2>
+      <p>Anna has heard about the collection of coronavirus-related research papers from the CORD-19 Open dataset that has been organized in a hypothesis generation tool. Due to the large amount of publications currently, she finds the tool interesting and begins her search.
+      <p><strong>First</strong>, she decides to search for hypothesis statements with variations of the term 'coronavirus'. In the tool itself, the hypothesis statements with its keyword are rendered in a user-friendly manner, as shown by the following examples.</p>
+</p>
       <img src="bird_mammalian_coronaviruses.png" alt="Bird mammalian coronaviruses">
       <img src="taxonomically-related_coronaviruses.png" alt="taxonomically-related coronaviruses">
       <img src="coronavirus_m_protein.png" alt="coronavirus m protein">
       <!-- This query element fetches a Triply query configuration, and renders it on the html page-->
-      <p>This SPARQL query generates 29 relevant hypothesis statements </p>
+      <p>This actual SPARQL query generates 29 relevant hypothesis statements, reducing her search of papers from the 2,794,994 in the entire collection of papers drastically: </p>
       <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/Hypothesis-Statements-Coronavirus-Search/3"></query>
 
-      <p>The researcher now decides to focus in on his chosen area of study which is proteins.
-        So he now searches for papers where 'coronavirus' and 'protein' appear together in the abstract.
-        He would like to isolate the titles also to better understand the context of the papers.
-        There are 6 results for this query </p>
-    
-      <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/Coronavirus-Protein-Query/1"></query>
+
+
+      <p><strong>Second</strong>, Anna decides to focus in on her chosen area of study-- proteins.
+        She searches for papers where 'coronavirus' and 'protein' appear together in the abstract.
+        She would like to isolate the titles also to better understand the context of the papers.
+        There are 6 results for this query. Since the underlying knowledge graph contains provenance information, she can also see how recent the papers are. Moreover, she can conveniently use the paper url link to search for the paper. </p>
+      <query data-config-ref="https://krr.triply.cc/annadg/-/queries/paper-date/1"></query>
+
+
+      <p><strong>However</strong>, looking at the entire paper is not necessary since she can use this tool to examine the keywords in the papers instead.</p>
+
+      <p>She is curious in the most recent paper from 2020. The following query
+
+
     </div>
 </div>
 
