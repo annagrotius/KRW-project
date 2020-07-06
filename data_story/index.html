@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <title>Hypothesis Ideation Tool Generation - Data Story</title>
+  <title>Hypothesis Ideation Tool</title>
   <link rel="shortcut icon" href="https://stories.triply.cc/shared/imgs/triply/logo.svg">
   <link href="https://stories.triply.cc/shared/imgs/triply/logo.png" rel="icon" type="image/png">
   <link rel="stylesheet" href="https://stories.triply.cc/shared/css/main.css">
@@ -17,8 +17,12 @@
 
 <div class="flex">
     <div class="content story">
-      <h1>Hypothesis Generation Tool</h1>
+      <h1>Hypothesis Ideation Tool - A Data Story</h1>
       <p>Below is a data story demostrating how a researcher might use this proposed hypothesis generation tool. The use case revolves around a researcher named Anna, who is specializes specifically in protein components of the coronavirus. She hopes to better understand how the virus interacts with human cells and to unveil answers about its silent transmission between humans. </p>
+      <h2>Knowledge Graph Statistics:</h2>
+      <p>The following statistics provide a high level summary of some of the data available to Anna in the knowledge graph she is quering.</p>
+      <h3>MeSH concepts related to 'Coronavirus'</h3>
+      <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/MeSH-Preferred-Concepts-Coronavirus/2"></query>
       <h2>Use Case:</h2>
       <p>Anna has heard about the collection of coronavirus-related research papers from the CORD-19 Open dataset that has been organized in a hypothesis generation tool. Due to the large amount of publications currently, she finds the tool interesting and begins her search.
       <p><strong>First</strong>, she decides to search for hypothesis statements with variations of the term 'coronavirus'. In the tool itself, the hypothesis statements with its keyword are rendered in a user-friendly manner, as shown by the following examples.</p>
@@ -41,7 +45,11 @@
 
       <p><strong>However</strong>, looking at the entire paper is not necessary since she can use this tool to examine the keywords in the papers instead.</p>
 
-      <p>She is curious in the most recent paper from 2020. The following query
+      <p>She is curious about the most recent paper from 2020: <i>'Molecular basis of COVID-19 relationships in different species: a one health perspective'.  </i>
+       The following query relates the keywords identified in the hypothesis to either MeSH Preferred Concepts or to Wikidata named entities.
+       If any of the identified entities or MeSH concepts are interesting to her, she can continue her hypothesis ideation by gathering more information
+       via the links provided.</p>
+       <query data-config-ref="https://krr.triply.cc/MKTurek/-/queries/Keywords-Linked-with-Named-Entities-MeSH/1"></query>
 
 
     </div>
