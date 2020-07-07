@@ -42,6 +42,5 @@ Merge all graphs into the complete knowledge graph using Parsing/create_final_gr
 
 ## Accessing the Use Case
 The 'Hypothesis Generation Ideation' - Data Story can be accessed from the following link:<br/>
-https://students.mimuw.edu.pl/~mm371177/KRW-project/data_story/data_story.html
-
+[Hypothesis Data Story](https://students.mimuw.edu.pl/~mm371177/KRW-project/data_story/data_story.html)
 
