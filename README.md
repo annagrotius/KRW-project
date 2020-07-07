@@ -41,6 +41,7 @@ Run notebook mesh/mesh.ipynb to obtain the graph of the mesh triples.
 Merge all graphs into the complete knowledge graph using Parsing/create_final_graph.ipynb. The complete knowledge graph is the turtle file Parsing/outputs/complete_graph.ttl.
 
 ## Accessing the Use Case
-The 'Hypothesis Generation Ideation' - Data Story can be accessed from the following link: 
+The 'Hypothesis Generation Ideation' - Data Story can be accessed from the following link:
+https://students.mimuw.edu.pl/~mm371177/KRW-project/data_story/data_story.html
 
 
